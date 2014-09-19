@@ -19,10 +19,10 @@
      content to avoid any CSS collisions with our real content. -->
 <div class="wrap">
 
-  <header class="site-header"><div class="container">
+  <header class="site-header">
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
-    {% if page.url == baseurl %}
+    {% if page.url == site.url %}
     <div class="cover" style="background-image:url(/images/{{ page.image }})"><div class="cover-wrap">
     <div class="title-area"><div class="site-title">
     <h1 class="entry-title">{{ page.title }}</h1>
@@ -37,7 +37,7 @@
     </div></div>
     {% endif %}
 
-  </div></header>
+  </header>
 
 {{ content }}
 
