@@ -204,6 +204,11 @@ a.sidebar-copy-item:focus {
   border-color: transparent;
 }
 
+.sidebar-footer {
+  position: fixed;
+  bottom: 0px;
+}
+
 @media (min-width: 48rem) {
   .sidebar-item {
     padding: 1.5rem;
