@@ -11,18 +11,37 @@
 <link rel="author" href="https://plus.google.com//103163741383795666289/">
 <link rel="alternate" type="application/rss+xml" title="Bradonomics" href="http://bradonomics.github.io/atom.xml">
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic,700italic|Bitter|Oswald|Francois+One">
-<link rel="stylesheet" href="/css/poole.css">
-<link rel="stylesheet" href="/css/syntax.css">
-<link rel="stylesheet" href="/css/lanyon.css">
+<link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
 {% include sidebar.html %}
 <!-- The following wrap is so the content will shift when toggling the sidebar. We wrap the
      content to avoid any CSS collisions with our real content. -->
 <div class="wrap">
+
+  <header class="site-header"><div class="container">
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    {% if page.url == baseurl %}
+    <div class="cover" style="background-image:url(/images/{{ page.image }})"><div class="cover-wrap">
+    <div class="title-area"><div class="site-title">
+    <h1 class="entry-title" itemprop="headline">{{ page.title }}</h1>
+    </div></div>
+    <p>American Expat in Thailand • Permaculture Nerd • Brazilian Jiu-Jitsu Enthusiast • Philomath • Armchair Linguist • Occasional Blogger</p>
+    </div></div>
+    {% else %}
+    <div class="cover" style="background-image:url(/images/{{ page.image }})"><div class="cover-wrap">
+    <div class="title-area">
+    <h1 class="entry-title" itemprop="headline">{{ page.title }}</h1>
+    </div>
+    </div></div>
+    {% endif %}
+
+  </div></header>
+
+
+
       <div class="masthead">
-        <div class="container">
-          <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
           <h3 class="masthead-title">
             <a href="/" title="Home">{{ site.title }}</a>
@@ -34,7 +53,12 @@
       <div class="container content">
         {{ content }}
       </div>
-</div>
 
-  </body>
+      
+      
+      
+      
+      
+      </div>
+</body>
 </html>
