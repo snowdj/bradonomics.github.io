@@ -190,6 +190,20 @@ a.sidebar-nav-item:focus {
   border-color: transparent;
 }
 
+/* Sidebar items below copyright notice */
+.sidebar-copy-item {
+  display: block;
+  padding: .5rem 1rem;
+  border-top: 1px solid rgba(255,255,255,.1);
+}
+.sidebar-copy-item.active,
+a.sidebar-copy-item:hover,
+a.sidebar-copy-item:focus {
+  text-decoration: none;
+  background-color: rgba(255,255,255,.1);
+  border-color: transparent;
+}
+
 @media (min-width: 48rem) {
   .sidebar-item {
     padding: 1.5rem;
@@ -198,6 +212,10 @@ a.sidebar-nav-item:focus {
     padding-left:  1.5rem;
     padding-right: 1.5rem;
   }
+  .sidebar-copy-item {
+    padding-left:  1.5rem;
+    padding-right: 1.5rem;
+  }  
 }
 
 /* Hide the sidebar checkbox that we toggle with `.sidebar-toggle` */
@@ -253,10 +271,10 @@ a.sidebar-nav-item:focus {
 
 /* Slide effect
  *
- * Handle the sliding effects of the sidebar and content in one spot, seperate
+ * Handle the sliding effects of the sidebar and content in one spot, separate
  * from the default styles.
  *
- * As an a heads up, we don't use `transform: translate3d()` here because when
+ * As a heads up, we don't use `transform: translate3d()` here because when
  * mixed with `position: fixed;` for the sidebar toggle, it creates a new
  * containing block. Put simply, the fixed sidebar toggle behaves like
  * `position: absolute;` when transformed.

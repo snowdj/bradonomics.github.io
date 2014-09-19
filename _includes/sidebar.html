@@ -8,18 +8,12 @@ styles, `#sidebar-checkbox` for behavior. -->
 <p>{{ site.description }}</p>
 </div>
 <nav class="sidebar-nav" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
-{% for link in site.data.navigation %}<a class="sidebar-nav-item{% if link.url == page.url %} active{% endif %}" href="http://bradonomics.github.io{{ link.url }}">{{ link.title }}</a>{% endfor %}
-</nav>
+{% for link in site.data.navigation %}<a class="sidebar-nav-item{% if link.url == page.url %} active{% endif %}" href="http://bradonomics.github.io{{ link.url }}">{{ link.title }}</a>
+{% endfor %}</nav>
 <div class="sidebar-item">
-<p>
-&copy; {{ site.time | date: '%Y' }}. All rights reserved.
-
 <p>Brad West &copy; {{ site.time | date: '%Y' }}</p>
-<p><a href="http://bradonomics.com/privacy-policy/">Privacy Policy</a></p>
-<p><a href="http://bradonomics.com/terms-of-service/">Terms of Service</a></p>
-<p><a href="http://bradonomics.com/ftc-disclosures/">Disclosure Notice</a></p>
-
-
-</p>
+<p class="sidebar-copy-item"><a href="http://bradonomics.com/privacy-policy/">Privacy Policy</a></p>
+<p class="sidebar-copy-item"><a href="http://bradonomics.com/terms-of-service/">Terms of Service</a></p>
+<p class="sidebar-copy-item"><a href="http://bradonomics.com/ftc-disclosures/">Disclosure Notice</a></p>
 </div>
 </div>
