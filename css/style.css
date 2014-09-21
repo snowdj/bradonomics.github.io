@@ -842,3 +842,19 @@ a.pagination-item:hover {
 .css .o,
 .css .o + .nt,
 .css .nt + .nt { color: #999; }
+
+
+
+
+/* Stuff I don't know where to put for now */
+
+.wrap {
+    max-width: 68em;
+    margin-left: auto;
+    margin-right: auto
+}
+.wrap:after {
+    content: "";
+    display: table;
+    clear: both
+}
