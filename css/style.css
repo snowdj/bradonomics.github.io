@@ -101,87 +101,6 @@ h6 {
 	font-size: 1rem;
 }
 
-/* Titles
---------------------------------------------- */
-
-h1.entry-title {
-	font-size: 48px;
-	font-size: 3rem;
-	font-weight: 700;
-	font-family: 'Bitter', Georgia, serif;
-}
-
-h2.entry-title {
-	font-size: 30px;
-	font-size: 1.875rem;
-	font-weight: 700;
-	font-family: 'Bitter', Georgia, serif;
-}
-
-.entry-title a, h2.entry-title a {
-	color: #333;
-	text-decoration: none;
-}
-
-.entry-title a:hover, h2.entry-title a:hover {
-	color: #0A86BF;
-	text-decoration: none;
-}
-
-/*
-Site Header
----------------------------------------------------------------------------------------------------- */
-
-.site-header {
-	background-color: #fff;
-	padding: 0;
-	overflow: hidden;
-}
-
-.header-image .site-header {
-	padding: 0;
-}
-
-/* Title Area
---------------------------------------------- */
-
-.title-area {
-	float: left;
-	padding: 0;
-	width: 360px;
-}
-
-.site-title {
-	font-family: 'Oswald', sans-serif;
-	font-size: 35px;
-	font-size: 2.188rem;
-	line-height: 1;
-	margin: 0 0 20px;
-	margin: 0 0 1.25rem;
-	text-transform: uppercase;
-}
-
-.site-title a,
-.site-title a:hover {
-	background-color: #0A86BF;
-	color: #fff;
-	display: inline-block;
-	padding: 16px;
-	padding: 1rem;
-	text-decoration: none;
-}
-
-.title-area,
-.site-title {
-	width: 100%;
-}
-
-.header-image .site-description,
-.header-image .site-title a {
-	display: block;
-	text-indent: -9999px;
-}
-
 
 /* Body text */
 p {
@@ -405,7 +324,6 @@ td {
 .site-header {
   padding-bottom: 1rem;
   margin-bottom: 3rem;
-  border-bottom: 1px solid #eee;
 }
 .site-title {
   margin-top: 0;
