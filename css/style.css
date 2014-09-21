@@ -373,31 +373,6 @@ td {
         padding: 3em
     }
 }
-.title-area h1 {
-    font-size: 48px;
-    font-size: 3rem;
-    line-height: 1;
-    margin-bottom: 24px;
-    margin-bottom: 1.5rem
-}
-@media screen and (min-width: 48em) {
-    .title-area h1 {
-        font-size: 60px;
-        font-size: 3.75rem;
-        line-height: 1.2;
-        margin-bottom: 24px;
-        margin-bottom: 1.5rem
-    }
-}
-@media screen and (min-width: 62.5em) {
-    .title-area h1 {
-        font-size: 72px;
-        font-size: 4.5rem;
-        line-height: 1;
-        margin-bottom: 24px;
-        margin-bottom: 1.5rem
-    }
-}
 .title-area p {
     font-size: 20px;
     font-size: 1.25rem;
@@ -423,6 +398,51 @@ td {
         margin-bottom: 1.5rem
     }
 }
+
+/* Titles
+--------------------------------------------- */
+
+h1.entry-title {
+    font-family: 'Bitter', Georgia, serif;
+    font-size: 30px;
+    font-size: 1.875rem;
+   	font-weight: 700;
+    line-height: 1;
+    margin-bottom: 24px;
+    margin-bottom: 1.5rem
+}
+@media screen and (min-width: 48em) {
+    .h1.entry-title {
+        font-size: 48px;
+        font-size: 3rem;
+        line-height: 1.2;
+        margin-bottom: 24px;
+        margin-bottom: 1.5rem
+    }
+}
+
+h2.entry-title {
+    font-family: 'Bitter', Georgia, serif;
+    font-size: 30px;
+    font-size: 1.875rem;
+   	font-weight: 700;
+    line-height: 1;
+    margin-bottom: 24px;
+    margin-bottom: 1.5rem
+}
+
+.entry-title a,
+h2.entry-title a {
+	color: #333;
+	text-decoration: none;
+}
+
+.entry-title a:hover,
+h2.entry-title a:hover {
+	color: #0A86BF;
+	text-decoration: none;
+}
+
 
 /*
  * Sidebar
