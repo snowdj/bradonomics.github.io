@@ -848,12 +848,12 @@ a.pagination-item:hover {
 
 /* Stuff I don't know where to put for now */
 
-.wrap {
+.project-wrap {
     max-width: 68em;
     margin-left: auto;
     margin-right: auto
 }
-.wrap:after {
+.project-wrap:after {
     content: "";
     display: table;
     clear: both
