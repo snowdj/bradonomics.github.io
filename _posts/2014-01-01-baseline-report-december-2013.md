@@ -6,9 +6,7 @@ excerpt: Is it possible to live in Chiang Mai Thailand for $500 per month? Check
 categories: Baseline Report
 tags: []
 image:
-  feature:
-  teaser:
-  thumb:
+teaser:
 ---
 
 |Currency      |Total |

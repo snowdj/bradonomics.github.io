@@ -6,9 +6,7 @@ excerpt: My review and summary of Ryan Holiday's book Trust Me I'm Lying.
 categories: Reading List
 tags: [Books]
 image:
-  feature:
-  teaser:
-  thumb:
+teaser:
 ---
 
 Ryan Holiday works as the Director of Marketing at American Apparel. While working at American Apparel is his day job, he also advises many bestselling authors and multi-platinum musicians, people like Tucker Max and Robert Greene, in the art of media manipulation.

@@ -6,9 +6,7 @@ excerpt: A review of books I read and links I liked in June of 2013.
 categories: Reading List
 tags: [Books]
 image:
-  feature:
-  teaser:
-  thumb:
+teaser:
 ---
 
 I am a fan of Chris Anderson's _Long Tail_ and when I heard he had a new book on the "long tail of atoms," I wanted to take a look. In his new book [Makers](http://www.amazon.com/gp/product/B0083DJUMA/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0083DJUMA&linkCode=as2&tag=bnomics-20) he explores the world of 3D publishing and how this maker movement is likely to create a lot of disruption in the manufacturing industry---especially for smaller companies. He talks about how small, custom, manufacturing jobs that would have been sent to China, will likely be produced closer to the distribution points in the very near future. If you're interested in DIY this book is a good read, if you're in the manufacturing industry it's a must read.

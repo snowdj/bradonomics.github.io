@@ -6,9 +6,7 @@ excerpt: Click here to see my expense report for Chiang Mai Thailand.
 categories: Baseline Report
 tags: []
 image:
-  feature:
-  teaser:
-  thumb:
+teaser:
 ---
 
 In case you're new to the Baseline Report, these are my expenses living in Chiang Mai Thailand. And this is for two people; my girlfriend's expenses are also included.

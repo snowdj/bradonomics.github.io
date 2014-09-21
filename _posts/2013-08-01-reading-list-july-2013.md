@@ -6,9 +6,7 @@ excerpt: Books I read and links I found interesting in July of 2013.
 categories: Reading List
 tags: [Books]
 image:
-  feature:
-  teaser:
-  thumb:
+teaser:
 ---
 
 My introduction to Cal Newport's book [_So Good They Can't Ignore You_](http://www.amazon.com/gp/product/1455509124/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1455509124&linkCode=as2&tag=bnomics-20) was in a _Fast Company_ article which [I wrote about here](http://bradonomics.wordpress.com/2012/10/03/follow-passion-useful-advice/). I've been interested to read the book since but just haven't made time. I finally got a copy of the book and the _Fast Company_ article does not do it justice. I wrote a review of the book; [you can read it here](http://bradonomics.com/so-good-they-cant-ignore-you-book-review/). Before you read my review I'll preface it with this, if you're struggling to find meaning in your work or looking for a new career, you need to read this book.

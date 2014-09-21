@@ -6,9 +6,7 @@ excerpt: Living for less than $400 per month in Chiang Mai? $500 per month is no
 categories: Baseline Report
 tags: []
 image:
-  feature:
-  teaser:
-  thumb:
+teaser:
 ---
 
 With so many people talking about how much it cost to live in Chiang Mai, I thought I'd add some additional analysis this month.

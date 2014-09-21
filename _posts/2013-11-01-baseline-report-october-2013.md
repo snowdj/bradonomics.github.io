@@ -6,9 +6,7 @@ excerpt: The very first Baseline Report dispatched directly from Chiang Mai Thai
 categories: Baseline Report
 tags: []
 image:
-  feature:
-  teaser:
-  thumb:
+teaser:
 ---
 
 After Pat Flynn started publishing [monthly income reports](http://www.smartpassiveincome.com/tag/monthly-income-report/), a lot of entrepreneurs, especially those in the affiliate space, jumped on the bandwagon. When these reports first started I thought they were great but quickly started to see some limitations. As long as you intend to do something similar to the guy publishing the report, they can be helpful. But what if your business is completely different?

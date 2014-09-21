@@ -6,9 +6,7 @@ excerpt: Jeff Joslin talks about how and why to keep a journal for Brazilian Jiu
 categories: Podcast
 tags: [Jiu-Jitsu, MMA]
 image:
-  feature:
-  teaser:
-  thumb:
+teaser:
 ---
 
 In 2011 I started a podcast called FightMap. The podcast is now defunct but I enjoyed this talk with Jeff Joslin so much I wanted it available somewhere on the web. So here it is, as it ran on FightMap, on Bradonomics:

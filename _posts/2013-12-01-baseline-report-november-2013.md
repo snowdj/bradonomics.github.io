@@ -6,9 +6,7 @@ excerpt: $500 per month to live in Chiang Mai Thailand? Yeah, that's about right
 categories: Baseline Report
 tags: []
 image:
-  feature:
-  teaser:
-  thumb:
+teaser:
 ---
 
 Taking a look at October and November side-by-side, you can see the rent has dropped since I didn't have to pay the deposit this month. Otherwise things are about equal.

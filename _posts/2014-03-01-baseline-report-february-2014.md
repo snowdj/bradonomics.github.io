@@ -6,9 +6,7 @@ excerpt: Is it possible to live in Chiang Mai Thailand for $500 per month? Not t
 categories: Baseline Report
 tags: []
 image:
-  feature:
-  teaser:
-  thumb:
+teaser:
 ---
 
 As I've explained before, most of the time I've lived in Thailand I've been a university student so my living expenses have included tuition---this month the bill was due.

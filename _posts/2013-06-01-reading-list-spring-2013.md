@@ -6,9 +6,7 @@ excerpt: Books I read and reviewed during the spring of 2013.
 categories: Reading List
 tags: [Books]
 image:
-  feature:
-  teaser:
-  thumb:
+teaser:
 ---
 
 While I was WWOOFing in Japan I read [_The Millionaire Messenger_](http://www.amazon.com/gp/product/B005HF4DQA/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005HF4DQA&linkCode=as2&tag=bnomics-20) by Brendon Burchard. This was a great read and gave some great insights into the "guru industry." If you have no interest in the industry but want to be an author, this book gives good advice on building a platform. Most of the book is based on his experience becoming well known in this guru industry. And there are some candid moments.
