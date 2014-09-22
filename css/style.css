@@ -335,10 +335,8 @@ td {
   font-size: 35px;
   font-size: 2.188rem;
   line-height: 1;
-  margin: 0 0 20px;
-  margin: 8rem 0 0 1.25rem;
+  margin-top: 8rem;
   text-transform: uppercase;
-  text-align: center;
   color: #fff;
 }
 
@@ -536,9 +534,8 @@ a.sidebar-nav-item:focus {
   display: block;
   width: 2.2rem;
   padding: .5rem .65rem;
-  color: #505050;
-  background-color: #fff;
-  border-radius: 4px;
+  color: #fff;
+  background-color: #0a86bf;
   cursor: pointer;
 }
 .sidebar-toggle:before {
@@ -558,7 +555,7 @@ a.sidebar-nav-item:focus {
 .sidebar-toggle:active,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
   color: #fff;
-  background-color: #505050;
+  background-color: #000;
 }
 
 @media (min-width: 30.1rem) {
