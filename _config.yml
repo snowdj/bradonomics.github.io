@@ -18,6 +18,18 @@ gems:
   - jekyll-sitemap
 
 
+# Site navigation links
+
+navigation:
+- title: Home
+  url: /
+- title: About
+  url: /about/
+- title: Writing
+  url: /writing/
+- title: Projects
+  url: /projects/
+
 # Site owner
 owner:
   name: Brad West
