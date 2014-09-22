@@ -404,13 +404,18 @@ td {
 --------------------------------------------- */
 
 h1.entry-title {
+  background-color: #0a86bf;
+  display: inline-block;
+  padding: 16px;
+  padding: 1rem;
+  text-decoration: none;
   font-family: 'Oswald',sans-serif;
-  font-size: 30px;
-  font-size: 1.875rem;
+  font-size: 35px;
+  font-size: 2.188rem;
   font-weight: 700;
   line-height: 1;
-  margin-bottom: 24px;
-  margin-bottom: 1.5rem
+  color: #fff;
+  margin: 12rem 0;
 }
 @media screen and (min-width: 48em) {
   .h1.entry-title {
