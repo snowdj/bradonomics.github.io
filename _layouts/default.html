@@ -41,6 +41,13 @@
 
 <div id="page-wrapper">
 
+{% raw %}
+<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+and
+<link href="{{ site.baseurl }}/css/style.css" rel="stylesheet">
+{% endraw %}
+
+
 {{ content }}
 
 </div>
