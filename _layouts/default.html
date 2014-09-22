@@ -22,20 +22,23 @@
   <header class="site-header">
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
-    {% if page.permalink == / %}
+    {% if permalink == / %}
+    
     <div class="cover" style="background-image:url(/images/{{ page.image }})">
-    <div class="title-area">
     <div class="site-title">
     <h1 class="entry-title">{{ page.title }}</h1>
     </div>
+    <div class="bio-area">
     <p>American Expat in Thailand • Permaculture Nerd • Brazilian Jiu-Jitsu Enthusiast • Philomath • Armchair Linguist • Occasional Blogger</p>
-    </div></div>
+    </div>
+    </div>
+    
     {% else %}
-    <div class="cover" style="background-image:url(/images/{{ page.image }})">
-    <div class="title-area">
+    
+    <div class="cover" style="background-image:url(/images/{{ page.image }})"><div class="title-area">
     <h1 class="entry-title">{{ page.title }}</h1>
-    </div>
-    </div>
+    </div></div>
+    
     {% endif %}
 
   </header>
