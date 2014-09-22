@@ -404,22 +404,22 @@ td {
 --------------------------------------------- */
 
 h1.entry-title {
-    font-family: 'Bitter', Georgia, serif;
-    font-size: 30px;
-    font-size: 1.875rem;
-   	font-weight: 700;
-    line-height: 1;
-    margin-bottom: 24px;
-    margin-bottom: 1.5rem
+  font-family: 'Oswald',sans-serif;
+  font-size: 30px;
+  font-size: 1.875rem;
+  font-weight: 700;
+  line-height: 1;
+  margin-bottom: 24px;
+  margin-bottom: 1.5rem
 }
 @media screen and (min-width: 48em) {
-    .h1.entry-title {
-        font-size: 48px;
-        font-size: 3rem;
-        line-height: 1.2;
-        margin-bottom: 24px;
-        margin-bottom: 1.5rem
-    }
+  .h1.entry-title {
+    font-size: 48px;
+    font-size: 3rem;
+    line-height: 1.2;
+    margin-bottom: 24px;
+    margin-bottom: 1.5rem
+  }
 }
 
 h2.entry-title {
