@@ -584,6 +584,7 @@ a.sidebar-nav-item:focus {
  * Read more about it at http://meyerweb.com/eric/thoughts/2011/09/12/.
  */
 
+ /*
 .wrap,
 .sidebar,
 .sidebar-toggle {
@@ -591,6 +592,8 @@ a.sidebar-nav-item:focus {
       -ms-backface-visibility: hidden;
           backface-visibility: hidden;
 }
+*/
+
 .wrap,
 .sidebar-toggle {
   -webkit-transition: -webkit-transform .3s ease-in-out;
