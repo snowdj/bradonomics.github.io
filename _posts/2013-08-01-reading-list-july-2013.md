@@ -3,7 +3,7 @@ layout: article
 title: Reading List - July 2013
 modified:
 excerpt: Books I read and links I found interesting in July of 2013.
-categories: Reading List
+category: Reading List
 tags: [Books]
 image:
 teaser:

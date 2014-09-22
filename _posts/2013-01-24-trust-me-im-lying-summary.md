@@ -3,7 +3,7 @@ layout: article
 title: Trust Me I'm Lying - Book Summary
 modified: 2014-11-01
 excerpt: My review and summary of Ryan Holiday's book Trust Me I'm Lying.
-categories: Reading List
+category: Reading List
 tags: [Books]
 image:
 teaser:

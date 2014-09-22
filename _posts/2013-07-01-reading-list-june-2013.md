@@ -3,7 +3,7 @@ layout: article
 title: Reading List - June 2013
 modified:
 excerpt: A review of books I read and links I liked in June of 2013.
-categories: Reading List
+category: Reading List
 tags: [Books]
 image:
 teaser:

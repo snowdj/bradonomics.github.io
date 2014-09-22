@@ -3,7 +3,7 @@ layout: article
 title: So Good They Can't Ignore You - Book Review
 modified:
 excerpt: A review and summery of Cal Newport's Book So Good They Can't Ignore You.
-categories: Reading List
+category: Reading List
 tags: [Books, Careers]
 image:
 teaser:

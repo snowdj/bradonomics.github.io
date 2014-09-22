@@ -3,7 +3,7 @@ layout: article
 title: Monthly Expense Report for Chiang Mai Thailand - July 2014
 modified:
 excerpt: Living for less than $400 per month in Chiang Mai? $500 per month is no longer the exception, it's the rule.
-categories: Baseline Report
+category: Baseline Report
 tags: []
 image:
 teaser:

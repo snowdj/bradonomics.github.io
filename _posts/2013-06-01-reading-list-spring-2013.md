@@ -3,7 +3,7 @@ layout: article
 title: Reading List - March, April and May 2013
 modified:
 excerpt: Books I read and reviewed during the spring of 2013.
-categories: Reading List
+category: Reading List
 tags: [Books]
 image:
 teaser:

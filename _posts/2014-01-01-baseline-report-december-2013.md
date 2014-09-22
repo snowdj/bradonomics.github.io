@@ -3,7 +3,7 @@ layout: article
 title: Monthly Expense Report for Chiang Mai Thailand - December 2013
 modified: 2014-01-01
 excerpt: Is it possible to live in Chiang Mai Thailand for $500 per month? Check out the Baseline Report and find out.
-categories: Baseline Report
+category: Baseline Report
 tags: []
 image:
 teaser:
