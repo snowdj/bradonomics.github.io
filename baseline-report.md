@@ -1,6 +1,7 @@
 ---
 layout: article
 title: The Baseline Report from Bradonomics
+headline: The Baseline Report
 permalink: /baseline-report/
 modified: 2014-08-31
 excerpt: Is it possible to live in Chiang Mai Thailand for $500 per month? Check out the Baseline Report and find out.

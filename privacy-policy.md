@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Privacy Policy
+headline: Privacy Policy
 permalink: /privacy-policy/
 modified:
 excerpt:

@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Brad West on Language Learning
+headline: Thoughts on Language Learning
 permalink: /language-learning/
 modified:
 excerpt: I hope to introduce you to some thoughts on adult language learning that fall outside the standard techniques of translation and grammar study.

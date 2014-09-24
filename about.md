@@ -1,6 +1,7 @@
 ---
 layout: article
-title: My Name is Brad West
+title: About Brad West
+headline: My Name is Brad West
 permalink: /about/
 modified:
 excerpt: My name is Brad. These are my stories.

@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Terms of Service
+headline: Terms of Service
 permalink: /terms-of-service/
 modified:
 excerpt:

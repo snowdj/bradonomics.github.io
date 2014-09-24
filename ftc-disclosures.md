@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Disclosures
+headline: FTC and Other Disclosures
 permalink: /ftc-disclosures/
 modified:
 excerpt:
