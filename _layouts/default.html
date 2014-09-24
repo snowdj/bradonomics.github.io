@@ -16,20 +16,17 @@
 <body>
 {% include sidebar.html %}
 <div class="wrap">
-
-  <header class="site-header cover" style="background-image:url(/images/{{ page.image }})">
-    {% if page.url == site.baseurl %}<h1 class="site-title">{{ page.title }}</h1>
-    <div class="bio-area"><p>American Expat in Thailand • Permaculture Nerd • Brazilian Jiu-Jitsu Enthusiast • Philomath • Armchair Linguist • Occasional Blogger</p></div>
-    {% else %}
-    <div class="title-area">
-    <h1 class="entry-title">{{ page.title }}</h1>
-    </div>{% endif %}
-  </header>
-
+<header class="site-header cover" style="background-image:url(/images/{{ page.image }})">
+{% if page.url == site.baseurl %}<h1 class="site-title">{{ page.title }}</h1>
+<div class="bio-area"><p>American Expat in Thailand • Permaculture Nerd • Brazilian Jiu-Jitsu Enthusiast • Philomath • Armchair Linguist • Occasional Blogger</p></div>
+{% else %}
+<div class="title-area">
+<h1 class="entry-title">{{ page.title }}</h1>
+</div>{% endif %}
+</header>
 <div id="page-wrapper">
 {{ content }}
 </div>
-
 </div>
 <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 </body>
