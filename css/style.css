@@ -1159,6 +1159,7 @@ figure.third:after {
 /* Video iFrame Responsive */
 .video-embed {
   position: relative;
+  margin-bottom: 1rem;
   padding-bottom: 56.25%;
   height: 0;
   overflow: hidden;
