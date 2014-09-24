@@ -1024,8 +1024,13 @@ pre code {
   background-color: transparent;
 }
 
+.gist table {
+  margin-bottom: 0;
+}
 
-
+.gist pre {
+  font-size: inherit;
+}
 
 /* Stuff I don't know where to put for now */
 
