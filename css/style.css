@@ -312,8 +312,6 @@ optgroup {
   font-weight: bold;
 }
 
-
-
 /* Bradonomics Custom Styles
    ========================================================================== */
 
@@ -407,9 +405,12 @@ h6 {
 	font-size: 1rem;
 }
 
-
 /* Body text
    ========================================================================== */
+
+article {
+  margin-bottom: 4em;
+}
 
 p {
   margin-top: 0;
@@ -428,7 +429,6 @@ dt {
 dd {
   margin-bottom: .5rem;
 }
-
 
 /* Quotes
    ========================================================================== */
@@ -527,7 +527,6 @@ td {
     border-bottom: 1px dotted #fff
 }
 
-
 /* Wrapper
    ========================================================================== */
 
@@ -542,13 +541,27 @@ td {
   width: 100%;
 }
 
-
 /* Container
    ========================================================================== */
 
 /*
  * Center the page content.
  */
+
+#page-wrapper {
+    padding: 0 1.618em;
+    height: 100%;
+    width: 100%;
+    -webkit-overflow-scrolling: touch;
+    -webkit-transform: translate(0, 0);
+       -moz-transform: translate(0, 0);
+        -ms-transform: translate(0, 0);
+         -o-transform: translate(0, 0);
+            transform: translate(0, 0);
+    -webkit-transition: 500ms cubic-bezier(0.645, 0.045, 0.355, 1);
+       -moz-transition: 500ms cubic-bezier(0.645, 0.045, 0.355, 1);
+            transition: 500ms cubic-bezier(0.645, 0.045, 0.355, 1)
+}
 
 .container {
   max-width: 28rem;
@@ -568,7 +581,6 @@ td {
     max-width: 38rem;
   }
 }
-
 
 /* Site Header
    ========================================================================== */
@@ -591,7 +603,8 @@ td {
   background-color: #0a86bf;
 }
 
-/* Cover Image Area */
+/* Cover Image Area
+   ========================================================================== */
 
 .cover {
     background-position: center top;
@@ -642,7 +655,7 @@ td {
 }
 
 /* Homepage Bio Area
---------------------------------------------- */
+   ========================================================================== */
 
 .bio-area {
   max-width: 21rem;
@@ -652,7 +665,7 @@ td {
 
 
 /* Titles
---------------------------------------------- */
+   ========================================================================== */
 
 h1.entry-title {
   background-color: #0a86bf;
@@ -700,11 +713,11 @@ h2.entry-title a:hover {
 	text-decoration: none;
 }
 
-
 /*
  * Sidebar
- *
- * The sidebar is the drawer, the item we are toggling with our handy hamburger
+   ========================================================================== */
+
+/* The sidebar is the drawer, the item we are toggling with the hamburger
  * button in the corner of the page.
  *
  * This particular sidebar implementation was inspired by Chris Coyier's
@@ -822,8 +835,9 @@ a.sidebar-nav-item:focus {
 
 
 /* Slide effect
- *
- * Handle the sliding effects of the sidebar and content in one spot, separate
+   ========================================================================== */
+
+ /* Handle the sliding effects of the sidebar and content in one spot, separate
  * from the default styles.
  *
  * As a heads up, we don't use `transform: translate3d()` here because when
@@ -852,9 +866,8 @@ a.sidebar-nav-item:focus {
 }
 
 
-/*
- * Home Projects
- */
+/* Projects Area on Homepage
+   ========================================================================== */
  
 .project-section .post-title {
     font-size: 18px;
@@ -906,13 +919,13 @@ a.sidebar-nav-item:focus {
 
 /*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 30rem) {
 	.col { 
 		margin: 1% 0 1% 0%;
 	}
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 30rem) {
 	.span_3_of_3 {
 		width: 100%; 
 	}
@@ -924,27 +937,11 @@ a.sidebar-nav-item:focus {
 	}
 }
 
-
-/*
- * Articles
- */
-
-article {
-  margin-bottom: 4em;
-}
-
-/* Meta data line below post title */
-.post-date {
-  display: block;
-  margin-top: -.5rem;
-  margin-bottom: 1rem;
-  color: #9a9a9a;
-}
-
 /*
  * Pagination
- *
- * Super lightweight (HTML-wise) blog pagination. `span`s are provide for when
+   ========================================================================== */
+
+ /* Super lightweight (HTML-wise) blog pagination. `span`s are provide for when
  * there are no more previous or next posts to show.
  */
 
@@ -993,7 +990,9 @@ a.pagination-item:hover {
 }
 
 
-/* Code */
+/* Code
+   ========================================================================== */
+
 code,
 pre {
   font-family: 'Oxygen Mono', monospace;
@@ -1023,11 +1022,9 @@ pre code {
   color: inherit;
   background-color: transparent;
 }
-
 .gist table {
   margin-bottom: 0;
 }
-
 .gist pre {
   font-size: inherit;
 }
@@ -1104,31 +1101,22 @@ pre code {
 
 
 
+
+
 /* Stuff I don't know where to put for now */
 
-
-
-#page-wrapper {
-    padding: 0 1.618em;
-    height: 100%;
-    width: 100%;
-    -webkit-overflow-scrolling: touch;
-    -webkit-transform: translate(0, 0);
-       -moz-transform: translate(0, 0);
-        -ms-transform: translate(0, 0);
-         -o-transform: translate(0, 0);
-            transform: translate(0, 0);
-    -webkit-transition: 500ms cubic-bezier(0.645, 0.045, 0.355, 1);
-       -moz-transition: 500ms cubic-bezier(0.645, 0.045, 0.355, 1);
-            transition: 500ms cubic-bezier(0.645, 0.045, 0.355, 1)
+/* Meta data line below post title */
+.post-date {
+  display: block;
+  margin-top: -.5rem;
+  margin-bottom: 1rem;
+  color: #9a9a9a;
 }
 
 
 
-
-
-
-/* Images */
+/* Images
+   ========================================================================== */
 
 img {
     max-width: 100%;
@@ -1229,7 +1217,9 @@ figure.third:after {
 }
 
 
-/* Video iFrame Responsive */
+/* Videos
+   ========================================================================== */
+
 .video-embed {
   position: relative;
   margin-bottom: 1rem;
@@ -1250,10 +1240,8 @@ figure.third:after {
   height: 100%;
 }
 
-
-
-
-/* Forms */
+/* Forms
+   ========================================================================== */
 
 fieldset {
     background: #f7f7f7;
@@ -1396,4 +1384,3 @@ input[type="submit"] {
     vertical-align: middle;
     white-space: nowrap
 }
-
