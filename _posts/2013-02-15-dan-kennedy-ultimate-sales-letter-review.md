@@ -1,6 +1,7 @@
 ---
 layout: article
 title: The Ultimate Sales Letter - Book Review
+headline: The Ultimate Sales Letter - Book Review
 modified: 2012-12-02
 excerpt: My review of Dan Kennedy's book The Ultimate Sales Letter.
 category: Reading List

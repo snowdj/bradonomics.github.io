@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Too Stupid to Learn a Second Language?
+headline: Too Stupid to Learn a Second Language?
 modified:
 excerpt: How I failed to learn Japanese, Spanish and Thai, and finally found a method of language learning that worked for me.
 category: Language Learning

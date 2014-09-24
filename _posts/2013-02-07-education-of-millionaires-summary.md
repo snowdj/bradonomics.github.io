@@ -1,6 +1,7 @@
 ---
 layout: article
 title: The Education of Millionaires - Book Summary
+headline: The Education of Millionaires - Book Summary
 modified: 2012-11-13
 excerpt: My summary of Micheal Ellsberg's book The Education of Millionaires.
 category: Reading List

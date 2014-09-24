@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Reading List - March, April and May 2013
+headline: Reading List - March, April and May 2013
 modified:
 excerpt: Books I read and reviewed during the spring of 2013.
 category: Reading List

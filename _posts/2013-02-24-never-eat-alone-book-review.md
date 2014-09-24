@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Never Eat Alone - Book Review
+headline: Never Eat Alone - Book Review
 modified:
 excerpt: Keith Ferrazzi has built one of the world's largest networks. In his book Never Eat Alone, he shows how you can do the same.
 category: Reading List
