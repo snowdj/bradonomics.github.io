@@ -10,13 +10,11 @@ image:
   thumb:
 ---
 
-<div style="padding-left: 50px;">**baselining<br>
----verb**</div>
+baselining
+---verb
 
-<div style="padding-left: 74px;">
-1.  Reducing your expenses as low as possible to increase your runway.<br>
-2.  Moving to a less expensive country while you launch your business.
-</div>
+: 1. Reducing your expenses as low as possible to increase your runway.
+2. Moving to a less expensive country while you launch your business.
 
 There are a lot of income reports online and so long as you intend to do something similar to the guy publishing it, those reports could be helpful. But what if your business is completely different? Those reports are less than useless. What might be useful to a bootstrapping entrepreneur is a report of baseline expenses.
 
