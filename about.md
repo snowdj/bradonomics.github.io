@@ -5,13 +5,11 @@ headline: My Name is Brad West
 permalink: /about/
 modified:
 excerpt: My name is Brad. These are my stories.
-image:
-  feature:
-  teaser:
-  thumb:
+image: bradonomics-cover.jpg
+teaser:
 ---
 
----that's me on the right.
+---that's me on above.
 
 For years I struggled with the idea of what work I was supposed to do. I'd go back and forth on doing something that really made me feel alive versus doing something because it had a bigger payout. Then in 2009, shortly after arriving in Thailand, I saw a video about food forests by Geoff Lawton. I already had ideas about personal finance that were counter to the mainstream, but Lawton's ideas on self-reliance via food forests sent me further down the rabbit hole. I used to see entrepreneurship, and the big payouts, as the only way to pursue what I really wanted in life, but now I could see another path to freedom.
 
@@ -27,8 +25,8 @@ And that's what things have been about for the last decade or so, finding freedo
 
 If you find yourself in Chiang Mai, I'm always up for a cup of coffee. Otherwise you can find me here:
 
-**Email:** [brad@bradonomics.com](mailto:brad@bradonomics.com)<br>
-**Twitter:** [@bradonomics](http://twitter.com/bradonomics)<br>
-**Google+:** [profile](https://plus.google.com/103163741383795666289/)<br>
-**Skype:** bradawest
+**Email:** [brad@bradonomics.com](mailto:brad@bradonomics.com)\\
+**Twitter:** [@bradonomics](http://twitter.com/bradonomics)\\
+**Google+:** [profile](https://plus.google.com/103163741383795666289/)\\
+**Skype:** bradawest\\
 **LinkedIn:** [profile](http://th.linkedin.com/pub/brad-west/31/aab/a0b/)
