@@ -1369,7 +1369,7 @@ input[type="search"] {
     -o-appearance: none;
     appearance: none
 }
-input[type="checkbox"],
+form input[type="checkbox"],
 input[type="radio"] {
     display: inline;
     margin-right: 6px;
