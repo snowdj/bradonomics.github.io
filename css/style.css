@@ -1119,24 +1119,71 @@ pre code {
    ========================================================================== */
 
 img {
-    max-width: 100%;
-    width: auto\9;
-    height: auto;
-    vertical-align: middle;
-    border: 0;
-    -ms-interpolation-mode: bicubic
+  max-width: 100%;
+  width: auto\9;
+  height: auto;
+  vertical-align: middle;
+  border: 0;
+  -ms-interpolation-mode: bicubic
 }
+img.centered {
+	display: block;
+	margin: 0 auto 26px;
+	margin: 0 auto 1.625rem;
+}
+img.alignnone {
+	margin-bottom: 26px;
+	margin-bottom: 1.625rem;
+}
+img.alignleft {
+	float: left;
+	text-align: left;
+  margin-right: 24px;
+  margin-right: 1.5rem;
+	margin-bottom: 26px;
+	margin-bottom: 1.625rem;
+}
+img.alignright {
+	float: right;
+	text-align: right;
+  margin-left: 24px;
+  margin-left: 1.5rem;
+	margin-bottom: 26px;
+	margin-bottom: 1.625rem;
+}
+img.pullleft {
+	float: left;
+	margin: 0 40px 40px 0;
+	margin: 0 2.5rem 2.5rem 0;
+}
+img.pullright {
+  float: right;
+  margin: 0 0 40px 40px;
+  margin: 0 0 2.5rem 2.5rem;
+}
+@media screen and (min-width: 64rem) {
+  img.pullleft {
+    float: left;
+    margin: 0 40px 40px -200px;
+    margin: 0 2.5rem 2.5rem -12.5rem;
+  }
 
+  img.pullright {
+    float: right;
+    margin: 0 -200px 40px 40px;
+    margin: 0 -12.5rem 2.5rem 2.5rem;
+  }
+}
 figure {
     margin-left: -1.618em;
     margin-right: -1.618em
 }
 @media screen and (min-width: 48em) {
-    figure {
-        margin-left: 0;
-        margin-right: 0;
-        position: relative
-    }
+  figure {
+      margin-left: 0;
+      margin-right: 0;
+      position: relative
+  }
 }
 figure:after {
     content: "";
