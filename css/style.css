@@ -1153,25 +1153,25 @@ img.alignright {
 }
 img.pullleft {
 	float: left;
-	margin: 0 40px 40px 0;
-	margin: 0 2.5rem 2.5rem 0;
+	margin: 0 24px 26px 0;
+	margin: 0 1.5rem 1.625rem 0;
 }
 img.pullright {
   float: right;
-  margin: 0 0 40px 40px;
-  margin: 0 0 2.5rem 2.5rem;
+  margin: 0 0 26px 24px;
+  margin: 0 0 1.625rem 1.5rem;
 }
 @media screen and (min-width: 64rem) {
   img.pullleft {
     float: left;
-    margin: 0 40px 40px -200px;
-    margin: 0 2.5rem 2.5rem -12.5rem;
+    margin: 0 24px 26px -200px;
+    margin: 0 1.5rem 1.625rem -12.5rem;
   }
 
   img.pullright {
     float: right;
-    margin: 0 -200px 40px 40px;
-    margin: 0 -12.5rem 2.5rem 2.5rem;
+    margin: 0 -200px 26px 24px;
+    margin: 0 -12.5rem 1.625rem 1.5rem;
   }
 }
 figure {
