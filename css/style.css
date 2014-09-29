@@ -1166,7 +1166,33 @@ img.pullright {
   margin: 0 0 26px 24px;
   margin: 0 0 1.625rem 1.5rem;
 }
-@media screen and (min-width: 62.5rem) {
+@media screen and (min-width: 48rem) {
+  img.pullleft {
+    float: left;
+    margin: 0 24px 26px -200px;
+    margin: 0 1.5rem 1.625rem -5rem;
+  }
+
+  img.pullright {
+    float: right;
+    margin: 0 -200px 26px 24px;
+    margin: 0 -12.5rem 1.625rem 1.5rem;
+  }
+}
+@media screen and (min-width: 55rem) {
+  img.pullleft {
+    float: left;
+    margin: 0 24px 26px -200px;
+    margin: 0 1.5rem 1.625rem -8rem;
+  }
+
+  img.pullright {
+    float: right;
+    margin: 0 -200px 26px 24px;
+    margin: 0 -12.5rem 1.625rem 1.5rem;
+  }
+}
+@media screen and (min-width: 65rem) {
   img.pullleft {
     float: left;
     margin: 0 24px 26px -200px;
