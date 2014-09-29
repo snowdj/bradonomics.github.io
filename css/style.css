@@ -423,6 +423,11 @@ ul, ol, dl {
   margin-bottom: 1rem;
 }
 
+ol ol,
+ul ul {
+	margin-bottom: 0;
+}
+
 dt {
   font-weight: bold;
 }
