@@ -1179,8 +1179,20 @@ img.pullright {
     margin: 0 -12.5rem 1.625rem 1.5rem;
   }
 }
-/*
 @media screen and (min-width: 65rem) {
+  img.pullleft {
+    float: left;
+    margin: 0 24px 26px -200px;
+    margin: 0 1.5rem 1.625rem -8.5rem;
+  }
+
+  img.pullright {
+    float: right;
+    margin: 0 -200px 26px 24px;
+    margin: 0 -12.5rem 1.625rem 1.5rem;
+  }
+}
+@media screen and (min-width: 72rem) {
   img.pullleft {
     float: left;
     margin: 0 24px 26px -200px;
@@ -1193,7 +1205,7 @@ img.pullright {
     margin: 0 -12.5rem 1.625rem 1.5rem;
   }
 }
-*/
+
 figure {
     margin-left: -1.618em;
     margin-right: -1.618em
