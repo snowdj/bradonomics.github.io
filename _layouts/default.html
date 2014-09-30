@@ -7,24 +7,15 @@
 <title>{{ page.title }}</title>
 <meta name="description" content="{{ page.excerpt }}">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<link rel="canonical" href="http://bradonomics.github.io{{ page.url }}">
-<link rel="author" href="https://plus.google.com//103163741383795666289/">
+<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+<link rel="author" href="https://plus.google.com/103163741383795666289/">
 <link rel="alternate" type="application/rss+xml" title="Bradonomics" href="http://bradonomics.github.io/atom.xml">
-<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic,700italic|Bitter|Oswald|Francois+One|Oxygen+Mono">
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,700,700italic|Bitter:400,700|Oswald:400,700|Francois+One|Oxygen+Mono">
 <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
 {% include sidebar.html %}
 <div class="wrap">
-<header class="site-header cover" style="background-image:url(/images/{{ page.image }})">
-{% if page.url == site.baseurl %}<h1 class="site-title">{{ page.title }}</h1>
-<div class="bio-area"><p>American Expat in Thailand • Permaculture Nerd • Brazilian Jiu-Jitsu Enthusiast • Philomath • Armchair Linguist • Occasional Blogger</p></div>
-{% else %}
-<div class="title-area">
-<h1 class="entry-title">{{ page.headline }}</h1>
-</div>{% endif %}
-</header>
-<div id="page-wrapper">
 {{ content }}
 </div>
 </div>

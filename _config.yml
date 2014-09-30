@@ -14,9 +14,7 @@ paginate: 5
 permalink: /:title/
 markdown: kramdown
 highlighter: pygments
-gems:
-  - jekyll-sitemap
-
+encoding: utf-8
 
 # Site navigation links
 

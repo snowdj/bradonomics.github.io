@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Monthly Expense Report for Chiang Mai Thailand - October 2013
+title: October 2013 Expense Report for Chiang Mai Thailand
 headline: Baseline Report October 2013
 modified:
 excerpt: The very first Baseline Report dispatched directly from Chiang Mai Thailand.

@@ -587,136 +587,6 @@ td {
   }
 }
 
-/* Site Header
-   ========================================================================== */
-
-.site-header {
-  padding-bottom: 1rem;
-  margin-bottom: 3rem;
-}
-.site-title {
-  display: inline-block;
-  padding: 16px;
-  padding: 1rem;
-  margin-top: 8rem;
-  font-family: 'Oswald',sans-serif;
-  font-size: 35px;
-  font-size: 2.188rem;
-  line-height: 1;
-  text-transform: uppercase;
-  color: #fff;
-  background-color: #0a86bf;
-}
-
-/* Cover Image Area
-   ========================================================================== */
-
-.cover {
-    background-position: center top;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    text-align: center;
-    color: #fff
-}
-
-.title-area {
-    padding: 1em
-}
-@media screen and (min-width: 48em) {
-    .title-area {
-        padding: 2em
-    }
-}
-@media screen and (min-width: 62.5em) {
-    .title-area {
-        padding: 3em
-    }
-}
-.title-area p {
-    margin-bottom: 24px;
-    margin-bottom: 1.5rem;
-    font-size: 20px;
-    font-size: 1.25rem;
-    line-height: 1.2;
-}
-@media screen and (min-width: 48em) {
-    .title-area p {
-        margin-bottom: 24px;
-        margin-bottom: 1.5rem;
-        font-size: 24px;
-        font-size: 1.5rem;
-        line-height: 1;
-    }
-}
-@media screen and (min-width: 62.5em) {
-    .title-area p {
-        margin-bottom: 24px;
-        margin-bottom: 1.5rem;
-        font-size: 32px;
-        font-size: 2rem;
-        line-height: 1.5;
-    }
-}
-
-/* Homepage Bio Area
-   ========================================================================== */
-
-.bio-area {
-  max-width: 21rem;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-
-/* Titles
-   ========================================================================== */
-
-h1.entry-title {
-  background-color: #0a86bf;
-  display: inline-block;
-  padding: 16px;
-  padding: 1rem;
-  margin: 12rem 0;
-  text-decoration: none;
-  font-family: 'Oswald',sans-serif;
-  font-size: 35px;
-  font-size: 2.188rem;
-  font-weight: 700;
-  line-height: 1;
-  color: #fff;
-}
-@media screen and (min-width: 48em) {
-  .h1.entry-title {
-    font-size: 48px;
-    font-size: 3rem;
-    line-height: 1.2;
-    margin-bottom: 24px;
-    margin-bottom: 1.5rem
-  }
-}
-
-h2.entry-title {
-    font-family: 'Bitter', Georgia, serif;
-    font-size: 30px;
-    font-size: 1.875rem;
-   	font-weight: 700;
-    line-height: 1;
-    margin-bottom: 24px;
-    margin-bottom: 1.5rem
-}
-
-.entry-title a,
-h2.entry-title a {
-	color: #333;
-	text-decoration: none;
-}
-
-.entry-title a:hover,
-h2.entry-title a:hover {
-	color: #0A86BF;
-	text-decoration: none;
-}
 
 /*
  * Sidebar
@@ -743,12 +613,13 @@ h2.entry-title a:hover {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: Francois One, sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
+  text-align: center;
 }
 @media (min-width: 30rem) {
   .sidebar {
@@ -781,7 +652,7 @@ h2.entry-title a:hover {
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: none;
-  background-color: rgba(255,255,255,.1);
+  background-color: #0a86bf;
   border-color: transparent;
 }
 
@@ -886,7 +757,7 @@ a.sidebar-nav-item:focus {
 .project-section {
 	clear: both;
 	padding: 0px;
-	margin: 0px;
+  margin: 2em 0;
 }
 
 /*  COLUMN SETUP  */
@@ -1169,27 +1040,27 @@ img.pullright {
 @media screen and (min-width: 58rem) {
   img.pullleft {
     float: left;
-    margin: 0 24px 26px -200px;
+    margin: 0 24px 26px -64px;
     margin: 0 1.5rem 1.625rem -4rem;
   }
 
   img.pullright {
     float: right;
-    margin: 0 -200px 26px 24px;
-    margin: 0 -12.5rem 1.625rem 1.5rem;
+    margin: 0 -64px 26px 24px;
+    margin: 0 -4rem 1.625rem 1.5rem;
   }
 }
 @media screen and (min-width: 68rem) {
   img.pullleft {
     float: left;
-    margin: 0 24px 26px -200px;
+    margin: 0 24px 26px -136px;
     margin: 0 1.5rem 1.625rem -8.5rem;
   }
 
   img.pullright {
     float: right;
-    margin: 0 -200px 26px 24px;
-    margin: 0 -12.5rem 1.625rem 1.5rem;
+    margin: 0 -136px 26px 24px;
+    margin: 0 -8.5rem 1.625rem 1.5rem;
   }
 }
 @media screen and (min-width: 80rem) {
@@ -1462,4 +1333,237 @@ input[type="submit"] {
     user-select: none;
     vertical-align: middle;
     white-space: nowrap
+}
+
+
+
+
+/* Book Covers
+   ========================================================================== */
+
+.book {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 3rem;
+}
+
+.book-img {
+  padding: 1rem;
+  border: solid;
+  margin: 1rem;
+  order: 2;
+  text-align: center;
+}
+
+.book-info {
+  padding: 1rem;
+  border: solid;
+  margin: 1rem;
+}
+
+@media (min-width: 48rem) {
+  .book {
+    max-width: 36rem;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3rem;
+  }
+
+  .book-img {
+    padding: 1rem;
+    border: solid;
+    margin: 1rem;
+    order: 2;
+  }
+
+  .book-info {
+    padding: 1rem;
+    border: solid;
+    margin: 1rem;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Site Header
+   ========================================================================== */
+
+header {
+  padding: 0 1.618em;
+  text-align: center;
+	position:relative;
+  margin-top: 2em;
+	width:100%;
+}
+   
+header.home-cover {
+  padding: 0;
+	position:relative;
+  margin-top: 0;
+	width:100%;
+}
+
+.title-area {
+  margin-top: 2rem;
+}
+.cover {
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
+  color: #fff;
+  width: 100%;
+}
+
+.site-header {
+  margin: 0;
+}
+
+.site-title {
+  display: inline-block;
+  padding: 16px;
+  padding: 1rem;
+  margin-top: 3rem;
+  font-family: 'Oswald',sans-serif;
+  font-size: 35px;
+  font-size: 2.188rem;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: #0a86bf;
+}
+
+.section-divider {
+  display: block;
+  width: 100px;
+  margin: 48px auto;
+  margin: 3rem auto;
+  border: 0;
+  border-top: 1px solid rgba(0,0,0,0.15);
+}
+
+
+
+.title-area p {
+  margin-bottom: 24px;
+  margin-bottom: 1.5rem;
+  font-size: 20px;
+  font-size: 1.25rem;
+  line-height: 1.2;
+}
+@media screen and (min-width: 48em) {
+  .title-area p {
+      margin-bottom: 24px;
+      margin-bottom: 1.5rem;
+      font-size: 24px;
+      font-size: 1.5rem;
+      line-height: 1;
+  }
+}
+@media screen and (min-width: 62.5em) {
+  .title-area p {
+      margin-bottom: 24px;
+      margin-bottom: 1.5rem;
+      font-size: 32px;
+      font-size: 2rem;
+      line-height: 1.5;
+  }
+}
+.book-title-area {
+  padding: 3rem 1em;
+}
+@media screen and (min-width: 48em) {
+  .book-title-area {
+      padding: 3rem 2em
+  }
+}
+@media screen and (min-width: 62.5em) {
+  .book-title-area {
+      padding: 3rem 3rem
+  }
+}
+
+/* Homepage Bio Area
+   ========================================================================== */
+
+.bio-area {
+  max-width: 21rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* Titles
+   ========================================================================== */
+
+h1.entry-title {
+  font-family: 'Bitter',Georgia,serif;
+  font-size: 48px;
+  font-size: 3rem;
+  font-weight: 700;
+}
+@media screen and (min-width: 48em) {
+  .h1.entry-title {
+    font-size: 48px;
+    font-size: 3rem;
+    line-height: 1.2;
+    margin-bottom: 24px;
+    margin-bottom: 1.5rem
+  }
+}
+
+h2.entry-title {
+    font-family: 'Bitter', Georgia, serif;
+    font-size: 30px;
+    font-size: 1.875rem;
+   	font-weight: 700;
+    line-height: 1;
+    margin-bottom: 24px;
+    margin-bottom: 1.5rem
+}
+
+.entry-title a,
+h2.entry-title a {
+	color: #333;
+	text-decoration: none;
+}
+
+.entry-title a:hover,
+h2.entry-title a:hover {
+	color: #0A86BF;
+	text-decoration: none;
+}
+
+
+
+
+
+
+.bg {
+  position: inherit;
+	width:100%;
+	height:100%;
+	z-index:-100;
+}
+
+.bg-full {
+  width: 100%;
+  height: 100%;
+	z-index:10;
+}
+
+.bg-full img {
+  width: inherit;
 }

@@ -1,13 +1,17 @@
 ---
-layout: article
-title: The Education of Millionaires - Book Summary
-headline: The Education of Millionaires - Book Summary
-modified: 2012-11-13
+layout: book
+title: The Education of Millionaires — Book Summary
+headline: The Education of Millionaires — Book Summary
+modified:
 excerpt: My summary of Micheal Ellsberg's book The Education of Millionaires.
 category: Reading List
 tags: [Books]
-image:
 teaser:
+book:
+  title:
+  author:
+  cover:
+amazon:
 ---
 
 I read an article by Micheal Ellsberg called [8 Steps to Getting What You Want... Without Formal Credentials](http://www.fourhourworkweek.com/blog/2011/09/29/8-steps-to-getting-what-you-want-without-formal-credentials/) when it was first published in September of 2011. At the time it didn't have much affect on me. A few weeks ago a friend recommended the article and I read it again. This time I was ready to hear Ellsberg's message. The book reviews on bradonomics are largely from the advice he gives in that article so I thought it fitting to read and summarize his book.

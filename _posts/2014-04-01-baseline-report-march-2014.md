@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Monthly Expense Report for Chiang Mai Thailand - March 2014
+title: March 2014 Expense Report for Chiang Mai Thailand
 headline: Baseline Report March 2014
 modified:
 excerpt: Click here to see my expense report for Chiang Mai Thailand.
