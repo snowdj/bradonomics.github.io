@@ -1,0 +1,171 @@
+/* Site Header
+   ========================================================================== */
+
+header {
+  padding: 0 1.618em;
+  text-align: center;
+	position:relative;
+  margin-top: 2em;
+	width:100%;
+}
+   
+header.home-cover {
+  padding: 0;
+	position:relative;
+  margin-top: 0;
+	width:100%;
+}
+
+.title-area {
+  margin-top: 2rem;
+}
+.cover {
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
+  color: #fff;
+  width: 100%;
+}
+
+.site-header {
+  margin: 0;
+}
+
+.site-title {
+  display: inline-block;
+  padding: 16px;
+  padding: 1rem;
+  margin-top: 3rem;
+  font-family: 'Oswald', sans-serif;
+  font-size: 35px;
+  font-size: 2.188rem;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: #0a86bf;
+}
+
+.section-divider {
+  display: block;
+  width: 100px;
+  margin: 48px auto;
+  margin: 3rem auto;
+  border: 0;
+  border-top: 1px solid rgba(0,0,0,0.15);
+}
+
+
+
+.title-area p {
+  margin-bottom: 24px;
+  margin-bottom: 1.5rem;
+  font-size: 20px;
+  font-size: 1.25rem;
+  line-height: 1.2;
+}
+@media screen and (min-width: 48em) {
+  .title-area p {
+      margin-bottom: 24px;
+      margin-bottom: 1.5rem;
+      font-size: 24px;
+      font-size: 1.5rem;
+      line-height: 1;
+  }
+}
+@media screen and (min-width: 62.5em) {
+  .title-area p {
+      margin-bottom: 24px;
+      margin-bottom: 1.5rem;
+      font-size: 32px;
+      font-size: 2rem;
+      line-height: 1.5;
+  }
+}
+.book-title-area {
+  padding: 3rem 1em;
+}
+@media screen and (min-width: 48em) {
+  .book-title-area {
+      padding: 3rem 2em
+  }
+}
+@media screen and (min-width: 62.5em) {
+  .book-title-area {
+      padding: 3rem 3rem
+  }
+}
+
+/* Homepage Bio Area
+   ========================================================================== */
+
+.bio-area {
+  max-width: 21rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* Titles
+   ========================================================================== */
+
+h1.entry-title {
+  font-family: 'Bitter',Georgia,serif;
+  font-size: 48px;
+  font-size: 3rem;
+  font-weight: 700;
+}
+@media screen and (min-width: 48em) {
+  .h1.entry-title {
+    font-size: 48px;
+    font-size: 3rem;
+    line-height: 1.2;
+    margin-bottom: 24px;
+    margin-bottom: 1.5rem
+  }
+}
+
+h2.entry-title {
+    font-family: 'Bitter', Georgia, serif;
+    font-size: 30px;
+    font-size: 1.875rem;
+   	font-weight: 700;
+    line-height: 1;
+    margin-bottom: 24px;
+    margin-bottom: 1.5rem
+}
+
+.entry-title a,
+h2.entry-title a {
+	color: #333;
+	text-decoration: none;
+}
+
+.entry-title a:hover,
+h2.entry-title a:hover {
+	color: #0A86BF;
+	text-decoration: none;
+}
+
+/* Header Images
+   ========================================================================== */
+
+.bg {
+  position: inherit;
+	width:100%;
+	height:100%;
+	z-index:-100;
+}
+
+.bg-full {
+  width: 100%;
+  height: 100%;
+	z-index:10;
+}
+
+.bg-full img {
+  width: inherit;
+}

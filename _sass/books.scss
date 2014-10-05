@@ -1,0 +1,45 @@
+/* Book Covers
+   ========================================================================== */
+
+.book {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 3rem;
+}
+
+.book-img {
+  padding: 1rem;
+  border: solid;
+  margin: 1rem;
+  order: 2;
+  text-align: center;
+}
+
+.book-info {
+  padding: 1rem;
+  border: solid;
+  margin: 1rem;
+}
+
+@media (min-width: 48rem) {
+  .book {
+    max-width: 36rem;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3rem;
+  }
+
+  .book-img {
+    padding: 1rem;
+    border: solid;
+    margin: 1rem;
+    order: 2;
+  }
+
+  .book-info {
+    padding: 1rem;
+    border: solid;
+    margin: 1rem;
+  }
+}

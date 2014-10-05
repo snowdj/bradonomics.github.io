@@ -15,6 +15,9 @@ permalink: /:title/
 markdown: kramdown
 highlighter: pygments
 encoding: utf-8
+sass:
+  sass_dir: _sass
+  style: compressed
 
 # Site navigation links
 
@@ -28,7 +31,7 @@ navigation:
 - title: Projects
   url: /projects/
 
-# Site owner
+# Site owner info
 
 owner:
   name: Brad West
