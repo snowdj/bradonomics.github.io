@@ -1,0 +1,84 @@
+/* Post List
+   ========================================================================== */
+
+h2.list-title {
+  text-align: center;
+}
+
+.article-list {
+  max-width: 47.5em
+}
+.article-list {
+  max-width: 43em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 3em;
+  padding-right: 1.618em;
+  padding-left: 1.618em
+}
+.article-list:after {
+  content: "";
+  display: table;
+  clear: both
+}
+
+.article-titles {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 100%
+}
+.article-titles:last-child {
+  margin-right: 0
+}
+.article-titles p:first-child {
+  margin-top: 0
+}
+.article-titles p>a,
+.article-titles li>a {
+  border-bottom: 1px dotted #a2a2a2
+}
+.article-titles p>a:hover,
+.article-titles li>a:hover {
+  border-bottom-style: solid
+}
+
+.post-list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none
+}
+.post-list li {
+  padding: 8px 0;
+  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  font-size: 18px;
+  font-size: .9rem;
+  line-height: 1.33333;
+  margin-bottom: 0
+}
+.post-list li:after {
+  content: "";
+  display: table;
+  clear: both
+}
+.post-list li>a {
+  border-bottom-width: 0
+}
+.post-list a>span {
+  float: right
+}
+.post-list .entry-date {
+  font-size: 14px;
+  font-size: .7rem;
+  line-height: 1.71429;
+  margin-bottom: 0;
+  text-transform: uppercase;
+  display: none
+}
+@media screen and (min-width: 50em) {
+  .post-list .entry-date {
+    display: inline
+  }
+}

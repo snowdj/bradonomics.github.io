@@ -178,4 +178,21 @@ td {
   color: #9a9a9a;
 }
 
-
+hr {
+  display: block;
+  position: relative;
+  margin: 48px 0;
+  margin: 3rem 0;
+  padding: 0;
+  height: 5px;
+  border: 0;
+}
+hr:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 8.4716em;
+  height: 1px;
+  background: #ddd;
+}

@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: noimage
 title: Reading List — March, April and May 2013
 headline: Reading List — March, April and May 2013
 modified:

@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: noimage
 title: The Bradonomics Reading List
 headline: The Bradonomics Reading List
 permalink: /reading-list/

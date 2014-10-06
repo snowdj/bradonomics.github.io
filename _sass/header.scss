@@ -85,19 +85,6 @@ header.home-cover {
       line-height: 1.5;
   }
 }
-.book-title-area {
-  padding: 3rem 1em;
-}
-@media screen and (min-width: 48em) {
-  .book-title-area {
-      padding: 3rem 2em
-  }
-}
-@media screen and (min-width: 62.5em) {
-  .book-title-area {
-      padding: 3rem 3rem
-  }
-}
 
 /* Homepage Bio Area
    ========================================================================== */
@@ -148,6 +135,13 @@ h2.entry-title a {
 h2.entry-title a:hover {
 	color: #0A86BF;
 	text-decoration: none;
+}
+
+/* Sub-Titles
+   ========================================================================== */
+
+h4.sub-heading {
+  color: #B0B0B0;
 }
 
 /* Header Images

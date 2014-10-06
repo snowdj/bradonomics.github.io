@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: noimage
 title: The Baseline Report from Bradonomics
 headline: The Baseline Report
 permalink: /baseline-report/

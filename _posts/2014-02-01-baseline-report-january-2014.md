@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: noimage
 title: January 2014 Expense Report for Chiang Mai Thailand
 headline: Baseline Report January 2014
 modified:

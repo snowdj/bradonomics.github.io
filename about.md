@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: noimage
 title: About Brad West
 headline: My Name is Brad West
 permalink: /about/

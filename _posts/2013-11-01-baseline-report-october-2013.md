@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: noimage
 title: October 2013 Expense Report for Chiang Mai Thailand
 headline: Baseline Report October 2013
 modified:

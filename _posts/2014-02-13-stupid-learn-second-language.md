@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: image
 title: Too Stupid to Learn a Second Language?
 headline: Too Stupid to Learn a Second Language?
 modified:

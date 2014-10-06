@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: noimage
 title: Disclosures
 headline: FTC and Other Disclosures
 permalink: /ftc-disclosures/

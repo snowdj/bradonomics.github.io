@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: noimage
 title: Reading List — July 2013
 headline: Reading List — July 2013
 modified:

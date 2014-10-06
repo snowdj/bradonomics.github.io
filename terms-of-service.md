@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: noimage
 title: Terms of Service
 headline: Terms of Service
 permalink: /terms-of-service/

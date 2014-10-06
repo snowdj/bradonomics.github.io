@@ -2,9 +2,6 @@
 layout: default
 ---
 
-<div class="bg">
-  <div class="bg-full"><img src="/images/{{ page.image }}"></div>
-</div>
 <header>
   <div class="title-area">
     <h1 class="entry-title">{{ page.headline }}</h1>
@@ -15,4 +12,5 @@ layout: default
 <div id="page-wrapper">
 <article class="container">
 {{ content }}
+{% include page-meta.html %}
 </article>

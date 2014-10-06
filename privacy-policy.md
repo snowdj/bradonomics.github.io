@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: noimage
 title: Privacy Policy
 headline: Privacy Policy
 permalink: /privacy-policy/

@@ -1,6 +1,6 @@
 ---
-layout: article
-title: Jeff Joslin Talks About Keeping a Journal for MMA Training
+layout: noimage
+title: Jeff Joslin on Keeping a Journal for MMA Training
 headline: Jeff Joslin on Keeping a Journal for MMA Training 
 modified: 2014-02-01
 excerpt: Jeff Joslin talks about how and why to keep a journal for Brazilian Jiu-Jitsu and MMA training.
