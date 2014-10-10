@@ -2,9 +2,7 @@
    ========================================================================== */
 
 /*
- * The wrapper is used to position site content when the sidebar is toggled. We
- * use an outter wrap to position the sidebar without interferring with the
- * regular page content.
+ * The wrapper is used to position site content when the sidebar is toggled. We use an outer wrap to position the sidebar without interfering with the regular page content.
  */
 
 .wrap {
@@ -19,11 +17,7 @@
 /* The sidebar is the drawer, the item we are toggling with the hamburger
  * button in the corner of the page.
  *
- * This particular sidebar implementation was inspired by Chris Coyier's
- * "Offcanvas Menu with CSS Target" article, and the checkbox variation from the
- * comments by a reader. It modifies both implementations to continue using the
- * checkbox (no change in URL means no polluted browser history), but this uses
- * `position` for the menu to avoid some potential content reflow issues.
+ * This particular sidebar implementation was inspired by Chris Coyier's "Offcanvas Menu with CSS Target" article, and the checkbox variation from the comments by a reader. It modifies both implementations to continue using the checkbox (no change in URL means no polluted browser history), but this uses 'position' for the menu to avoid some potential content reflow issues.
  *
  * Source: http://css-tricks.com/off-canvas-menu-with-css-target/#comment-207504
  */
@@ -90,12 +84,12 @@ a.sidebar-nav-item:focus {
   }
 }
 
-/* Hide the sidebar checkbox that we toggle with `.sidebar-toggle` */
+/* Hide the sidebar checkbox that we toggle with '.sidebar-toggle' */
 .sidebar-checkbox {
   display: none;
 }
 
-/* Style the `label` that we use to target the `.sidebar-checkbox` */
+/* Style the 'label' that we use to target the '.sidebar-checkbox' */
 .sidebar-toggle {
   position: fixed;
   top:  1rem;
@@ -135,13 +129,9 @@ a.sidebar-nav-item:focus {
 /* Slide effect
    ========================================================================== */
 
- /* Handle the sliding effects of the sidebar and content in one spot, separate
- * from the default styles.
+ /* Handle the sliding effects of the sidebar and content in one spot, separate from the default styles.
  *
- * As a heads up, we don't use `transform: translate3d()` here because when
- * mixed with `position: fixed;` for the sidebar toggle, it creates a new
- * containing block. Put simply, the fixed sidebar toggle behaves like
- * `position: absolute;` when transformed.
+ * As a heads up, we don't use 'transform: translate3d()' here because when mixed with 'position: fixed;' for the sidebar toggle, it creates a new containing block. Put simply, the fixed sidebar toggle behaves like 'position: absolute;' when transformed.
  *
  * Read more about it at http://meyerweb.com/eric/thoughts/2011/09/12/.
  */

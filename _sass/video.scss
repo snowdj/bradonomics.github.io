@@ -1,7 +1,7 @@
 /* Videos
    ========================================================================== */
 
-.video-embed {
+.iframe-embed {
   position: relative;
   margin-bottom: 1rem;
   padding-bottom: 56.25%;
@@ -11,9 +11,9 @@
   height: auto;
 }
 
-.video-embed iframe,
-.video-embed object,
-.video-embed embed {
+.iframe-embed iframe,
+.iframe-embed object,
+.iframe-embed embed {
   position: absolute;
   top: 0;
   left: 0;
