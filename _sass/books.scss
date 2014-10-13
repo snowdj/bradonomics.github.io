@@ -1,45 +1,136 @@
 /* Book Covers
    ========================================================================== */
 
-.book {
+#book-wrapper {
+  padding: 0 1.618em;
+  height: 100%;
+  width: 100%;
+  max-width: 52rem;
   margin-left: auto;
   margin-right: auto;
+  -webkit-overflow-scrolling: touch;
+  -webkit-transform: translate(0, 0);
+     -moz-transform: translate(0, 0);
+      -ms-transform: translate(0, 0);
+       -o-transform: translate(0, 0);
+          transform: translate(0, 0);
+  -webkit-transition: 500ms cubic-bezier(0.645, 0.045, 0.355, 1);
+     -moz-transition: 500ms cubic-bezier(0.645, 0.045, 0.355, 1);
+          transition: 500ms cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.book {
+  
+}
+@media (min-width: 52rem) {
+  .book {
+    left: 27%;
+  }
+}
+
+.book-article {
+
+}
+@media (min-width: 52rem) {
+  .book-article {
+    width: 73%;
+    float: right;
+    padding: 0 1.5rem;
+  }
+}
+
+.book-content {
+
+}
+@media (min-width: 52rem) {
+  .book-content {
+    right: 73%;
+  }
+}
+
+.book-container {
   margin-bottom: 3rem;
+}
+@media (min-width: 52rem) {
+  .book-container {
+    width: 27%;
+  }
 }
 
 .book-img {
-  padding: 1rem;
-  border: solid;
-  margin: 1rem;
-  order: 2;
   text-align: center;
+  margin-bottom: .6rem;
+  margin-right: 0;
+}
+@media (min-width: 44rem) {
+  .book-img {
+    float: left;
+    margin-bottom: 3rem;
+    margin-right: 1rem;
+  }
+}
+@media (min-width: 52rem) {
+  .book-img {
+    text-align: center;
+    margin-bottom: .6rem;
+    margin-right: 0;
+  }
+}
+
+.book-img img {
+  -webkit-box-shadow: 3px 3px 5px 1px rgba(0,0,0,0.2);
+     -moz-box-shadow: 3px 3px 5px 1px rgba(0,0,0,0.2);
+          box-shadow: 3px 3px 5px 1px rgba(0,0,0,0.2);
 }
 
 .book-info {
-  padding: 1rem;
-  border: solid;
-  margin: 1rem;
+  text-align:center;
+}
+@media (min-width: 44rem) {
+  .book-info {
+    text-align:left;
+  }
 }
 
-@media (min-width: 48rem) {
-  .book {
-    max-width: 36rem;
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 3rem;
-  }
+.title {
+  font-family: Oswald, sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  padding: 0px 0px 5px 0px;
+  margin: 0px 0px 0px 0px;
+  text-transform: uppercase;
+}
 
-  .book-img {
-    padding: 1rem;
-    border: solid;
-    margin: 1rem;
-    order: 2;
+.buy-info {
+  max-width: 300px;
+  text-align: center;
+  border: 1px solid #c1c0aa;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #666;
+  display: block;
+}
+@media (min-width: 44rem) {
+  .buy-info {
+    width: 300px;
+    margin-left: 0;
+    margin-right: 0;
+    display: inline-block;
   }
+}
+@media (min-width: 52rem) {
+  .buy-info {
+    max-width: 300px;
+    width: initial;
+    display: block;
+  }
+}
 
-  .book-info {
-    padding: 1rem;
-    border: solid;
-    margin: 1rem;
-  }
+.buy-info p {
+  border-bottom: 1px solid #c1c0aa;
+  padding-bottom: 8px;
 }

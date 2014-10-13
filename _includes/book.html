@@ -1,16 +1,13 @@
-<div class="book">
-
+<aside class="book-container book-content">
 <div class="book-img">
-  <img src="/images/{{ page.book.cover }}">
+<a href="{{ page.amazon }}"><img src="/images/{{ page.book.cover }}"></a>
 </div>
-
 <div class="book-info">
-  <h2><em>{{ page.book.title }}</em></h2>
-  <p>by {{ page.book.author }}</p>
-    <div class="buy-info">
-      <p>buy it now on</p>
-      <a href="{{ page.amazon }}" target="_blank"><img src="/images/amazon.jpg" style="width:160px"></a>
-    </div>
+<p><span class="title">{{ page.book.title }}</span><br>
+<em>by {{ page.book.author }}</em></p>
 </div>
-
+<div class="buy-info">
+<p>Buy the book</p>
+<a href="{{ page.amazon }}"><img src="/images/amazon.jpg"></a>
 </div>
+</aside>
