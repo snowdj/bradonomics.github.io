@@ -5,7 +5,7 @@ description: The Blog of Brad West
 logo: brad-west-logo-160x120.jpg # 120x120 px default image used for Twitter summary card
 teaser: brad-west-theme-300x225.jpg # 400x250 px default teaser image used in image archive grid
 baseurl: /
-url: /
+url: http://bradonomics.com/
 
 # Jekyll configuration
 
