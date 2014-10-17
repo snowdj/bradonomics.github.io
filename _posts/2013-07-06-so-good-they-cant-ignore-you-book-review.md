@@ -6,7 +6,7 @@ modified:
 excerpt: A review and summery of Cal Newport's Book So Good They Can't Ignore You.
 category: Reading List
 tags: [Books, Careers]
-teaser:
+teaser: So-Good-Newport.jpg
 book:
   title: So Good They Can't Ignore You
   author: Cal Newport
@@ -50,7 +50,7 @@ Newport then suggests this helps explain Wrzesniewski's findings: "Perhaps one r
 
 Really?
 
-Later in the book Cal will introduce two other factors, control and mission, that are needed to develop passion for your work. Out of these five traits: autonomy, competence, relatedness, control and mission, how many are needed to feel "intrinsically motivated" about your work? Administrative assistants can't achieve much autonomy, they're assistants and are therefore working on their boss's projects and not their own. Since the workers surveyed worked at colleges they have to be at the school from 9-to-5 so they have little control. And I find it hard to believe that administrative assistants feel much of a mission. So what's left? People often answer survey's the way they wish things were and not the way things actually are. The assistants who claimed this was a calling had spent many years in the position and who wants to admit that they've spent all that time bored at a job that's not very fulfilling? It sure seems like a sunk cost bias to me.
+Later in the book Cal will introduce two other factors, control and mission, that are needed to develop passion for your work. Out of these five traits: autonomy, competence, relatedness, control and mission, how many are needed to feel "intrinsically motivated" about your work? Administrative assistants can't achieve much autonomy, they're assistants and are therefore working on their boss's projects and not their own. Since the workers surveyed worked at colleges they have to be at the school from 9-to-5 so they have little control. And I find it hard to believe that administrative assistants feel much of a mission. So what's left? People often answer surveys the way they wish things were and not the way things actually are. The assistants who claimed this was a calling had spent many years in the position and who wants to admit that they've spent all that time bored at a job that's not very fulfilling? It sure seems like a sunk cost bias to me.
 
 ### Passion Is Dangerous
 
@@ -114,7 +114,7 @@ This section seems a little thin to me. The only thing that's really said on the
 
 ## Rule #3: Control Traps and How to Avoid Them
 
-Control, according to Newport, is one of the most powerful traits you can aquire when creating work you love but there are traps you need to be aware of in acquiring it. Cal tells of people who traded their career capital for control and others who tried to gain control without any capital. If you can't already guess, the people who had yet to build capital in their careers didn't fare so well.
+Control, according to Newport, is one of the most powerful traits you can acquire when creating work you love but there are traps you need to be aware of in acquiring it. Cal tells of people who traded their career capital for control and others who tried to gain control without any capital. If you can't already guess, the people who had yet to build capital in their careers didn't fare so well.
 
 The more interesting part of this section is where Cal talks about how to avoid the "control traps." Newport talks with Derek Sivers whose "whole career has been about making big moves, often in the face of resistance, to gain more control over what he does and how he does it." So what criteria does Sivers use to decide which projects to pursue and which to abandon? "I have this principle about money that overrides my other life rules," says Sivers, "[d]o what people are willing to pay for."
 

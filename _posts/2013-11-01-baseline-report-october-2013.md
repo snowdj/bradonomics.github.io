@@ -6,8 +6,8 @@ modified:
 excerpt: The very first Baseline Report dispatched directly from Chiang Mai Thailand.
 category: Baseline Report
 tags: []
-image:
-teaser:
+image: Chiang-Mai-Spending-Graph-Oct-2013.jpg
+teaser: Chiang-Mai-Spending-Graph-Oct-2013.jpg
 ---
 
 After Pat Flynn started publishing [monthly income reports](http://www.smartpassiveincome.com/tag/monthly-income-report/), a lot of entrepreneurs, especially those in the affiliate space, jumped on the bandwagon. When these reports first started I thought they were great but quickly started to see some limitations. As long as you intend to do something similar to the guy publishing the report, they can be helpful. But what if your business is completely different?
@@ -24,7 +24,7 @@ It seems to me that a report of living expenses would be more useful to bootstra
 
 ## Things to Note About this Report
 
-![A categorized list of my expenses for Chiang Mai Thailand.](http://bradonomics.com/baseline-report-october-2013/Chiang-Mai-Spending-Category-List-Oct-2013.jpg "Categorized List of Expenses")After a couple years in Bangkok I decided to move back to Chiang Mai so October will have a little "start-up weirdness" that the following months won't. Things like higher rent payment---two months instead of one---and no utility expenses.
+![A categorized list of my expenses for Chiang Mai Thailand.](/images/Chiang-Mai-Spending-Category-List-Oct-2013.jpg "Categorized List of Expenses")After a couple years in Bangkok I decided to move back to Chiang Mai so October will have a little "start-up weirdness" that the following months won't. Things like higher rent payment---two months instead of one---and no utility expenses.
 
 Also, this report is the expenses for two people. I found it difficult to list my expenses separately from my girlfriends expenses in most cases.
 
@@ -32,15 +32,15 @@ You can see the categorized breakdown in the image on the right. As you can prob
 
 Conversion of the Baht as I'm writing this is 31.06 for one US Dollar, 42.12 for one Euro and 49.94 for one British Pound. My total expenses for the month are as follows:
 
-|Currency-----|Total-|
+|Currency     |Total |
 |-------------|------|
-|Thai Baht----|27,381|
-|US Dollar----|881---|
-|Euro---------|644---|
-|British Pound|548---|
+|Thai Baht    |27,381|
+|US Dollar    |881   |
+|Euro         |644   |
+|British Pound|548   |
 
 If you're a bit more visual or interested in these expenses as a percentage, here's a graph to help:
 
-![A categorized graph of my expenses for Chiang Mai Thailand.](http://bradonomics.com/baseline-report-october-2013/Chiang-Mai-Spending-Graph-Oct-2013.jpg "Categorized Graph of Expenses for Chiang Mai")
+![A categorized graph of my expenses for Chiang Mai Thailand.](/images/Chiang-Mai-Spending-Graph-Oct-2013.jpg "Categorized Graph of Expenses for Chiang Mai")
 
 Since this is my first time publishing this report I need your help in making it better. If you feel I've left out some information that would be useful, please email me brad@bradonomics.com.

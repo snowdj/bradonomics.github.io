@@ -6,12 +6,12 @@ modified:
 excerpt: Keith Ferrazzi has built one of the world's largest networks. Here he shows how you can do the same.
 category: Reading List
 tags: [Books, Networking]
-teaser:
+teaser: Keith-Farrazzi-Never-Eat-Alone.jpg
 book:
-  title:
-  author:
-  cover:
-amazon:
+  title: Never Eat Alone
+  author: Keith Ferrazzi
+  cover: Keith-Farrazzi-Never-Eat-Alone.jpg
+amazon: http://amzn.com/0385512058?tag=bnomics-20
 ---
 
 Keith Ferrazzi has built one of the world's largest networks and considering where he came from, that's a feat. His book, [_Never Eat Alone: And Other Secrets to Success, One Relationship at a Time_](http://amzn.com/0385512058?tag=bnomics-20), details how he built his network and how you replicate his process if you want to build a network of your own.

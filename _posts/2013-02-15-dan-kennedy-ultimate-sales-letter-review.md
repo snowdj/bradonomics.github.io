@@ -6,12 +6,12 @@ modified:
 excerpt: My review of Dan Kennedy's book The Ultimate Sales Letter.
 category: Reading List
 tags: [Books]
-teaser:
+teaser: dan-kennedy-sales-letters.jpg
 book:
-  title:
-  author:
-  cover:
-amazon:
+  title: The Ultimate Sales Letter
+  author: Dan Kennedy
+  cover: dan-kennedy-sales-letters.jpg
+amazon: http://amzn.com/1440511411?tag=bnomics-20
 ---
 
 I looked for other reviews on this book before writing my own and was surprised to find so many positive reviews on other blogs. I couldn't find a negative review on the first few pages of Google results. And while I didn't hate the book, I had a feeling the whole time that I was being setup for something else. It felt like those "free" seminars where they sell books, CD's or training courses at the back of the room.
