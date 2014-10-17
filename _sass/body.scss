@@ -194,3 +194,11 @@ hr:before {
   height: 1px;
   background: #ddd;
 }
+
+/* Footnotes
+   ========================================================================== */
+
+.footnotes:before {
+    content: 'Footnotes:';
+    font-weight: 700;
+}
