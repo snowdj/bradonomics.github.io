@@ -6,8 +6,8 @@ modified:
 excerpt: Is it possible to live in Chiang Mai Thailand for $500 per month?
 category: Baseline Report
 tags: []
-image:
-teaser:
+image: Chiang-Mai-Spending-Graph-Feb-2014.jpg
+teaser: Chiang-Mai-Spending-Graph-Feb-2014.jpg
 ---
 
 As I've explained before, most of the time I've lived in Thailand I've been a university student so my living expenses have included tuition---this month the bill was due.
@@ -23,7 +23,7 @@ Conversion of the Baht as I'm writing this is 32.51 for one US Dollar, 44.94 for
 |Euro          |1,529   |
 |British Pound |1,261   |
 
-![Cost of Living Chiang Mai Thailand](http://bradonomics.com/baseline-report-february-2014/Chiang-Mai-Spending-Category-List-Feb-2014.jpg)![Chiang Mai Cost of Living](http://bradonomics.com/baseline-report-february-2014/Chiang-Mai-Spending-Graph-Feb-2014.jpg)
+![Cost of Living Chiang Mai Thailand](/images/Chiang-Mai-Spending-Category-List-Feb-2014.jpg)![Chiang Mai Cost of Living](/images/Chiang-Mai-Spending-Graph-Feb-2014.jpg)
 
 ## Tuition and VISA's
 

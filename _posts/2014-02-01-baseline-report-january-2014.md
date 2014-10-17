@@ -6,8 +6,8 @@ modified:
 excerpt: Living on $500 per month in Chiang Mai Thailand? Yes, it's true.
 category: Baseline Report
 tags: []
-image:
-teaser:
+image: Chiang-Mai-Spending-Graph-Jan-2014.jpg
+teaser: Chiang-Mai-Spending-Graph-Jan-2014.jpg
 ---
 
 Last month I posted almost no information other than the numbers. A recap to understand what's going on behind these numbers is probably needed.
@@ -18,12 +18,14 @@ The biggest note is that these expenses are for two people. It's often difficult
 
 Conversion of the Baht as I'm writing this is 33.03 for one US Dollar, 44.53 for one Euro and 54.27 for one British Pound. My total expenses for the month are as follows:
 
-Thai Baht: 17,020<br>
-US Dollars: 515<br>
-Euros: 382<br>
-Pounds: 314
+|Currency      |Total |
+|--------------|------|
+|Thai Baht     |17,020|
+|US Dollar     |515   |
+|Euro          |382   |
+|British Pound |314   |
 
-![Cost of Living Chiang Mai Thailand](http://bradonomics.com/baseline-report-january-2014/Chiang-Mai-Spending-Category-List-Jan-2014.jpg)![Chiang Mai Cost of Living](http://bradonomics.com/baseline-report-january-2014/Chiang-Mai-Spending-Graph-Jan-2014.jpg)
+![Cost of Living Chiang Mai Thailand](/images/Chiang-Mai-Spending-Category-List-Jan-2014.jpg)![Chiang Mai Cost of Living](/images/Chiang-Mai-Spending-Graph-Jan-2014.jpg)
 
 I need your help to make the Baseline Report better. What information would be helpful? Please email me brad@bradonomics.com or let's connect on twitter: [@bradonomics](https://twitter.com/bradonomics).
 
