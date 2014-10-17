@@ -26,6 +26,8 @@ gems:
 navigation:
 - title: Home
   url: /
+- title: About
+  url: /about/
 
 # Site owner info
 
