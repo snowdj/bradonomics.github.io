@@ -145,6 +145,7 @@ td {
             transform: translate(0, 0);
     -webkit-transition: 500ms cubic-bezier(0.645, 0.045, 0.355, 1);
        -moz-transition: 500ms cubic-bezier(0.645, 0.045, 0.355, 1);
+         -o-transition: 500ms cubic-bezier(0.645, 0.045, 0.355, 1);
             transition: 500ms cubic-bezier(0.645, 0.045, 0.355, 1)
 }
 

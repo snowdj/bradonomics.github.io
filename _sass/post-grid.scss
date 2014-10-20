@@ -85,7 +85,8 @@
   background: rgba(52, 52, 52, 0);
   pointer-events: none;
   -webkit-transition: background 0.3s;
-  -moz-transition: background 0.3s;
+     -moz-transition: background 0.3s;
+       -o-transition: background 0.3s;
   transition: background 0.3s
 }
 .tile .post-teaser:hover:after {
