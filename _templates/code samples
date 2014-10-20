@@ -100,7 +100,9 @@ Here is some inline code. The class "myClas" can be used like this `<div class="
 
 <div class="notice-danger"><strong>Warning Danger:</strong> <code>.notice-danger</code> Maecenas ornare tortor. [Donec sed tellus]() eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at.</div>
 
+
 ## Images with Figure Wrap
+
 
 ### One Image
 
@@ -109,6 +111,7 @@ Here is some inline code. The class "myClas" can be used like this `<div class="
 	<figcaption>Caption describing this image.</figcaption>
 </figure>
 
+
 ### Two Images
 
 <figure class="half">
@@ -116,6 +119,7 @@ Here is some inline code. The class "myClas" can be used like this `<div class="
 	<img src="http://placehold.it/900x450.gif" alt="alt text">
 	<figcaption>Caption describing these two images.</figcaption>
 </figure>
+
 
 ### Three Images
 
@@ -126,51 +130,39 @@ Here is some inline code. The class "myClas" can be used like this `<div class="
 	<figcaption>Caption describing these three images.</figcaption>
 </figure>
 
+
 ## Images
+
 
 ### Centered
 
-Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image.
-
 <img class="centered" src="http://placehold.it/450x350.gif" alt="image">
 
-Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image.
 
 ### Align None
 
-Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image.
-
 <img class="alignnone" src="http://placehold.it/450x350.gif" alt="image">
 
-Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image.
 
 ### Align Left
-Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image.
 
 <img class="alignleft" src="http://placehold.it/450x350.gif" alt="image">
 
-Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image.
 
 ### Align Right
-Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image.
 
 <img class="alignright" src="http://placehold.it/450x350.gif" alt="image">
 
-Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image.
 
 ### Pull Left
-Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image.
 
 <img class="pullleft" src="http://placehold.it/450x350.gif" alt="image">
 
-Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image.
 
 ### Pull Right
-Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image. Some paragraph text above the image.
 
 <img class="pullright" src="http://placehold.it/450x350.gif" alt="image">
 
-Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image. Some paragraph text below the image.
 
 ## Videos
 
