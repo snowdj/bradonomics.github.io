@@ -4,8 +4,8 @@ title: Never Eat Alone — Book Review
 headline: Never Eat Alone — Book Review
 modified:
 excerpt: Keith Ferrazzi has built one of the world's largest networks. Here he shows how you can do the same.
-category: Reading List
-tags: [Books, Networking]
+category: Article
+tags: [Reading List, Books, Networking]
 teaser: Keith-Farrazzi-Never-Eat-Alone.jpg
 book:
   title: Never Eat Alone

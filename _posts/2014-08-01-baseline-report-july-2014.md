@@ -4,8 +4,8 @@ title: July 2014 Expense Report for Chiang Mai Thailand
 headline: Baseline Report July 2014
 modified:
 excerpt: Living for less than $400 per month in Chiang Mai? $500 per month is no longer the exception, it's the rule.
-category: Baseline Report
-tags: []
+category: Article
+tags: [Baseline Report, Chiang Mai, Personal Finance]
 image: July2014-Expenses-Pie-Graph.jpg
 teaser: July2014-Expenses-Pie-Graph.jpg
 ---

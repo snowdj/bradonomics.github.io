@@ -4,8 +4,8 @@ title: October 2013 Expense Report for Chiang Mai Thailand
 headline: Baseline Report October 2013
 modified:
 excerpt: The very first Baseline Report dispatched directly from Chiang Mai Thailand.
-category: Baseline Report
-tags: []
+category: Article
+tags: [Baseline Report, Chiang Mai, Personal Finance]
 image: Chiang-Mai-Spending-Graph-Oct-2013.jpg
 teaser: Chiang-Mai-Spending-Graph-Oct-2013.jpg
 ---
