@@ -20,7 +20,7 @@ sass:
 
 gems:
   - jekyll-redirect-from
-  
+
 # Site navigation links
 
 navigation:
