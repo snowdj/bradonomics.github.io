@@ -2,7 +2,7 @@
 layout: noimage
 title: Ditching Gmail for Zoho and Mailbird
 headline: Ditching Gmail for Zoho and Mailbird
-modified:
+modified: 2014-10-30
 excerpt: After breaking my email I decided to setup with Zoho and Mailbird.
 category: Article
 tags: [Zoho, Email]
@@ -15,7 +15,7 @@ After [moving Bradonomics to GitHub Pages](http://bradonomics.com/jekyll/), I re
 
 [Zoho Mail](https://www.zoho.com/mail/zohomail-pricing.html) will host 10 users of 1 domain for free. If you need multiple domains, their first paid plan is cheaper than most other options I researched.
 
-It might be worth mentioning that before all this switch-over, my setup was to forward all my mail to my gmail account and used either Google's SMTP servers or my webhost's servers for outbound mail. I've been wanting to de-couple from the Google Mothership for a while so this seemed a perfect time to try a different approce.
+It might be worth mentioning that before all this switch-over, my setup was to forward all my mail to my gmail account and used either Google's SMTP servers or my webhost's servers for outbound mail. I've been wanting to de-couple from the Google Mothership for a while so this seemed a perfect time to try a different approach.
 
 ## Setting up Zoho Mail
 
@@ -39,7 +39,7 @@ In the case that you're not ready to leave Gmail you can setup a forward in your
 
 ## Sending From Gmail using Zoho SMTP Servers
 
-That will cover your inbound, but you'll need to setup the ["send mail as" option in Gmail](https://mail.google.com/mail/u/0/#settings/accounts). You can find the [Zoho SMTP setting here](https://www.zoho.com/mail/help/zoho-smtp.html).
+The above will cover your inbound, but to send email you'll need to setup the ["send mail as" option in Gmail](https://mail.google.com/mail/u/0/#settings/accounts). You can find the [Zoho SMTP settings here](https://www.zoho.com/mail/help/zoho-smtp.html).
 
 ## Ditching Google and Using Mailbird
 
@@ -47,10 +47,13 @@ Even though there might [not be much reason to do so](http://mako.cc/copyrighteo
 
 So far I'm digging [Mailbird](http://www.getmailbird.com/), but if you need something more powerful you might check out [eM Client](http://www.emclient.com/).
 
+**Update: 30 Oct 2014:** Well, that didn't even last a week. I've been using Gmail since 2004. All my mail since then is stored there. Their calender and contacts and general interface are superior to anything I've found yet. I'd still like to move away from Google, but at least for now, Mailbird isn't it. If you know of any mail clients that have a great design, come with an import option and have a calendar and contacts feature, [please get in touch](https://twitter.com/bradonomics).
+
 ## SPF Configuration
 
-Let's make sure you're emails aren't going to SPAM and setup [Sender Policy Framework](http://www.openspf.org/Introduction). You can find the Zoho portion of the instructions [here](https://www.zoho.com/mail/help/adminconsole/spf-configuration.html) and the CloudFlare part of the instructions [here](https://support.cloudflare.com/hc/en-us/articles/200168626-How-do-I-add-a-SPF-record-).
+Lastly, let's make sure you're emails aren't going to SPAM by setting up [Sender Policy Framework](http://www.openspf.org/Introduction). You can find the Zoho portion of the instructions [here](https://www.zoho.com/mail/help/adminconsole/spf-configuration.html) and the CloudFlare part of the instructions [here](https://support.cloudflare.com/hc/en-us/articles/200168626-How-do-I-add-a-SPF-record-).
 
+Here's what mine looks like:
 <figure>
 <a href="/images/SPF-Record-CloudFlare.jpg"><img src="/images/SPF-Record-CloudFlare.jpg" alt="SPF Records with CloudFlare"></a>
 </figure>
