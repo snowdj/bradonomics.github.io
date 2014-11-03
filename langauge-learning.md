@@ -17,6 +17,6 @@ I'm the only guy on the internet who will tell you that practice is making you w
 
 <div class="archive-wrap">
   <ul class="th-grid">{% for post in site.categories.podcast %}
-    <li><a href="{{ post.url }}"><img src="/images/{{ post.image.thumb }}" alt=""></a></li>{% endfor %}
+    <li><a href="{{ post.url }}"><img src="{{ site.url }}/images/{{ post.image.thumb }}" alt=""></a></li>{% endfor %}
   </ul>
 </div>

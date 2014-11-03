@@ -25,7 +25,7 @@ Conversion of the Baht as I'm writing this is 33.03 for one US Dollar, 44.53 for
 |Euro          |382   |
 |British Pound |314   |
 
-![Cost of Living Chiang Mai Thailand](/images/Chiang-Mai-Spending-Category-List-Jan-2014.jpg)![Chiang Mai Cost of Living](/images/Chiang-Mai-Spending-Graph-Jan-2014.jpg)
+![Cost of Living Chiang Mai Thailand](http://bradonomics.com/images/Chiang-Mai-Spending-Category-List-Jan-2014.jpg)![Chiang Mai Cost of Living](http://bradonomics.com/images/Chiang-Mai-Spending-Graph-Jan-2014.jpg)
 
 I need your help to make the Baseline Report better. What information would be helpful? Please email me brad@bradonomics.com or let's connect on twitter: [@bradonomics](https://twitter.com/bradonomics).
 

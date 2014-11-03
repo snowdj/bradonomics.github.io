@@ -17,14 +17,14 @@ teaser: Chiang-Mai-Spending-Graph-Dec-2013.jpg
 |Euro          |722   |
 |British Pound |600   |
 
-![Chiang Mai Cost of Living](/images/Chiang-Mai-Spending-Graph-Dec-2013.jpg)
+![Chiang Mai Cost of Living](http://bradonomics.com/images/Chiang-Mai-Spending-Graph-Dec-2013.jpg)
 
 Things were spendy this month. First my VISA needed renewing and it took three trips to immigration to sort it. My laptop hard-drive crashed and cost 3,000 baht to replace. And I took a trip to Bangkok.
 
-![Cost of Living Chiang Mai Thailand](/images/Chiang-Mai-Spending-Category-List-Dec-2013.jpg)
+![Cost of Living Chiang Mai Thailand](http://bradonomics.com/images/Chiang-Mai-Spending-Category-List-Dec-2013.jpg)
 
 Here is the month-by-month comparison:
 
-![Cost of Living Thailand](/images/Average-Expense-Chiang-Mai-Dec-2013.jpg)
+![Cost of Living Thailand](http://bradonomics.com/images/Average-Expense-Chiang-Mai-Dec-2013.jpg)
 
 You can see the jumps in some categories as mentioned above. But the average is still looking good.

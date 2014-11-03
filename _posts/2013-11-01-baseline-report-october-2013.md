@@ -41,6 +41,6 @@ Conversion of the Baht as I'm writing this is 31.06 for one US Dollar, 42.12 for
 
 If you're a bit more visual or interested in these expenses as a percentage, here's a graph to help:
 
-![A categorized graph of my expenses for Chiang Mai Thailand.](/images/Chiang-Mai-Spending-Graph-Oct-2013.jpg "Categorized Graph of Expenses for Chiang Mai")
+![A categorized graph of my expenses for Chiang Mai Thailand.](http://bradonomics.com/images/Chiang-Mai-Spending-Graph-Oct-2013.jpg "Categorized Graph of Expenses for Chiang Mai")
 
 Since this is my first time publishing this report I need your help in making it better. If you feel I've left out some information that would be useful, please email me brad@bradonomics.com.

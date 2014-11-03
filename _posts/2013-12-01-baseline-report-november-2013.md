@@ -12,7 +12,7 @@ teaser: Chiang-Mai-Spending-Graph-Nov-2013.jpg
 
 Taking a look at October and November side-by-side, you can see the rent has dropped since I didn't have to pay the deposit this month. Otherwise things are about equal.
 
-![Baselining in Chiang Mai](/images/Average-Expense-Chiang-Mai-Nov-13.jpg)
+![Baselining in Chiang Mai](http://bradonomics.com/images/Average-Expense-Chiang-Mai-Nov-13.jpg)
 
 Totals for November:
 
@@ -23,27 +23,27 @@ Totals for November:
 |Euros         |381   |
 |British Pounds|315   |
 
-![A categorized graph of my expenses for Chiang Mai Thailand.](/images/Chiang-Mai-Spending-Graph-Nov-2013.jpg)
+![A categorized graph of my expenses for Chiang Mai Thailand.](http://bradonomics.com/images/Chiang-Mai-Spending-Graph-Nov-2013.jpg)
 
 Nothing especially exciting this month so I've got nothing to say that the numbers don't already tell.
 
-![A categorized list of my expenses for Chiang Mai Thailand](/images/Chiang-Mai-Spending-Category-List-Nov-2013.jpg)
+![A categorized list of my expenses for Chiang Mai Thailand](http://bradonomics.com/images/Chiang-Mai-Spending-Category-List-Nov-2013.jpg)
 
 ### My First Condo in Chiang Mai
 
 The first six months I lived in Thailand I was renting a condo for 10,000 baht. It was owned by an English lady and she'd posted the details on the internet. It was near my university and available so I took it. Below are some photos:
 
-![Condo in Chiang Mai](/images/Hillside-Condo-1.jpg)
-![Hillside Condo Chiang Mai](/images/Hillside-Condo-2.jpg)
-![Hillside Payap Condo](/images/Hillside-Condo-3.jpg)
+![Condo in Chiang Mai](http://bradonomics.com/images/Hillside-Condo-1.jpg)
+![Hillside Condo Chiang Mai](http://bradonomics.com/images/Hillside-Condo-2.jpg)
+![Hillside Payap Condo](http://bradonomics.com/images/Hillside-Condo-3.jpg)
 
 ### Moving to Cheaper Digs
 
 After my six-month lease was up I moved to a nearby apartment building---one not listed on the internet and therefore much cheaper. It wasn't as nice but it did have air conditioning and a hot shower. And it was 2,300 per month (about $70 USD). Below are some photos:
 
-![Racha Apartment](/images/Racha-1.jpg)
-![Racha Condo](/images/Racha-2.jpg)
-![Dorm near Payap University](/images/Racha-3.jpg)
+![Racha Apartment](http://bradonomics.com/images/Racha-1.jpg)
+![Racha Condo](http://bradonomics.com/images/Racha-2.jpg)
+![Dorm near Payap University](http://bradonomics.com/images/Racha-3.jpg)
 
 The place where I live now is somewhere in between these two---both in price and comfort.
 

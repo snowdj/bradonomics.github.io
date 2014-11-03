@@ -10,7 +10,7 @@ image: Steal-Like-An-Artist-Austin-Kleon.jpg
 teaser: Steal-Like-An-Artist-Austin-Kleon.jpg
 ---
 
-<img class="pullright" src="/images/Steal-Like-An-Artist-Austin-Kleon.jpg">
+<img class="pullright" src="http://bradonomics.com/images/Steal-Like-An-Artist-Austin-Kleon.jpg">
 I am a fan of Chris Anderson's _Long Tail_ and when I heard he had a new book on the "long tail of atoms," I wanted to take a look. In his new book [Makers](http://www.amazon.com/gp/product/B0083DJUMA/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0083DJUMA&linkCode=as2&tag=bnomics-20) he explores the world of 3D publishing and how this maker movement is likely to create a lot of disruption in the manufacturing industry---especially for smaller companies. He talks about how small, custom, manufacturing jobs that would have been sent to China, will likely be produced closer to the distribution points in the very near future. If you're interested in DIY this book is a good read, if you're in the manufacturing industry it's a must read.
 
 My mom was in town for a visit this month and we were talking about a new job she was looking to get. The conversation was centered around starting a blog and building some community to gain mindshare. Even though I'd never read it myself I recommended Seth Godin's [_Tribes_](http://www.amazon.com/gp/product/B001FA0LAI/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001FA0LAI&linkCode=as2&tag=bnomics-20). Since it was on my list anyway and so many people have recommended it, I decided it was a perfect time for me to read it also. Seth didn't disappoint. If you're looking to build a community online Seth gives the philosophical background---and permission---you need to start.

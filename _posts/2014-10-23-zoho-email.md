@@ -26,7 +26,7 @@ The first thing I did was create an account at at [zoho.com/mail](https://www.zo
 After my domain was verified I updated my MX records in CloudFlare with [my new Zoho information](https://www.zoho.com/mail/help/adminconsole/configure-email-delivery.html).
 
 <figure>
-<a href="/images/CloudFlare-MX-Records-Zoho.jpg"><img src="/images/CloudFlare-MX-Records-Zoho.jpg" alt="CloudFlare MX Records for Zoho"></a>
+<a href="http://bradonomics.com/images/CloudFlare-MX-Records-Zoho.jpg"><img src="http://bradonomics.com/images/CloudFlare-MX-Records-Zoho.jpg" alt="CloudFlare MX Records for Zoho"></a>
 </figure>
 
 ## Forwarding to Gmail
@@ -34,7 +34,7 @@ After my domain was verified I updated my MX records in CloudFlare with [my new 
 In the case that you're not ready to leave Gmail you can setup a forward in your Zoho settings. Click on Control Panel, User Details and then Mail Accounts and you'll see Mail Forwarding.
 
 <figure>
-<a href="/images/Zoho-Mail-Forwarding.jpg"><img src="/images/Zoho-Mail-Forwarding.jpg" alt="Forwarding Zoho Mail"></a>
+<a href="http://bradonomics.com/images/Zoho-Mail-Forwarding.jpg"><img src="http://bradonomics.com/images/Zoho-Mail-Forwarding.jpg" alt="Forwarding Zoho Mail"></a>
 </figure>
 
 ## Sending From Gmail using Zoho SMTP Servers
@@ -55,5 +55,5 @@ Lastly, let's make sure you're emails aren't going to SPAM by setting up [Sender
 
 Here's what mine looks like:
 <figure>
-<a href="/images/SPF-Record-CloudFlare.jpg"><img src="/images/SPF-Record-CloudFlare.jpg" alt="SPF Records with CloudFlare"></a>
+<a href="http://bradonomics.com/images/SPF-Record-CloudFlare.jpg"><img src="http://bradonomics.com/images/SPF-Record-CloudFlare.jpg" alt="SPF Records with CloudFlare"></a>
 </figure>
