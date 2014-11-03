@@ -9,7 +9,7 @@ image: bradonomics-cover.jpg
 teaser:
 ---
 
-## Get in touch
+### Get in touch
 
 If you find yourself in Chiang Mai, I'm always up for a cup of coffee. Otherwise you can find me here:
 
