@@ -28,6 +28,25 @@ dd {
   margin-bottom: .5rem;
 }
 
+/* Content Divider
+   ========================================================================== */
+divider {
+  position: relative;
+  margin: 16px auto;
+  margin: 1rem auto;
+  height: 5px;
+  border: 0;
+}
+divider:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 8.4716em;
+  height: 1px;
+  background: #ddd;
+}
+
 /* Quotes
    ========================================================================== */
 
