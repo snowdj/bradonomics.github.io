@@ -30,14 +30,14 @@ dd {
 
 /* Content Divider
    ========================================================================== */
-divider {
+.divider {
   position: relative;
   margin: 16px auto;
   margin: 1rem auto;
   height: 5px;
   border: 0;
 }
-divider:before {
+.divider:before {
   content: '';
   position: absolute;
   top: 0;
