@@ -1,4 +1,4 @@
-# Site wide configuration
+# Site configuration
 
 title: Bradonomics
 description: The Blog of Brad West
@@ -21,22 +21,12 @@ sass:
 gems:
   - jekyll-redirect-from
 
-# Site navigation links
-
 navigation:
 - title: Home
   url: /
 - title: About
   url: /about/
 
-# Site owner info
-
-owner:
-  name: Brad West
-  email: brad@bradonomics.com
-  twitter: bradonomics
-  google: /103163741383795666289/
-  bio: American Expat in Thailand - Permaculture Nerd - Brazilian Jiu-Jitsu Enthusiast - Philomath - Armchair Linguist
-  avatar: Brad_West_bio.jpg # 160x160 px image for author byline
+include: ["_pages"]
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
