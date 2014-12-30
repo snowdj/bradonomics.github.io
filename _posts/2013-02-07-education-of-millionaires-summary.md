@@ -4,8 +4,8 @@ title: The Education of Millionaires — Book Summary
 headline: The Education of Millionaires — Book Summary
 modified:
 excerpt: My summary of Micheal Ellsberg's book The Education of Millionaires.
-category: Article
-tags: [Reading List, Books, Careers]
+category: Reading List
+tags: [Books, Careers]
 teaser:
 book:
   title: The Education of Millionaires

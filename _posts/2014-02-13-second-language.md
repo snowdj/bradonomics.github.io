@@ -5,8 +5,8 @@ title: Too Stupid to Learn a Second Language?
 headline: Too Stupid to Learn a Second Language?
 modified:
 excerpt: How I failed to learn Japanese, Spanish and Thai, and finally found a method of language learning that worked for me.
-category: Article
-tags: [Language Learning, ALG, Dr Brown]
+category: Language Learning
+tags: [Personal, ALG, Dr Brown]
 image: Silent-Period-Language-Learning.jpg
 teaser: Silent-Period-Language-Learning.jpg
 ---

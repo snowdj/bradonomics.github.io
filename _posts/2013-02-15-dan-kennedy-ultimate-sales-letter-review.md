@@ -4,8 +4,8 @@ title: The Ultimate Sales Letter — Book Review
 headline: The Ultimate Sales Letter — Book Review
 modified:
 excerpt: My review of Dan Kennedy's book The Ultimate Sales Letter.
-category: Article
-tags: [Reading List, Books]
+category: Reading List
+tags: [Books]
 teaser: dan-kennedy-sales-letters.jpg
 book:
   title: The Ultimate Sales Letter

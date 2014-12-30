@@ -4,8 +4,8 @@ title: Reading List — June 2013
 headline: Reading List — June 2013
 modified:
 excerpt: Books I read and web articles I liked in June of 2013.
-category: Article
-tags: [Reading List, Books]
+category: Reading List
+tags: [Books]
 image: Steal-Like-An-Artist-Austin-Kleon.jpg
 teaser: Steal-Like-An-Artist-Austin-Kleon.jpg
 ---

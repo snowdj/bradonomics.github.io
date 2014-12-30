@@ -4,8 +4,8 @@ title: March 2014 Expense Report for Chiang Mai Thailand
 headline: Baseline Report March 2014
 modified:
 excerpt: My monthly expense report for Chiang Mai Thailand.
-category: Article
-tags: [Baseline Report, Chiang Mai, Personal Finance]
+category: Baseline Report
+tags: [Chiang Mai, Personal Finance]
 image: Chiang-Mai-Spending-Graph-Mar-2014.jpg
 teaser: Chiang-Mai-Spending-Graph-Mar-2014.jpg
 ---

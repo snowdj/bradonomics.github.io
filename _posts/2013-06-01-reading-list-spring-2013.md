@@ -4,8 +4,8 @@ title: Reading List — March, April and May 2013
 headline: Reading List — March, April and May 2013
 modified:
 excerpt: Books I read and web articles I found interesting during the spring of 2013.
-category: Article
-tags: [Reading List, Books]
+category: Reading List
+tags: [Books]
 image: Natural-Farming-Masanobu-Fukuoka.jpg
 teaser: Natural-Farming-Masanobu-Fukuoka.jpg
 ---

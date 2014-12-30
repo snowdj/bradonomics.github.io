@@ -4,8 +4,8 @@ title: Reading List — July 2013
 headline: Reading List — July 2013
 modified:
 excerpt: Books I read and web articles I found interesting in July of 2013.
-category: Article
-tags: [Reading List, Books]
+category: Reading List
+tags: [Books]
 image: 4-hour-chef-cover.jpg
 teaser: 4-hour-chef-cover.jpg
 ---

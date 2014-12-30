@@ -4,8 +4,8 @@ title: Trust Me I'm Lying — Book Summary
 headline: Trust Me I'm Lying — Book Summary
 modified:
 excerpt: My review and summary of Ryan Holiday's book Trust Me I'm Lying.
-category: Article
-tags: [Reading List, Books, Marketing]
+category: Reading List
+tags: [Books, Marketing]
 teaser:
 book:
   title: Trust Me I'm Lying
