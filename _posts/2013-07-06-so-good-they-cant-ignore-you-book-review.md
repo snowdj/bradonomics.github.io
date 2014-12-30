@@ -110,7 +110,7 @@ Alex Berger's exercise of this practice was about what you'd expect. Being a wri
 
 Alex and Mike's stories provide a nice example of deliberate practice for knowledge workers but how can we apply it to our own work? According to Newport there are two types of career capital markets: winner-take-all and auction. "The first task in building a deliberate practice strategy is to figure out what type of career capital market you are competing in. Answering this question might seem obvious, but it's surprisingly easy to get it wrong." Unfortunately there's little elaboration on this point. There are a few examples from Alex and Mike's stories but, since it's so "easy to get wrong," there should probably be a checklist of some type. Sadly there isn't.
 
-This section seems a little thin to me. The only thing that's really said on the matter is that you need to "getting good" by pushing yourself in tasks related to your career that stretch you. Pushing passed what's comfortable and also getting feedback. According to Newport, "it's in honest, sometimes harsh feedback that you learn where to retrain your focus in order to continue to make progress."
+This section seems a little thin to me. The only thing that's really said on the matter is that you need to _get good_ by pushing yourself in tasks related to your career that stretch you. Pushing passed what's comfortable and also getting feedback. According to Newport, "it's in honest, sometimes harsh feedback that you learn where to retrain your focus in order to continue to make progress."
 
 ## Rule #3: Control Traps and How to Avoid Them
 

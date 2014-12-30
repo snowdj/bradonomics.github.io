@@ -15,7 +15,7 @@ In brief, you'll want to note that this website acts no different than all other
 
 For normal people the above should suffice, for lawyers keep reading...
 
-This privacy policy extends to the website bradonomics.com and all authors associated with the website (hereafter "bradonomics.com," "Bradonoimcs," "we," "us," "the site" or "our site"). This Privacy Policy describes the information collected on the site and how it's used, the choices you can make about your information and how we protect your information.
+This privacy policy extends to the website bradonomics.com and all authors associated with the website (hereafter "bradonomics.com," "Bradonomics," "we," "us," "the site" or "our site"). This Privacy Policy describes the information collected on the site and how it's used, the choices you can make about your information and how we protect your information.
 
 ### How information is gathered
 
