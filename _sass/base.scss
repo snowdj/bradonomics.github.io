@@ -6,7 +6,7 @@
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
- 
+
 /* Prevent scroll on narrow devices */
 html,
 body {
@@ -37,13 +37,38 @@ body {
       -ms-text-size-adjust: 100%;
 }
 
-/* No `:visited` state is required by default (browsers will use `a`) */
+/* No ':visited' state is required by default (browsers will use 'a') */
+
 a {
   color: #0a86bf;
   text-decoration: none;
 }
-/* `:focus` is linked to `:hover` for basic accessibility */
+
+/* ':focus' is linked to ':hover' for basic accessibility */
+
 a:hover,
 a:focus {
   text-decoration: underline;
+}
+
+/* icons for ebooks */
+
+.pdf, a[href $=".pdf"],
+.epub, a[href $=".epub"],
+.mobi, a[href $=".mobi"],
+.azw, a[href $=".azw"] {
+  padding-left: 20px;
+  min-height:16px;
+}
+
+.pdf, a[href $=".pdf"] {
+  background: url(/images/document-pdf.png) no-repeat 0 50%;
+}
+
+.epub, a[href $=".epub"] {
+  background: url(/images/document-epub.png) no-repeat 0 50%;
+}
+
+.mobi, .azw, a[href $=".mobi"], a[href $=".azw"] {
+  background: url(/images/document-mobi.png) no-repeat 0 50%;
 }
