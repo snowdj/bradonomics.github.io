@@ -5,6 +5,7 @@ headline: Baseline Report February 2014
 sub-heading:
 description: Is it possible to live in Chiang Mai Thailand for $500 per month?
 category: baseline report
+category-url: baseline-report
 featured-image:
 permalink:
 ---

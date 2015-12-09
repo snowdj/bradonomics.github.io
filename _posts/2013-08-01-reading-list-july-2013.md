@@ -5,6 +5,7 @@ headline: Reading List — July 2013
 sub-heading:
 description: Books I read and web articles I found interesting in July of 2013.
 category: reading list
+category-url: reading-list
 featured-image:
 permalink:
 ---

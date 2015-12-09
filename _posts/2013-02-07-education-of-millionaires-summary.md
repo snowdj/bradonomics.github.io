@@ -5,6 +5,7 @@ headline:
 sub-heading:
 description: My summary of Micheal Ellsberg's book The Education of Millionaires.
 category: reading list
+category-url: reading-list
 book:
   title: The Education of Millionaires
   author: Micheal Ellsberg

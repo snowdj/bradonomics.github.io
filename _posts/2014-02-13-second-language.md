@@ -6,6 +6,7 @@ headline:
 sub-heading: How I failed to learn Japanese, Spanish and Thai, and finally found a method of language learning that worked for me.
 description: How I failed to learn Japanese, Spanish and Thai, and finally found a method of language learning that worked for me.
 category: language learning
+category-url: language-learning
 featured-image: Silent-Period-Language-Learning.jpg
 permalink:
 ---

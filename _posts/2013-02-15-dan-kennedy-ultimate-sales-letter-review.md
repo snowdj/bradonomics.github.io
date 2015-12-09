@@ -5,6 +5,7 @@ headline:
 sub-heading:
 description: My review of Dan Kennedy's book The Ultimate Sales Letter.
 category: reading list
+category-url: reading-list
 book:
   title: The Ultimate Sales Letter
   author: Dan Kennedy

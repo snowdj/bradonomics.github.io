@@ -5,6 +5,7 @@ headline:
 sub-heading:
 description: Keith Ferrazzi has built one of the world's largest networks. Here he shows how you can do the same.
 category: reading list
+category-url: reading-list
 book:
   title: Never Eat Alone
   author: Keith Ferrazzi

@@ -5,6 +5,7 @@ headline: Jeff Joslin on Keeping a Journal for MMA Training
 sub-heading:
 description: Jeff Joslin talks about how and why to keep a journal for Brazilian Jiu-Jitsu and MMA training.
 category: martial arts
+category-url: martial-arts
 featured-image:
 permalink:
 ---

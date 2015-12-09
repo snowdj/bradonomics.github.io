@@ -5,6 +5,7 @@ headline:
 sub-heading:
 description: After breaking my email I decided to setup with Zoho and Mailbird.
 category:
+category-url:
 featured-image:
 permalink:
 ---

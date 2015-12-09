@@ -5,6 +5,7 @@ headline:
 sub-heading:
 description:
 category: language learning
+category-url: language-learning
 featured-image:
 permalink: /parkinsons-law-and-language-learning/
 ---

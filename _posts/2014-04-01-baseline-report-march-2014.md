@@ -5,6 +5,7 @@ headline: Baseline Report March 2014
 sub-heading:
 description: My monthly expense report for Chiang Mai Thailand.
 category: baseline report
+category-url: baseline-report
 featured-image:
 permalink:
 ---

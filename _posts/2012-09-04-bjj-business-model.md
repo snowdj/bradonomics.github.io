@@ -5,6 +5,7 @@ headline:
 sub-heading:
 description:
 category: martial arts
+category-url: martial-arts
 featured-image:
 permalink:
 ---

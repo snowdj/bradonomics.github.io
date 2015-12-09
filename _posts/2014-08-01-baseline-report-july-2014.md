@@ -5,6 +5,7 @@ headline: Baseline Report July 2014
 sub-heading:
 description: Living for less than $400 per month in Chiang Mai? $500 per month is no longer the exception, it's the rule.
 category: baseline report
+category-url: baseline-report
 featured-image:
 permalink:
 ---

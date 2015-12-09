@@ -5,6 +5,7 @@ headline:
 sub-heading:
 description: Books I read and web articles I found interesting during the spring of 2013.
 category: reading list
+category-url: reading-list
 featured-image:
 permalink:
 ---

@@ -5,6 +5,7 @@ headline:
 sub-heading:
 description: My review and summary of Ryan Holiday's book Trust Me I'm Lying.
 category: reading list
+category-url: reading-list
 book:
   title: Trust Me I'm Lying
   author: Ryan Holiday

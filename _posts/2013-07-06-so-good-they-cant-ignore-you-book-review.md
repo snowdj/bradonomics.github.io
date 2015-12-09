@@ -5,6 +5,7 @@ headline:
 sub-heading:
 description: A review and summery of Cal Newport's Book So Good They Can't Ignore You.
 category: reading list
+category-url: reading-list
 book:
   title: So Good They Can't Ignore You
   author: Cal Newport

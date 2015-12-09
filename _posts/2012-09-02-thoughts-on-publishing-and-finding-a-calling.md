@@ -5,6 +5,7 @@ headline:
 sub-heading:
 description:
 category: random musings
+category-url: random-musings
 featured-image:
 permalink:
 ---
