@@ -1,17 +1,16 @@
 ---
 layout: book
 title: The Education of Millionaires — Book Summary
-headline: The Education of Millionaires — Book Summary
-modified:
-excerpt: My summary of Micheal Ellsberg's book The Education of Millionaires.
-category: Reading List
-tags: [Books, Careers]
-teaser:
+headline:
+sub-heading:
+description: My summary of Micheal Ellsberg's book The Education of Millionaires.
+category: reading list
 book:
   title: The Education of Millionaires
   author: Micheal Ellsberg
   cover: The-Education-of-Millionaires.jpg
 amazon: http://amzn.com/B0052RDJFE?tag=bnomics-20
+permalink:
 ---
 
 I read an article by Micheal Ellsberg called [8 Steps to Getting What You Want... Without Formal Credentials](http://www.fourhourworkweek.com/blog/2011/09/29/8-steps-to-getting-what-you-want-without-formal-credentials/) when it was first published in September of 2011. At the time it didn't have much affect on me. A few weeks ago a friend recommended the article and I read it again. This time I was ready to hear Ellsberg's message. The book reviews on bradonomics are largely from the advice he gives in that article so I thought it fitting to read and summarize his book.
@@ -59,7 +58,7 @@ Ellsberg talks about using your "Connection Capital" to build your network. By i
 Michael recommends giving relevant and valuable advice. Even if you think you don't have any advice to offer, you probably do. There are three areas that Eben Pagen, one of the interviewees in the book, says people spend most of their time worrying about. Money, relationships and health. Very few people have all three figured out and if you can uncover the one they need help with, and give good advice, you'll be able to bring them into your network. So how can you uncover their area of worry?
 
 > I'm going to teach you two questions that, if you put them into use at parties, events, and conferences, will change your life forever and will grow your network faster than you ever thought possible:
-> 
+>
 > 1.  What's most exciting for you right now in your life/business?
 > 2.  What's challenging for you in your life/business right now?
 
@@ -114,8 +113,8 @@ This concept is a bit hard to pin-down without rewriting large parts of the book
 The epilogue is more stories about how going into debt for college is a bad idea. It's probably best to skip this section unless you're a high school student looking to harden your argument with your parents for why you don't want to go to university. But if there's one part of the book that really sums the idea that going to college isn't a good idea, I think it's this part from chapter 5.
 
 > I've got an investment opportunity for you. It's going to require an investment of about $45,000 to $200,000 on your part over several years. Given your current finances, you're going to need to borrow a large part of that amount, that is, invest on margin, but that's OK, the rates are pretty low.
-> 
+>
 > The business I'd like you to invest in is, well, sort of in the exploratory/development phase. It doesn't really know what business it's in, to be frank, or what product or service it sells. In fact, it may not even know that for a few years. The chief executive in the business may have to move back in with her parents at some point during this time---before she figures out the business's mission, revenue model, or core competency.
-> 
+>
 > The business you're about to invest in has absolutely no knowledge or experience in sales or marketing. It doesn't even really know how to keep its own books or balance a budget, and often runs up a lot of credit card debt. It's not even sure it wants to be a business; the CEO may want to start a nonprofit, pursue a passion in acting, or go help orphans in Botswana. The chief executive has no business network or contacts to speak of, and in fact has no experience whatsoever running a business.
 > Wanna invest?

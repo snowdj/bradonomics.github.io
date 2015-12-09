@@ -1,22 +1,38 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-// Imports
-@import "reset";
-@import "base";
-@import "header";
-@import "headings";
-@import "home-projects";
-@import "post-list";
-@import "post-grid";
-@import "sidebar";
-@import "body";
-@import "images";
-@import "archive";
-@import "books";
-@import "code";
-@import "pagination";
-@import "iframe";
-@import "forms";
-@import "footer";
-@import "fancy";
+/* Variables
+-------------------------------------------------- */
+// $primary-font-family: 'Gentium Basic', Georgia, serif;
+// $secondary-font-family: Poppins, Helvetica, Arial, sans-serif;
+//
+// $primary-color: #166678;
+// $secondary-color: #7DB9B3;
+//
+// $header-background-color: #2E3837;
+// $header-text-color: #E1F6F4;
+// $footer-background-color: #2E3837;
+// $footer-text-color: #E1F6F4;
+//
+// $front-page-1-background: #E1F6F4;
+// $front-page-2-background: url('/images/profile.jpg');
+// $front-page-3-background: #7DB9B3;
+// $front-page-4-background: url('/images/flock.jpg');
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+  "normalize",
+  "base",
+  "structure",
+  "header",
+  "navigation",
+  "inner",
+  "images",
+  "iframe",
+  "home",
+  "books",
+  "archive",
+  "code",
+  "footer"
+;

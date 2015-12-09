@@ -1,17 +1,16 @@
 ---
-layout: noimage
+layout: post
 title: Reading List — July 2013
 headline: Reading List — July 2013
-modified:
-excerpt: Books I read and web articles I found interesting in July of 2013.
-category: Reading List
-tags: [Books]
-image: 4-hour-chef-cover.jpg
-teaser: 4-hour-chef-cover.jpg
+sub-heading:
+description: Books I read and web articles I found interesting in July of 2013.
+category: reading list
+featured-image:
+permalink:
 ---
 
-<img class="pullright" src="http://bradonomics.com/images/4-hour-chef-cover.jpg">
-My introduction to Cal Newport's book [_So Good They Can't Ignore You_](http://www.amazon.com/gp/product/1455509124/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1455509124&linkCode=as2&tag=bnomics-20) was in a _Fast Company_ article which [I wrote about here](http://bradonomics.wordpress.com/2012/10/03/follow-passion-useful-advice/). I've been interested to read the book since but just haven't made time. I finally got a copy of the book and the _Fast Company_ article does not do it justice. I wrote a review of the book; [you can read it here](http://bradonomics.com/so-good-they-cant-ignore-you-book-review/). Before you read my review I'll preface it with this, if you're struggling to find meaning in your work or looking for a new career, you need to read this book.
+<img class="pullright" src="{{ site.url }}/images/4-hour-chef-cover.jpg">
+My introduction to Cal Newport's book [_So Good They Can't Ignore You_](http://www.amazon.com/gp/product/1455509124/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1455509124&linkCode=as2&tag=bnomics-20) was in a _Fast Company_ article which [I wrote about here](http://bradonomics.wordpress.com/2012/10/03/follow-passion-useful-advice/). I've been interested to read the book since but just haven't made time. I finally got a copy of the book and the _Fast Company_ article does not do it justice. I wrote a review of the book; [you can read it here]({{ site.url }}/so-good-they-cant-ignore-you-book-review/). Before you read my review I'll preface it with this, if you're struggling to find meaning in your work or looking for a new career, you need to read this book.
 
 Since I was thinking about career trajectory and was riding a wave of motivation after reading Newport's book, I decided to see what Steven Pressfield had to say in [_Turning Pro_](http://www.amazon.com/gp/product/B0087TUM54/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0087TUM54&linkCode=as2&tag=bnomics-20). I was a little disappointed. [_The War of Art_](http://www.amazon.com/gp/product/B007A4SDCG/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007A4SDCG&linkCode=as2&tag=bnomics-20) is a great book, and one I'd highly recommend, but _Turning Pro_ seemed, at best, an addendum---_The War of Art, Revised and Updated_ would have been better. If you've already read _The War of Art_, you can skip _Turning Pro_. If you're decided between the two, well...
 
@@ -37,4 +36,4 @@ Below are the articles I found on the web this month that were interesting or ed
 
 That last one, Solitude and Leadership, is a must read if you have any intention of being a leader. Once you read it, I'd love to hear your thoughts. Email me at brad@bradonomics.com and let's talk about it.
 
-**Update:** Most books I read don't make it onto the blog but if you're interested you can see all the books I've read on [Goodreads](https://www.goodreads.com/bradonomics). And all of the web articles I read are archived on [Readlists](http://readlists.com/user/bradonomics/).
+**Update:** Most books I read don't make it onto the blog but if you're interested you can see all the books I've read on [Goodreads](https://www.goodreads.com/bradonomics).

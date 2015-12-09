@@ -1,14 +1,8 @@
 ---
-layout: noimage
+layout: page
 title: Disclosures
 headline: FTC and Other Disclosures
 permalink: /ftc-disclosures/
-modified:
-excerpt:
-image:
-  feature:
-  teaser:
-  thumb:
 ---
 
 Per the Federal Trade Commission of the United States I have to disclose all relationships and/or offers that _might_ make me money. That means if I interview someone and they pay for lunch or give me schwag, I'd need to tell you. If I use an Amazon link that gets me 8 cents instead of an Amazon link that gets me 0 cents, I would need to tell you this also. If someone gives me a t-shirt with a logo, I'd need to tell you that someone gave it to me.

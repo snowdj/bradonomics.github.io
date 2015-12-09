@@ -1,16 +1,14 @@
 ---
 redirect_from: /stupid-learn-second-language/
-layout: image
+layout: post
 title: Too Stupid to Learn a Second Language?
-headline: Too Stupid to Learn a Second Language?
-modified:
-excerpt: How I failed to learn Japanese, Spanish and Thai, and finally found a method of language learning that worked for me.
-category: Language Learning
-tags: [Personal, ALG, Dr Brown]
-image: Silent-Period-Language-Learning.jpg
-teaser: Silent-Period-Language-Learning.jpg
+headline:
+sub-heading: How I failed to learn Japanese, Spanish and Thai, and finally found a method of language learning that worked for me.
+description: How I failed to learn Japanese, Spanish and Thai, and finally found a method of language learning that worked for me.
+category: language learning
+featured-image: Silent-Period-Language-Learning.jpg
+permalink:
 ---
-
 In 1999 I moved to Japan. Or, I should say, I was sent to Japan. After high school I joined the United States Marine Corps and my first assignment was to Okinawa. I had no real interest in going but after some months Japan started to grow on me, and I became interested to learn Japanese language. I got a few books and a CD set and started learning the basics, things like: "Are you open?" and "Where is the bathroom?" It was a struggle. I had a hard time remembering the words. The worst part was, even when I could make myself understood, I couldn't understand their reply. I still remember being at a World War II memorial and saying hello to a woman in Japanese. She replied with a torrent of Japanese I had no hope of understanding. After a few months the books found their way into a drawer. I didn't really need to learn Japanese; I was on a military base surrounded by other Americans. On top of that I was leaving in six months, returning to the US where, I thought, Japanese would be less than useless.
 
 Once I was back in the US I regretted not learning and pulled the books out again. If you think Japanese is hard where you've got easy access to native speakers, try learning it in the California desert. The results weren't coming and I gave up even quicker than before. Two thoughts then occurred to me: maybe a romance language would be easier than an Asian language and maybe it would be easier to learn a language I believed would benefit me. With the large immigration of Hispanics to the US, I thought learning Spanish might get me a job. At the very least, I could talk with my neighbors. So I bought books and CD's, just as before, and started again: "Are you open?" "Where is the bathroom?"
@@ -25,7 +23,7 @@ During the first few days in the library stacks, all I found was more of the sam
 
 Dr. Brown had been involved with language learning and teaching since 1944, but it was in 1962 after receiving his Ph.D. in linguistics that he started teaching at the AUA school in Bangkok. He taught there until 1980 and over those 28 years he was trying to teach English to Thai's and Thai to non-Thai's. In both cases, he failed.
 
-In his autobiography, [_From the Outside In_](http://bradonomics.com/brown-autobiography/), he talks about the hopes he had of getting Thai students to speak English at a near native level. All the while he kept noticing things---things that would contradict his understanding of language learning. For example, he once observed that the main job of servants in Thailand was to listen and the main job of bargirls was to talk. Since servants had better English pronunciation than bargirls, then American Foreign Service students should have better Thai pronunciation than missionaries. So why was it that the missionaries had better Thai pronunciation?
+In his autobiography, [_From the Outside In_]({{ site.url }}/brown-autobiography/), he talks about the hopes he had of getting Thai students to speak English at a near native level. All the while he kept noticing things---things that would contradict his understanding of language learning. For example, he once observed that the main job of servants in Thailand was to listen and the main job of bargirls was to talk. Since servants had better English pronunciation than bargirls, then American Foreign Service students should have better Thai pronunciation than missionaries. So why was it that the missionaries had better Thai pronunciation?
 
 It turns out that the Mormon missionaries Dr. Brown was observing do their preaching in pairs. For the first six months in-country, Mormon missionaries are known as "juniors." During this time, they listen while the "seniors" do all the talking. They listen to their senior and the people they preach to and only once they become seniors do they start talking. The American Foreign Service students are encouraged to speak by their classmates, teachers and family from the first day they arrive in Thailand. That doesn't mean that the American Foreign Service students did poorly. There's a story in Dr. Brown's book about an American Foreign Service student giving a presentation at the AUA School after being in Thailand for only one year, and he was surprised how well the student spoke Thai. Dr. Brown started wondering how American Foreign Service students could achieve in one year what it had taken him five years to achieve. He even took some notes:
 
@@ -48,5 +46,3 @@ In the last term before Dr. Brown moved, he taught a class in Natural Approach T
 I still remember reading Dr. Brown's book for the first time after failing my Thai class at university. It must have been a similar experience Paul had on the way to Damascus. The idea that the more you tried the worse you'd be, resonated with me in a way I can't explain. I threw away my dictionary and stopped speaking Thai. I called the AUA School in Bangkok to see if they had a program in Chiang Mai, but they didn't. David Long, the coordinator of the Thai program, told me about a method for maintaining the silent period and getting the necessary input---a system they call [Crosstalk](http://algworld.com/crosstalk). I tried using the system he described and also tried getting input from TV and movies but it wasn't working like Dr. Brown had described in his book. Things were slow and I felt I had two options. Give up again or move to Bangkok.
 
 In April of 2011 I moved to Bangkok and enrolled at the AUA School. Things were slow at first, and there were times I wondered if I'd ever learn a second language, but slowly I did start to understand. What really solidified my belief in Dr. Brown's theories happened one day at the mall. Something was announced over the intercom and my friend asked what was said. I explained. My friend then asked if they announced it in Thai or in English, and I didn't know. All I knew was I understood it. He told me that it was in Thai and I fell in love with the idea that language could be learned from stories.
-
-Over the coming months I intend to write more about Dr. Brown's method and discuss his more controversial ideas. Things like the silent period and damage---or what linguists now call fossilization. I hope you'll follow along as I discuss these ideas and, if you've got feedback, I hope you'll email: brad@bradonomics.com.

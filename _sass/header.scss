@@ -1,181 +1,94 @@
-/* Site Header
-   ========================================================================== */
+/* Header
+-------------------------------------------------- */
+.site-header {
+  width: 100%;
+  height: 70vh;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 0 auto;
+      -ms-flex: 1 0 auto;
+          flex: 1 0 auto;
+  background-attachment: fixed;
+  background-color: #0a86bf;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 999;
+}
 
-header {
+.noimage .site-header {
+  // height: 0;
+  display: none;
+}
+
+.home .site-header {
+  height: 30vh;
   text-align: center;
-  position:relative;
-  width:100%;
+}
+@media (min-width: 550px) {
+  .home .site-header {
+    height: 60vh;
+    padding: 15% 0;
+  }
+}
+@media (min-width: 750px) {
+  .home .site-header {
+    height: 100vh;
+    margin-bottom: 50px;
+    background-image: url('/images/bradonomics-cover.jpg');
+  }
+}
+
+.site-header .wrap {
+  padding: 20px 5%;
+}
+@media (min-width: 1000px) {
+  .site-header .wrap {
+    padding: 40px 0;
+  }
 }
 
 .site-title {
   display: inline-block;
-  padding: 16px;
-  padding: 1rem;
-  margin-top: 3rem;
-  font-family: 'Oswald', sans-serif;
-  font-size: 35px;
-  font-size: 2.188rem;
+  padding: 20px;
+  margin-top: 25px;
+  font-family: Oswald, sans-serif;
+  font-size: 40px;
   line-height: 1;
   text-transform: uppercase;
-  color: #fff;
   background-color: #0a86bf;
 }
-
-.section-divider {
-  display: block;
-  width: 100px;
-  margin: 48px auto;
-  margin: 3rem auto;
-  border: 0;
-  border-bottom: 1px solid #000;
-  border-top: 1px solid rgba(0,0,0,0.15);
-}
-
-.title-area {
-  margin-top: 2rem;
-  padding: 0 1.618em;
-}
-.title-area p {
-  margin-bottom: 24px;
-  margin-bottom: 1.5rem;
-  font-size: 20px;
-  font-size: 1.25rem;
-  line-height: 1.2;
-}
-@media screen and (min-width: 48em) {
-  .title-area p {
-      margin-bottom: 24px;
-      margin-bottom: 1.5rem;
-      font-size: 24px;
-      font-size: 1.5rem;
-      line-height: 1;
+@media (min-width: 550px) {
+  .site-title {
+    margin-top: 80px;
   }
 }
-@media screen and (min-width: 62.5em) {
-  .title-area p {
-      margin-bottom: 24px;
-      margin-bottom: 1.5rem;
-      font-size: 32px;
-      font-size: 2rem;
-      line-height: 1.5;
+@media (min-width: 750px) {
+  .site-title {
+    margin-top: 60px;
+  }
+}
+@media (min-width: 1000px) {
+  .site-title {
+    margin-top: 0;
   }
 }
 
-.home-title-area {
-  margin-top: 1rem;
-  top: 0;
-  position: absolute;
-  width: 100%;
-}
-@media screen and (min-width: 20em) {
-  .home-title-area {
-    margin-top: 1rem;
-    top: 20px;
-  }
-}
-@media screen and (min-width: 26em) {
-  .home-title-area {
-    margin-top: 2rem;
-    top: 40px;
-  }
-}
-@media screen and (min-width: 62.5em) {
-  .home-title-area {
-    margin-top: 2rem;
-    top: 100px;
-  }
-}
-
-.home-title-area p {
-  margin-bottom: 24px;
-  margin-bottom: 1.5rem;
-  font-size: 20px;
-  font-size: 1.25rem;
-  line-height: 1.2;
+.site-title a,
+.site-title a:hover {
   color: #fff;
+  text-decoration: none;
 }
-
-/* Homepage Bio Area
-   ========================================================================== */
 
 .bio-area {
   display: none;
 }
-@media screen and (min-width: 48em) {
+@media (min-width: 750px) {
   .bio-area {
     display: block;
-    max-width: 21rem;
+    max-width: 420px;
     margin-left: auto;
     margin-right: auto;
-    font-family: 'Bitter', Helvetica, sans-serif;
+    font-family: Bitter, Georgia, serif;
+    color: #fff;
   }
-}
-
-
-/* Titles
-   ========================================================================== */
-
-h1.entry-title {
-  font-family: 'Bitter', Georgia, serif;
-  font-size: 48px;
-  font-size: 3rem;
-  font-weight: 700;
-}
-@media screen and (min-width: 48em) {
-  h1.entry-title {
-    font-size: 48px;
-    font-size: 3rem;
-    line-height: 1.2;
-    margin-bottom: 24px;
-    margin-bottom: 1.5rem
-  }
-}
-
-h2.entry-title {
-    font-family: 'Bitter', Georgia, serif;
-    font-size: 30px;
-    font-size: 1.875rem;
-   	font-weight: 700;
-    line-height: 1;
-    margin-bottom: 24px;
-    margin-bottom: 1.5rem
-}
-
-.entry-title a,
-h2.entry-title a {
-	color: #333;
-	text-decoration: none;
-}
-
-.entry-title a:hover,
-h2.entry-title a:hover {
-	color: #0A86BF;
-	text-decoration: none;
-}
-
-/* Sub-Titles
-   ========================================================================== */
-
-.sub-heading {
-  color: #B0B0B0;
-}
-
-/* Header Images
-   ========================================================================== */
-
-.bg {
-  position: inherit;
-	width:100%;
-	height:100%;
-	z-index:-100;
-}
-
-.bg-full {
-  width: 100%;
-  height: 100%;
-	z-index:10;
-}
-
-.bg-full img {
-  width: inherit;
 }

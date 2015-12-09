@@ -1,19 +1,17 @@
 ---
 layout: book
 title: So Good They Can't Ignore You — Book Review
-headline: So Good They Can't Ignore You — Book Review
-modified:
-excerpt: A review and summery of Cal Newport's Book So Good They Can't Ignore You.
-category: Article
-tags: [Reading List, Books, Careers]
-teaser: So-Good-Newport.jpg
+headline:
+sub-heading:
+description: A review and summery of Cal Newport's Book So Good They Can't Ignore You.
+category: reading list
 book:
   title: So Good They Can't Ignore You
   author: Cal Newport
   cover: So-Good-Newport.jpg
 amazon: http://www.amazon.com/gp/product/1455509124/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1455509124&linkCode=as2&tag=bnomics-20
+permalink:
 ---
-
 I've long wondered why some people love what they do while others lead lives of mediocrity and boredom. I've spent a lot of time thinking about the topic as it applies to my life and those closest to me. I've read many books on the topic and spent many hours in conversation trying to crack the code, if there is a code to be cracked.
 
 What's interesting is, most of the advice on the subject is the same. No matter how educated someone is or what their background or whether they have passion for their own job, everyone offers the same thing---forget about money and pursue passion. Everyone until Cal Newport that is...
@@ -39,9 +37,9 @@ The holes in this argument are so apparent to me, I have a hard time explaining 
 Other research comes from Daniel Pink in his book [_Drive_](http://www.amazon.com/gp/product/1594484805/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1594484805&linkCode=as2&tag=bnomics-20) where he talks about Self-Determination Theory.
 
 > Self-Determination Theory (SDT), which is arguably the best understanding science currently has for why some pursuits get our engines running while others leave us cold.
-> 
+>
 > SDT tells us that motivation, in the workplace or elsewhere, requires that you fulfill three basic psychological needs---factors described as the "nutriments" required to feel intrinsically motivated for your work:
-> 
+>
 > *   Autonomy: the feeling that you have control over your day, and that your actions are important
 > *   Competence: the feeling that you are good at what you do
 > *   Relatedness: the feeling of connection to other people

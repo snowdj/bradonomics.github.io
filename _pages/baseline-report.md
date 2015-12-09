@@ -1,22 +1,18 @@
 ---
-layout: noimage
+layout: category
 title: The Baseline Report from Bradonomics
-headline: The Baseline Report
+description: Is it possible to live in Chiang Mai Thailand for $500 per month? Check out the Baseline Report and find out.
+category: baseline report
 permalink: /baseline-report/
-modified: 2014-08-31
-excerpt: Is it possible to live in Chiang Mai Thailand for $500 per month? Check out the Baseline Report and find out.
-image:
-  feature:
-  teaser:
-  thumb:
 ---
+Pat Flynn was the first blogger I saw publishing [monthly income reports](http://www.smartpassiveincome.com/tag/monthly-income-report/). Shortly after a lot of entrepreneurs, especially those in the affiliate space, jumped on the bandwagon. When these reports first started I thought they were great but quickly saw the limitations. As long as you intend to do something similar to the guy publishing the report, they can be helpful. But what if your business is completely different?
 
-baselining
----verb
+In 2009 I moved to Thailand with the goal of starting a business. My idea was to leave the US where my savings (and GI Bill) would go further—but Thailand was largely arbitrary. Shortly after I moved Dan Andrews started publishing a podcast and talking about creative baselining and whether it was better to bootstrap a business from the Philippines or Bali or Thailand. Here are some of the articles:
 
-: 1. Reducing your expenses as low as possible to increase your runway.
-2. Moving to a less expensive country while you launch your business.
+ * [Thailand vs. Bali vs. the Philippines. What's the Best Spot for an Internet Entrepreneur?](http://www.tropicalmba.com/thailand-vs-bali-vs-philippines/)
+ * [One of the Cheapest Ways to Start Your Online Business](http://www.tropicalmba.com/for-the-bold-one-of-the-cheapest-ways-to-start-your-online-business/)
+ * [Use Mobility to Win Back Your Time + The Real Cost of Living in Bali](http://www.tropicalmba.com/cost-of-living-in-bali/)
 
-There are a lot of income reports online and so long as you intend to do something similar to the guy publishing it, those reports could be helpful. But what if your business is completely different? Those reports are less than useless. What might be useful to a bootstrapping entrepreneur is a report of baseline expenses.
+Most of the time I've lived in Thailand I've been a university student so my living expenses have included tuition. One benefit of being a student is getting a year-long VISA so I don't have to do border runs. Over the years I've averaged around $1,000 USD in expenses per month. It didn't matter if I was paying tuition or, in the year I took off, doing VISA runs every three months—my expenses were the same. But having not kept a budget I can't be certain of my expenses and that's why I decided to start the Baseline Report.
 
-If you're interested in bootstrapping your business in Chiang Mai, Thailand the reports below should prove helpful.
+It seems to me that a report of living expenses would be more useful to bootstrapping entrepreneurs than an income report. Some of the articles below explain more about my living situation so you can have a better idea of what your expenses might be if you choose to launch your business from Chiang Mai.

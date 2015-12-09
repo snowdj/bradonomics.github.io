@@ -1,0 +1,27 @@
+# Site settings
+title: Bradonomics
+description: The Blog of Brad West
+logo: brad-west-logo-160x120.jpg # 120x120 px default image used for Twitter summary card
+teaser: brad-west-theme-300x225.jpg # 400x250 px default teaser image used in image archive grid
+baseurl: ""
+url: http://local.dev:3000
+
+# Jekyll configuration
+paginate: 5
+permalink: /:title/
+markdown: kramdown
+highlighter: pygments
+encoding: utf-8
+sass:
+  sass_dir: _sass
+  # style: compressed
+
+gems:
+  - jekyll-redirect-from
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+include: ["_pages"]
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "gulpfile.js", "package.json"]

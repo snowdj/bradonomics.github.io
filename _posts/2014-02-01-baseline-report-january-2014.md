@@ -1,15 +1,13 @@
 ---
-layout: noimage
+layout: post
 title: January 2014 Expense Report for Chiang Mai Thailand
 headline: Baseline Report January 2014
-modified:
-excerpt: Living on $500 per month in Chiang Mai Thailand? Yes, it's true.
-category: Baseline Report
-tags: [Chiang Mai, Personal Finance]
-image: Chiang-Mai-Spending-Graph-Jan-2014.jpg
-teaser: Chiang-Mai-Spending-Graph-Jan-2014.jpg
+sub-heading:
+description: Living on $500 per month in Chiang Mai Thailand? Yes, it's true.
+category: baseline report
+featured-image:
+permalink:
 ---
-
 Last month I posted almost no information other than the numbers. A recap to understand what's going on behind these numbers is probably needed.
 
 Most of the time I've lived in Thailand I've been a university student so my living expenses have included tuition. That means I get a student VISA and have no need to do border runs. Over the the last five years I've averaged around $1,000 USD in expenses per month. It didn't matter if I was paying tuition or, in the year I took off, doing VISA runs every three months---my expenses were the same.
@@ -25,7 +23,8 @@ Conversion of the Baht as I'm writing this is 33.03 for one US Dollar, 44.53 for
 |Euro          |382   |
 |British Pound |314   |
 
-![Cost of Living Chiang Mai Thailand](http://bradonomics.com/images/Chiang-Mai-Spending-Category-List-Jan-2014.jpg)![Chiang Mai Cost of Living](http://bradonomics.com/images/Chiang-Mai-Spending-Graph-Jan-2014.jpg)
+<figure><img class="center" src="{{ site.url }}/images/baseline-report/Chiang-Mai-Spending-Category-List-Jan-2014.jpg" alt="Cost of Living Chiang Mai Thailand"></figure>
+<figure><img class="center" src="{{ site.url }}/images/baseline-report/Chiang-Mai-Spending-Graph-Jan-2014.jpg" alt="Chiang Mai Cost of Living"></figure>
 
 I need your help to make the Baseline Report better. What information would be helpful? Please email me brad@bradonomics.com or let's connect on twitter: [@bradonomics](https://twitter.com/bradonomics).
 

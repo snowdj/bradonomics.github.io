@@ -1,16 +1,15 @@
 ---
-layout: noimage
+layout: post
 title: Reading List — March, April and May 2013
-headline: Reading List — March, April and May 2013
-modified:
-excerpt: Books I read and web articles I found interesting during the spring of 2013.
-category: Reading List
-tags: [Books]
-image: Natural-Farming-Masanobu-Fukuoka.jpg
-teaser: Natural-Farming-Masanobu-Fukuoka.jpg
+headline:
+sub-heading:
+description: Books I read and web articles I found interesting during the spring of 2013.
+category: reading list
+featured-image:
+permalink:
 ---
 
-<img class="pullright" src="http://bradonomics.com/images/Natural-Farming-Masanobu-Fukuoka.jpg">
+<img class="pullright" src="{{ site.url }}/images/Natural-Farming-Masanobu-Fukuoka.jpg">
 While I was WWOOFing in Japan I read [_The Millionaire Messenger_](http://www.amazon.com/gp/product/B005HF4DQA/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005HF4DQA&linkCode=as2&tag=bnomics-20) by Brendon Burchard. This was a great read and gave some great insights into the "guru industry." If you have no interest in the industry but want to be an author, this book gives good advice on building a platform. Most of the book is based on his experience becoming well known in this guru industry. And there are some candid moments.
 
 > I followed in the footsteps of those who had come before me, those who had left a real job to go out and follow their dreams and share their important message with the world. And I got the same results as most of them: I promptly went broke.

@@ -1,16 +1,28 @@
 ---
 layout: default
 ---
-
-<header>
-<div class="title-area">
-<h1 class="entry-title">{{ page.headline }}</h1>
-</div>
+<header class="entry-header">
+  <h1 class="entry-title" itemprop="headline">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
 </header>
+
 <div class="section-divider"></div>
-<div id="book-wrapper">
-<article class="book-article book">
-{{ content }}
-{% include page-meta.html %}
-</article>
-{% include book.html %}
+
+<div class="book-wrapper">
+  <article class="book entry" itemscope itemtype="http://schema.org/CreativeWork">
+
+    <div class="entry-content" itemprop="articleBody">
+      {{ content }}
+    </div>
+
+  <footer class="entry-footer">
+    <p class="entry-meta">
+      {% include post-time.html %}
+      {% include post-categories.html %}
+    </p>
+  </footer>
+
+  </article>
+
+  {% include book.html %}
+
+</div>

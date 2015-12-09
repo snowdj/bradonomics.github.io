@@ -1,39 +1,116 @@
-/* Archive Grid with Images
-   ========================================================================== */
+/* Archives
+-------------------------------------------------- */
+.blog .wrap,
+.archive .wrap {
+  margin: 0 auto;
+  padding: 0 40px;
+  max-width: 1160px;
+}
 
-.th-grid {
+.archive-title {
+  text-transform: capitalize;
+}
+
+.archive-description p,
+.archive-description ul {
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 25px;
+  text-align: left;
+}
+
+.group-year {
+  display: block;
+}
+
+.group-year p {
+  display: none;
+}
+@media only screen and (min-width: 750px) {
+  .group-year p {
     display: block;
-    margin: 0;
-    padding: 0
-}
-.th-grid:after {
-    content: "";
-    display: table;
-    clear: both
-}
-.th-grid li {
-    list-style: none;
     float: left;
-    display: block;
-    margin-right: 2.35765%;
-    width: 23.23176%;
-    margin-bottom: 2.35765%
+    clear: both;
+    padding: 9px 20px 0;
+    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAABCAYAAACsXeyTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAFUlEQVQIHWNIS0sr/v//PwMMDzY+ADqMahlW4J91AAAAAElFTkSuQmCC') repeat-x;
+    background-position: top;
+    font-size: 36px;
+  }
 }
-.th-grid li:last-child {
-    margin-right: 0
+
+.group-year article {
+  padding: 20px 0;
+  position: relative;
+  background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAABCAYAAACsXeyTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAFUlEQVQIHWNIS0sr/v//PwMMDzY+ADqMahlW4J91AAAAAElFTkSuQmCC') repeat-x;
+  background-position: top;
 }
-.th-grid li:nth-child(4n) {
-    margin-right: 0
+@media only screen and (min-width: 750px) {
+  .group-year article {
+    margin-left: 150px;
+    padding-left: 90px;
+  }
+
+  .group-year article:last-child {
+    margin-bottom: 60px;
+  }
 }
-.th-grid li:nth-child(4n+1) {
-    clear: left
+
+.group-year h3 {
+  margin-bottom: 0;
+  padding: 0 20px;
+  font-size: 25px;
 }
-.th-grid a img:hover {
-    -webkit-animation: pop 0.3s 0 linear;
-    -moz-animation: pop 0.3s 0 linear;
-    animation: pop 0.3s 0 linear;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2)
+@media only screen and (min-width: 750px) {
+  .group-year h3 {
+    font-size: 30px;
+  }
 }
-.archive-wrap {
-    margin-right: 0
+@media only screen and (min-width: 1000px) {
+  .group-year h3 {
+    font-size: 36px;
+  }
+}
+
+.group-year h3 a {
+  color: #222;
+  text-decoration: none;
+}
+
+.group-year h3 a:hover {
+  color: #0a86bf;
+  text-decoration: none;
+}
+
+.group-year time {
+  padding: 0 20px;
+  font-size: 18px;
+  line-height: 24px;
+  color: #aaa;
+}
+@media only screen and (min-width: 750px) {
+  .group-year time {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%);
+    text-align: right;
+  }
+}
+.group-year time .month,
+.group-year time .day,
+.group-year time .year {
+  display: inline-block;
+}
+
+.group-year time .month {
+  text-transform: uppercase;
+}
+
+@media only screen and (min-width: 750px) {
+  .group-year time .year {
+    display: none;
+  }
 }

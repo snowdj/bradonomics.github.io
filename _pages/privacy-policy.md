@@ -1,14 +1,8 @@
 ---
-layout: noimage
+layout: page
 title: Privacy Policy
 headline: Privacy Policy
 permalink: /privacy-policy/
-modified:
-excerpt:
-image:
-  feature:
-  teaser:
-  thumb:
 ---
 
 In brief, you'll want to note that this website acts no different than all other websites. I will collect data for analytics purposes, I will try to sell you stuff and all articles, comments and other musings are those of the article or comment author.
@@ -38,22 +32,6 @@ Bradonomics.com expects its partners, advertisers and affiliates to respect the 
 While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. bradonomics.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
 
 You should also be aware that if you voluntarily disclose personally identifiable information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from third parties. Such activities are beyond the control of bradonomics.com and this policy.
-
-### DoubleClick DART Cookie
-
-*   Google, as a third party vendor, uses cookies to serve ads on bradonomics.com.
-*   Google's use of the DART cookie enables it to serve ads to users based on their visit to bradonomics.com and other sites on the Internet.
-*   Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: http://www.google.com/privacy_ads.html
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include, but are not limited to, Google Adsense and Amazon.
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on bradonomics.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
-
-Bradonomics.com has no access to or control over these cookies that are used by third-party advertisers.
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Bradonomics.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
 ### Website use by children
 

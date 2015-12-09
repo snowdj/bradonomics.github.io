@@ -1,0 +1,106 @@
+/* Navigation
+-------------------------------------------------- */
+nav {
+  padding: 0;
+}
+
+.menu-item {
+  display: block;
+  margin:0;
+  padding: 10px 20px;
+  border-top: 1px solid #fff;
+  border-top: 1px solid rgba(255,255,255,.1);
+}
+
+.menu-item:last-child {
+  border-bottom: 1px solid #fff;
+  border-bottom: 1px solid rgba(255,255,255,.1);
+}
+
+nav a.active,
+.menu-item:hover,
+.menu-item:focus {
+  text-decoration: none;
+  background-color: #0a86bf;
+  border-color: transparent;
+}
+
+nav a:hover {
+  text-decoration: none;
+}
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: -280px;
+  width: 280px;
+  visibility: hidden;
+  overflow-y: auto;
+  font-family: Bitter, serif;
+  font-size: 15px;
+  color: rgba(255,255,255,.6);
+  background-color: #202020;
+  -webkit-transition: all .3s ease-in-out;
+          transition: all .3s ease-in-out;
+  text-align: center;
+}
+
+.sidebar a {
+  font-weight: normal;
+  color: #fff;
+}
+
+.sidebar-item p {
+  margin-top: 20px;
+  margin-bottom: 0;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.sidebar-checkbox {
+  display: none !important;
+}
+
+.sidebar-toggle {
+  position: fixed;
+  top: 12px;
+  left: 12px;
+  display: block;
+  width: 46px;
+  padding: 10px 13px;
+  color: #fff;
+  background-color: #0a86bf;
+  cursor: pointer;
+  z-index: 999;
+}
+
+.sidebar-toggle:before {
+  display: block;
+  content: "";
+  width: 100%;
+  padding-bottom: 3px;
+  border-top: 7px double;
+  border-bottom: 2px solid;
+  border-top-width: 9px;
+  border-bottom-width: 3px;
+  box-sizing: border-box;
+}
+
+.site-container,
+.sidebar-toggle {
+  -webkit-transition: -webkit-transform .3s ease-in-out;
+  transition: -webkit-transform .3s ease-in-out;
+  transition: transform .3s ease-in-out;
+  transition: transform .3s ease-in-out, -webkit-transform .3s ease-in-out;
+}
+
+#sidebar-checkbox:checked + .sidebar {
+  visibility: visible;
+}
+#sidebar-checkbox:checked ~ .sidebar,
+#sidebar-checkbox:checked ~ .site-container,
+#sidebar-checkbox:checked ~ .sidebar-toggle {
+  -webkit-transform: translateX(280px);
+          transform: translateX(280px);
+}

@@ -1,74 +1,297 @@
-/* Base Styles
-   ========================================================================== */
-
-* {
-  -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
+*, *:before, *:after {
+  box-sizing: inherit;
 }
 
-/* Prevent scroll on narrow devices */
-html,
-body {
-  overflow-x: hidden;
-  margin: 0;
-  padding: 0;
+/* Float Clearing
+-------------------------------------------------- */
+.clearfix:before,
+.entry:before,
+.entry-content:before,
+.nav-primary:before,
+.nav-secondary:before,
+.site-container:before,
+.site-footer:before,
+.site-header:before,
+.site-inner:before,
+.wrap:before,
+figure:before {
+  content: " ";
+  display: table;
 }
 
+.clearfix:after,
+.entry:after,
+.entry-content:after,
+.nav-primary:after,
+.nav-secondary:after,
+.site-container:after,
+.site-footer:after,
+.site-header:after,
+.site-inner:after,
+.wrap:after,
+figure:after {
+  clear: both;
+  content: " ";
+  display: table;
+}
+
+
+/* Base
+-------------------------------------------------- */
 html {
-  font-family: 'PT Serif', Helvetica, sans-serif;
-  font-size: 16px;
-  font-size: 1rem;
-      -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  line-height: 1.5;
+  font-size: 62.5%;
+  height: 100%;
+  box-sizing: border-box;
 }
-@media (min-width: 38rem) {
-  html {
+
+body {
+  height: 100%;
+  overflow-x: hidden;
+  font-size: 16px;
+  line-height: 1.6;
+  font-weight: 400;
+  font-family: Merriweather, serif;
+  color: #222;
+  text-rendering: optimizeLegibility;
+}
+@media (min-width: 550px) {
+  body {
     font-size: 20px;
-    font-size: 1.250rem;
   }
 }
 
-body {
-  color: #222;
-  background-color: #fff;
-  -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
+::-moz-selection {
+  background-color: #333;
+  color: #fff;
 }
 
-/* No ':visited' state is required by default (browsers will use 'a') */
+::selection {
+  background-color: #333;
+  color: #fff;
+}
 
+
+/* Headings
+-------------------------------------------------- */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-weight: 400;
+  font-family: Bitter, Georgia, serif;
+}
+
+h1 {
+  font-size: 40px;
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: 36px;
+  line-height: 1.25;
+}
+
+h3 {
+  font-size: 30px;
+  line-height: 1.3;
+}
+
+h4 {
+  font-size: 24px;
+  line-height: 1.35;
+}
+
+h5 {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+h6 {
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+@media (min-width: 550px) {
+  h1 { font-size: 60px; }
+  h2 { font-size: 42px; }
+  h3 { font-size: 36px; }
+  h4 { font-size: 30px; }
+  h5 { font-size: 24px; }
+  h6 { font-size: 15px; }
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 25px;
+}
+
+
+/* Links
+-------------------------------------------------- */
 a {
   color: #0a86bf;
   text-decoration: none;
 }
-
-/* ':focus' is linked to ':hover' for basic accessibility */
 
 a:hover,
 a:focus {
   text-decoration: underline;
 }
 
-/* icons for ebooks */
 
-.pdf, a[href $=".pdf"],
-.epub, a[href $=".epub"],
-.mobi, a[href $=".mobi"],
-.azw, a[href $=".azw"] {
-  padding-left: 20px;
-  min-height:16px;
+/* Buttons
+-------------------------------------------------- */
+.button,
+button,
+input[type="submit"],
+input[type="reset"],
+input[type="button"] {
+  display: inline-block;
+  padding: 16px;
+  color: #FFF;
+  text-align: center;
+  font-family: Oswald, sans-serif;
+  font-size: 20px;
+  line-height: 1;
+  text-transform: uppercase;
+  text-decoration: none;
+  white-space: nowrap;
+  background-color: #0a86bf;
+  border-color: #0a86bf;
+  border: 2px solid #0a86bf;
+  cursor: pointer;
+  -webkit-transition: all 0.1s ease-in-out;
+          transition: all 0.1s ease-in-out;
 }
 
-.pdf, a[href $=".pdf"] {
-  background: url(/images/document-pdf.png) no-repeat 0 50%;
+button,
+.button {
+  margin-bottom: 1rem;
 }
 
-.epub, a[href $=".epub"] {
-  background: url(/images/document-epub.png) no-repeat 0 50%;
+.button:hover,
+button:hover,
+button.is-checked,
+input[type="submit"]:hover,
+input[type="reset"]:hover,
+input[type="button"]:hover,
+.button:focus,
+button:focus,
+input[type="submit"]:focus,
+input[type="reset"]:focus,
+input[type="button"]:focus {
+  color: #0a86bf;
+  background-color: #fff;
+  border-color: #0a86bf;
+  outline: none;
 }
 
-.mobi, .azw, a[href $=".mobi"], a[href $=".azw"] {
-  background: url(/images/document-mobi.png) no-repeat 0 50%;
+
+/* Lists
+-------------------------------------------------- */
+ul {
+  list-style: disc inside;
+}
+
+ol {
+  list-style: decimal inside;
+}
+
+ol,
+ul {
+  margin-top: 0;
+  margin-bottom: 25px;
+}
+
+ul ul,
+ul ol,
+ol ol,
+ol ul {
+  margin: 15px 0 15px 30px;
+}
+
+.entry-content ol ol,
+.entry-content ul ul {
+  margin-bottom: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+
+/* Tables
+-------------------------------------------------- */
+table {
+  margin-right: 25px;
+  margin-left: 25px;
+  margin-bottom: 25px;
+}
+
+th,
+td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #E1E1E1;
+}
+
+th:first-child,
+td:first-child {
+  padding-left: 0;
+}
+
+th:last-child,
+td:last-child {
+  padding-right: 0;
+}
+
+
+/* Quotes
+-------------------------------------------------- */
+blockquote {
+  max-width: 720px;
+  margin: 16px auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  padding-left: 40px;
+  border-left: 5px solid #e5e5e5;
+}
+@media (min-width: 400px) {
+  blockquote {
+    padding-right: 60px;
+  }
+}
+
+blockquote::before {
+  position: relative;
+  left: -30px;
+  top: -10px;
+  content: "“";
+  display: block;
+  font-size: 40px;
+  height: 0;
+}
+
+blockquote p {
+  padding: 0 !important;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+blockquote,
+blockquote::before,
+blockquote p {
+  color: #555;
+}
+
+blockquote cite {
+  display: block;
+  float: right;
 }

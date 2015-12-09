@@ -1,9 +1,15 @@
 <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
 <div class="sidebar" id="sidebar">
-<div class="sidebar-item">
-<p>{{ site.description }}</p>
-</div>
-<nav class="sidebar-nav" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
-{% for link in site.navigation %}<a class="sidebar-nav-item{% if link.url == page.url %} active{% endif %}" href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
+  <div class="sidebar-item">
+    <p>{{ site.description }}</p>
+  </div>
+<nav class="nav-primary" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+{% for link in site.data.nav-primary %}<a class="menu-item{% if link.url == page.url %} active{% endif %}" href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
+{% endfor %}</nav>
+  <div class="sidebar-item">
+    <p>Selected Topics</p>
+  </div>
+<nav class="nav-secondary" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+{% for link in site.data.nav-secondary %}<a class="menu-item{% if link.url == page.url %} active{% endif %}" href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
 {% endfor %}</nav>
 </div>

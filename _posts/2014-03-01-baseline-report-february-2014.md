@@ -1,13 +1,12 @@
 ---
-layout: noimage
+layout: post
 title: February 2014 Expense Report for Chiang Mai Thailand
 headline: Baseline Report February 2014
-modified:
-excerpt: Is it possible to live in Chiang Mai Thailand for $500 per month?
-category: Baseline Report
-tags: [Chiang Mai, Personal Finance]
-image: Chiang-Mai-Spending-Graph-Feb-2014.jpg
-teaser: Chiang-Mai-Spending-Graph-Feb-2014.jpg
+sub-heading:
+description: Is it possible to live in Chiang Mai Thailand for $500 per month?
+category: baseline report
+featured-image:
+permalink:
 ---
 
 As I've explained before, most of the time I've lived in Thailand I've been a university student so my living expenses have included tuition---this month the bill was due.
@@ -23,7 +22,8 @@ Conversion of the Baht as I'm writing this is 32.51 for one US Dollar, 44.94 for
 |Euro          |1,529   |
 |British Pound |1,261   |
 
-![Cost of Living Chiang Mai Thailand](http://bradonomics.com/images/Chiang-Mai-Spending-Category-List-Feb-2014.jpg)![Chiang Mai Cost of Living](/images/Chiang-Mai-Spending-Graph-Feb-2014.jpg)
+<figure><img class="center" src="{{ site.url }}/images/baseline-report/Chiang-Mai-Spending-Category-List-Feb-2014.jpg" alt="Cost of Living Chiang Mai Thailand"></figure>
+<figure><img class="center" src="{{ site.url }}/images/baseline-report/Chiang-Mai-Spending-Graph-Feb-2014.jpg" alt="Chiang Mai Cost of Living"></figure>
 
 ## Tuition and VISA's
 
@@ -44,7 +44,7 @@ A Thailand VISA Comparison:
 
 *Jeff breaks down the cost of a Laos VISA run on his site. While I think the costs will be more than this for the average person, I'll leave the numbers as he's listed them. Another thing to note is most university students would get their VISA from their home country before coming and wouldn't need to leave Thailand, hence the cheaper initial cost.
 
-Check out Jeff's article for more on the [difference between one year on a tourist VISA versus one year on an ED VISA](http://www.lengthytravel.com/studying-thai-in-chiang-mai-advice-from-a-long-term-chiang-mai-resident/). In that article he also discusses language school options in Chiang Mai and while [I'm not a big fan of the methods at those schools](http://bradonomics.com/stupid-learn-second-language/), it is a great resource for weighing your options. But now let's talk about ED vs Student VISA's.
+Check out Jeff's article for more on the [difference between one year on a tourist VISA versus one year on an ED VISA](http://www.lengthytravel.com/studying-thai-in-chiang-mai-advice-from-a-long-term-chiang-mai-resident/). In that article he also discusses language school options in Chiang Mai and while [I'm not a big fan of the methods at those schools]({{ site.url }}/second-language/), it is a great resource for weighing your options. But now let's talk about ED vs Student VISA's.
 
 ED VISA's are the standard three-month VISA's offered by language schools. If you are already in Thailand, on a tourist VISA, you'll need to visit a Thai consulate outside Thailand to switch to the ED VISA. But once you're in Thailand on your ED VISA you can renew it, without leaving, so long as you continue paying the tuition at your language school.
 

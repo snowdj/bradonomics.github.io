@@ -1,12 +1,12 @@
 ---
-layout: noimage
+layout: post
 title: Ditching Gmail for Zoho and Mailbird
-headline: Ditching Gmail for Zoho and Mailbird
-modified: 2014-10-30
-excerpt: After breaking my email I decided to setup with Zoho and Mailbird.
-category: Article
-tags: [Zoho, Email]
-teaser: Zoho-Logo.jpg
+headline:
+sub-heading:
+description: After breaking my email I decided to setup with Zoho and Mailbird.
+category:
+featured-image:
+permalink:
 ---
 
 ## Setting up GitHub For Hosting
@@ -25,17 +25,13 @@ The first thing I did was create an account at at [zoho.com/mail](https://www.zo
 
 After my domain was verified I updated my MX records in CloudFlare with [my new Zoho information](https://www.zoho.com/mail/help/adminconsole/configure-email-delivery.html).
 
-<figure>
-<a href="http://bradonomics.com/images/CloudFlare-MX-Records-Zoho.jpg"><img src="http://bradonomics.com/images/CloudFlare-MX-Records-Zoho.jpg" alt="CloudFlare MX Records for Zoho"></a>
-</figure>
+<figure><a href="{{ site.url }}/images/CloudFlare-MX-Records-Zoho.jpg"><img src="{{ site.url }}/images/CloudFlare-MX-Records-Zoho.jpg" alt="CloudFlare MX Records for Zoho"></a></figure>
 
 ## Forwarding to Gmail
 
 In the case that you're not ready to leave Gmail you can setup a forward in your Zoho settings. Click on Control Panel, User Details and then Mail Accounts and you'll see Mail Forwarding.
 
-<figure>
-<a href="http://bradonomics.com/images/Zoho-Mail-Forwarding.jpg"><img src="http://bradonomics.com/images/Zoho-Mail-Forwarding.jpg" alt="Forwarding Zoho Mail"></a>
-</figure>
+<figure><a href="{{ site.url }}/images/Zoho-Mail-Forwarding.jpg"><img src="{{ site.url }}/images/Zoho-Mail-Forwarding.jpg" alt="Forwarding Zoho Mail"></a></figure>
 
 ## Sending From Gmail using Zoho SMTP Servers
 
@@ -49,11 +45,11 @@ So far I'm digging [Mailbird](http://www.getmailbird.com/), but if you need some
 
 **Update: 30 Oct 2014:** Well, that didn't even last a week. I've been using Gmail since 2004. All my mail since then is stored there. Their calender and contacts and general interface are superior to anything I've found yet. I'd still like to move away from Google, but at least for now, Mailbird isn't it. If you know of any mail clients that have a great design, come with an import option and have a calendar and contacts feature, [please get in touch](https://twitter.com/bradonomics).
 
+**Update: September 2015:** Since writing this article almost a year ago, I've moved to Linux as my primary OS. When I made the move I looked for email clients that would work with Linux and found [Geary](https://wiki.gnome.org/Apps/Geary). It's very similar to Mailbird. You'll need to [allow "less secure apps" in your Google account](https://myaccount.google.com/security) if you wish to connect it. There's also a program called [RainLoop](http://www.rainloop.net/), which is a little more robust even if the setup is a little more involved.
+
 ## SPF Configuration
 
 Lastly, let's make sure you're emails aren't going to SPAM by setting up [Sender Policy Framework](http://www.openspf.org/Introduction). You can find the Zoho portion of the instructions [here](https://www.zoho.com/mail/help/adminconsole/spf-configuration.html) and the CloudFlare part of the instructions [here](https://support.cloudflare.com/hc/en-us/articles/200168626-How-do-I-add-a-SPF-record-).
 
 Here's what mine looks like:
-<figure>
-<a href="http://bradonomics.com/images/SPF-Record-CloudFlare.jpg"><img src="http://bradonomics.com/images/SPF-Record-CloudFlare.jpg" alt="SPF Records with CloudFlare"></a>
-</figure>
+<figure><a href="{{ site.url }}/images/SPF-Record-CloudFlare.jpg"><img src="{{ site.url }}/images/SPF-Record-CloudFlare.jpg" alt="SPF Records with CloudFlare"></a></figure>

@@ -1,11 +1,9 @@
 ---
-layout: noimage
+layout: page
 title: From the Outside In | The Autobiography of Dr J Marvin Brown
 headline: From the Outside In, Secrets of Automatic Language Growth
+description:
 permalink: /brown-autobiography/
-modified:
-excerpt: The Autobiography of Dr J Marvin Brown
-tags: [Language Learning, ALG]
 ---
 
 What follows was written by Dr J. Marvin Brown in the early 2000s. It's an autobiography about Dr Brown's life as a linguist. The copyright is held by J. Marvin Brown & Kwansuang Brown, I'm merely publishing the book here as a means of promoting something that had such a tremendous impact on my life.
@@ -15,17 +13,17 @@ The original version, including the appendixes, can be found on the [ALG World s
 ### Contents
 [Preface](#preface) \\
 [Introduction](#introduction) \\
-[Chapter 1, Growing Up: Age 3-20](#chapter-1-growing-up-age-3-20) \\
-[Chapter 2, The Three Veils: Age 3-20](#chapter-2-the-three-veils-age-3-20) \\
-[Chapter 3, The Professional Student: Age 20-37](#chapter-3-the-professional-student-age-20-37) \\
-[Chapter 4, The Linguist: Age 37-55](#chapter-4-the-linguist-age-37-55) \\
-[Chapter 5, The Second Wind: Age 45-70](#chapter-5-the-second-wind-age-45-70) \\
-[Chapter 6, The Conversion: Age 55-60](#chapter-6-the-conversion-age-55-60) \\
-[Chapter 7, Putting Cascades in the Classroom: Age 60-70](#chapter-7-putting-cascades-in-the-classroom) \\
-[Chapter 8, The Window to the Brain: Age 60-70](#chapter-8-the-window-to-the-brain-age-60-75) \\
-[Chapter 9, Reality](#chapter-9-reality)
+[Chapter 1, Growing Up: Age 3-20](#chapter) \\
+[Chapter 2, The Three Veils: Age 3-20](#chapter-2) \\
+[Chapter 3, The Professional Student: Age 20-37](#chapter-3) \\
+[Chapter 4, The Linguist: Age 37-55](#chapter-4) \\
+[Chapter 5, The Second Wind: Age 45-70](#chapter-5) \\
+[Chapter 6, The Conversion: Age 55-60](#chapter-6) \\
+[Chapter 7, Putting Cascades in the Classroom: Age 60-70](#chapter-7) \\
+[Chapter 8, The Window to the Brain: Age 60-70](#chapter-8) \\
+[Chapter 9, Reality](#chapter-9)
 
-## Preface
+## Preface {#preface}
 
 I've been trying to learn languages and teach them all my life. I spent the war trying to learn Chinese, and I spent the next 50 years trying to learn 20 more languages and trying to teach two.
 
@@ -49,9 +47,9 @@ This book is not a scholarly work. There are no footnotes or references. It's mo
 
 [Gary Cziko](http://faculty.education.illinois.edu/g-cziko/). [_The Things We Do_](http://www.amazon.com/dp/0262032775/?tag=bnomics-20) (2000). The MIT Press, Cambridge, Mass.
 
-## Introduction
+## Introduction {#introduction}
 
-_In the beginning God created language. He then proceeded to create the universe in its image._
+*In the beginning God created language. He then proceeded to create the universe in its image.*
 
 Most people wouldn't want to go so far as to actually state it like this, but don't we all sometimes behave as if it's true? Don't we sometimes think of language as basic? Isn't this what we're doing, for example, when we ask the question "What is consciousness?" Your reaction might be, "No, I'm not asking about the 'word', I'm asking about the 'meaning' behind it." To which I then ask, "Behind what?" Think about it.
 
@@ -59,13 +57,10 @@ Just how often do we appear to be looking backwards? As we look through the hist
 
 1. The earth is flat. \\
 <span style="margin-left: 20px;">No. It's round.</span>
-
 2. The sun revolves around the earth. \\
 <span style="margin-left: 20px;">No. The earth revolves around the sun.</span>
-
 3. Fire consists of the release of phlogiston. \\
 <span style="margin-left: 20px;">No. It's the taking in of oxygen.</span>
-
 4. Animals change in order to better fit their environment. \\
 <span style="margin-left: 20px;">No. They find environments to fit their accidental changes.</span>
 
@@ -73,25 +68,18 @@ Just how often do we appear to be looking backwards? As we look through the hist
 
 5. Gravity is a pull. \\
 <span style="margin-left: 20px;">No. It's the blocking of a push.</span>
-
 6. I think; therefore I am. \\
 <span style="margin-left: 20px;">No. I am; therefore I think.</span>
-
 7. Our perceptions control our actions. \\
 <span style="margin-left: 20px;">No. Our actions control our perceptions.</span>
-
 8. Learning is a gradual hooking up of neural connections. \\
 <span style="margin-left: 20px;">No. It's the pruning down of excess connections.</span>
-
 9. We learn to speak by speaking. \\
 <span style="margin-left: 20px;">No. We learn to speak by listening.</span>
-
 10. At puberty children lose the ability to pick up languages perfectly. \\
 <span style="margin-left: 20px;">No. They gain the ability to obstruct this.</span>
-
 11. A sentence gets its meaning from the words. \\
 <span style="margin-left: 20px;">No. The words get their meaning from the sentence.</span>
-
 12. We learn languages from parts to whole: from words and rules to sentences. \\
 <span style="margin-left: 20px;">No. We learn from whole to parts.</span>
 
@@ -115,14 +103,14 @@ Zambi came from the village of Makui in central Africa a hundred years ago and h
 
 * **Mary's way:** What does that mean? How do you say this? How do you spell it?'
 * **Zambi's way:** 'Tagging along'---caught up in a cascade of everyday happenings without trying to say anything for nearly a year.
- 
+
 We don't have to go to the Africa of 100 years ago to find people using Zambi's way. We all used it ourselves. That's how we learned our native language: tagging along without trying to say anything for the first year. It works for children. It worked for Zambi. Why doesn't it work for everyone? The common belief is that we lose the child's secret as we grow up. But what about Zambi? The answer seems to lie in the second part: _not trying to say anything for the first year_. You see, adults just can't resist Mary' s way when it's available. But it isn't available to little children and it wasn't available to Zambi. _That's the secret_!
 
 I can see the secret clearly now---and I can see how it happens and why. But even though I had heard about Zambi as a graduate student of linguistics 50 years ago, I didn't even come close to seeing it then. It took me a lifetime. I first thought I'd try to explain this secret, but then I realized that an explanation wouldn't have meant anything to me. I needed a lot more than an explanation. I needed a lifetime. So instead of telling you my secret, I'm going to tell you my lifetime.
 
 As with most lifetimes, of course, mine wasn't all that interesting. But when I focused on my mistakes instead of my accomplishments, I found a drama of veils, shackles, ghosts, and follies---obstacles that were keeping me from the secret. I didn't recognize them as obstacles during the living, of course, but from hindsight I found the playback fascinating. A proper gentleman walking by doesn't catch our attention until he slips and falls flat on his face. The story of me falling flat on my face might turn out to be both amusing and instructive. So instead of telling you my accomplishments, I'm going to tell you my follies.
 
-## Chapter 1, Growing Up: Age 3-20
+## Chapter 1, Growing Up: Age 3-20 {#chapter-1}
 
 ### The Kid: Age 3-6
 
@@ -173,7 +161,7 @@ I was surprised that this had been posed as a puzzle. My first worldview gave th
 
 Notice how short this chapter is. And yet it covers all of my eleven pre-college years, my first three college years, and two of my years in the Navy. It looks like 'the best years of my life' were empty. I guess they were. But I made up for it.
 
-## Chapter 2, The Three Veils: Age 3-20
+## Chapter 2, The Three Veils: Age 3-20 {#chapter-2}
 
 We've arrived at the 20-year mark of this story. A story of what and how I thought--not what I did. I had expected to find a few subtle clues here and there. After all, there's surely something to the concept of 'the formative years'. But instead of a few subtle clues, what I found was three bombs. 'Bombs' conveys the impact. The form is better shown by 'veils'. I found three veils between me and reality. More accurately, I found that I wasn't seeing reality at all. I was seeing veils. I peeked. And what I saw blew my mind. Behind each veil was a whole new world. Of course I assumed everybody did it. Peek, I mean. Don't we all feel the urge? But I now realize that some people just don't know that what they're looking at are veils. And I'm here to tell them. The veils are shown below by numbers enclosed in diagonals. To the left of each veil is the distortion we all see. To the right is the real thing.
 
@@ -289,7 +277,7 @@ This chapter has been about things that get in the way of clear thinking. I firs
 
 But back to this point in my story. I'm 20 years old, self confident, and ready to take on the world. The mold has been cast and is waiting for the substance. The mold is the unshackling, and the substance will turn out to be language. It all started with the study of Chinese in the wartime Navy.
 
-## Chapter 3, The Professional Student: Age 20-37
+## Chapter 3, The Professional Student: Age 20-37 {#chapter-3}
 
 ### University of Colorado: Dec 44– Jun 46
 
@@ -420,7 +408,7 @@ But things didn't go exactly as planned. After I had spent 2 months developing a
 
 I've heard of students going through hardships to get their doctorate, but I ended up finishing mine hungrier than anyone I've known. Potatoes, onions, and cabbage were very cheap in the November of 1961. I bought a little margarine and ate on 10 cents a day. It's kind of nice to look back at, though. They tell me you're supposed to go through hardships to get a doctorate, and up to this point I had only gone through delights. Anyway, I finished the degree, sold my car for the price of a one-way ticket to Bangkok, and started out on a new life.
 
-## Chapter 4, The Linguist: Age 37-55
+## Chapter 4, The Linguist: Age 37-55 {#chapter-4}
 
 I arrived in Bangkok in March of 1962---broke, in debt, and without a job. I didn't need any money on arrival. I moved in with Peter and Joke (still living next door to my old house). For a job, I went to the Thai-American Binational Center, which was known locally as the [AUA Language Center](http://www.auathailand.org/), or simply AUA. This was actually more like a Thai institution with partial U.S. sponsorship. The United States Information Agency (USIA) sent out two career specialists from Washington on 2-4 year hitches (the Director and the Director of Courses) and gave financial help for the library and cultural activities. But the Board of Directors was answerable to a Thai association (the American University Alumni Association, or AUAA). AUA was Thailand's biggest school for teaching English to Thais.
 
@@ -445,13 +433,13 @@ Much has been said about sticking with something that doesn't work. Barbara Tuch
 Bernard Trink calls it 'riding a dead horse' in his column 'Nite Owl' in the Bangkok Post of 12 March 99.
 
 > Lakota tribal wisdom says that when you discover you are riding a dead horse, the best strategy is to dismount. However, in business (and education and government) we often try other strategies with dead horses.
-> 
+>
 > Among them are buying a stronger whip; changing riders; saying things like "This is the way we always have ridden this horse", appointing a committee to study the horse; arranging to visit other sites to see how they ride dead horses.
-> 
+>
 > Increasing the standards to ride dead horses; appointing a team to revive the dead horse; creating a training session to increase our riding ability; comparing the state of dead horses in today's environment; change the requirements, declaring that "This horse is not dead".
-> 
+>
 > Hire contractors to ride the dead horse; harnessing several dead horses together for increased speed; declaring that "No horse is too dead to beat"; providing additional funding to increase the horse's performance; do a study to see if contractors can ride it cheaper.
-> 
+>
 > Buying a product to make dead horses run faster; declaring that the horse is "better, faster and cheaper" dead; forming a quality circle to find uses for dead horses; revisiting the performance requirements for horses; saying this horse was procured with cost as an independent variable; promoting the dead horse to a supervisory position.
 
 As you read about my work over these 18 years, you'll see that I was riding a dead horse and you might find my folly amusing. Or, knowing that I didn't know it was folly, you might even admire my determination. But laugh, pity, or admire, I hope that my folly can help us toward our goal.
@@ -709,7 +697,7 @@ At the end of those 18 years it seems that I hadn't learned anything. I was stil
 
 It took many more years and a jolt at rock bottom. But it happened. In the meantime I looked in other directions. And I got back the tingles.
 
-## Chapter 5, The Second Wind: Age 45-70
+## Chapter 5, The Second Wind: Age 45-70 {#chapter-5}
 
 ### Ghosts and Blinders
 
@@ -926,7 +914,7 @@ For those who want to look deeper into what my kind of thinking did with physics
 
 This 'second wind' started in 1970 when I blinked and looked around me. It was concerned mainly with race, perception, DNA, behavior, and physics. For 25 years my focus had been on linguistics and language teaching, and my purpose had been to find the final answers to both. But after I blinked and smelled the roses, _focus_ changed back to _wonder_. The same kind of wonder I had felt at the age of 5 when I learned about night and day. _"The world I knew suddenly expanded to include wonders without end. There're two versions of everything. There's what we see and there's what's there. And what's there can explain what we see."_ At the age of 5 and again at 45 I had felt the freshness of _wonder_ as opposed to the stagnation of focus. But it wasn't until the age of 60 that I saw the real power of this distinction. I found that the distinction between focus and wonder was basic to how languages are learned, to learning in general, and to the actual structure of the human brain.
 
-## Chapter 6, The Conversion: Age 55-60
+## Chapter 6, The Conversion: Age 55-60 {#chapter-6}
 
 While my own outside thinking was booming, my work was collapsing. Results from our teaching methods were still far from what I had hoped for and I had run out of new ideas. On top of this I had suffered eight straight years of uncooperative bosses from Washington. The collapse of my work was telling me to get out of there. And the boom of my thinking was telling me to go study physics. The two different feelings converged onto the same plan. In the past I had always followed my heart in a beat. Being without money and job had never stopped me before. But now I was married.
 
@@ -1013,7 +1001,7 @@ Even though only half of the activities during that first term actually worked, 
 
 We moved back to Thailand in October of 1984 and my new life began.
 
-## Chapter 7, Putting Cascades in the Classroom
+## Chapter 7, Putting Cascades in the Classroom {#chapter-7}
 
 Two very different beginnings: 1962 and 1984.
 
@@ -1215,7 +1203,7 @@ Three activities an hour, 5 hours a day, 5 days a week, 5 weeks a term, 9 terms 
 >
 >One teacher asks the other, "Who do you think is taller, Takiko or Linda?" \\
 >"I don't know. Let's have them stand side by side and see." \\
->"So Linda is just a little bit taller. What about Hans?" 
+>"So Linda is just a little bit taller. What about Hans?"
 >
 >And so it goes until you have the whole class arranged in a line by height.
 
@@ -1370,7 +1358,7 @@ I eagerly continued my yearly visits---but not to give guidance as planned. To l
 
 This is just an introduction to the second generation. We look forward to a book on it from David Long.
 
-## Chapter 8, The Window to the Brain: Age 60-75
+## Chapter 8, The Window to the Brain: Age 60-75 {#chapter-8}
 
 It may seem strange that a book about language learning could spend so much time on things like Physics, Evolution, and Brain Theory. But this book isn't about any of those fields. It's about science in general. And in order to develop a real science of language acquisition (Automatic Language Growth), I had to put it in the context of a real science of the brain (The Inner Net) and a real science of the universe (The Cosmic Shower). My original title for the book was 'Unblocking Science', and this remains the underlying theme. It's about blocks and how to avoid them. I have to get rid of the blocks before I can figure out how language learning works. Most of these blocks take the form of what I'm calling 'ghosts'.
 
@@ -1452,7 +1440,7 @@ I'll refer to this idea of multiple strings as 'neural jackstraws' when I want t
 
 Notice how much better 'shine' can help us understand the Australian on holiday. For three months all the nodes in his budding net were shining on each other seeking the best overall balance of forces as the net pruned itself. Every time a weak string dropped out or a new jackstraw popped in, a new balance came about. I thought of it as 'settling from its own weight'.
 
-Neural Forks
+### Neural Forks
 
 A node of a tree is a neuron where two or more different signals converge (through its dendrites) to form a new signal which it passes on (through its axon). Picture a yellow river and a blue river coming together to form a green river. A neural tree is one massive convergence from leaves to trunk---from parts of a perception to the whole. Just like the yellow and blue river converge to form a green river, so might a signal of a circular shape and a signal of the color green enter the same neuron to form the signal ofa green circle. For years this picture of convergence dominated my thinking. Two or more dendrites in and one axon out. A single perception built a single tree, and a single happening built a single wheel. But all this time I knew that an axon could branch into the hundreds---even thousands. That green river that was formed from two rivers could fork into many---all of an identical green. For years I had seen only convergence in my neural trees. The idea of divergence came as a sudden flash.
 
@@ -1508,7 +1496,7 @@ That's the reality. Now look at the ghost. The ghost is the expression 'language
 
 Now I can see the reality. It not only makes me tingle. It also produces speakers of Thai that can do things in a few years that I couldn't do in fifty.
 
-## Chapter 9, Reality
+## Chapter 9, Reality {#chapter-9}
 
 Throughout my story, from age 3 to 75, there was a common thread: 'reality'. The word defined itself when I told of my father using an orange and a lamp to explain night and day. The reality didn't reside in the perception (sunrise and sunset). It resided in the model (orange and lamp). Another example was 'cold' (the perception) and 'slow moving molecules' (the reality). Whenever I came across this kind of reality, I got that special feeling I've been calling 'tingle'.
 
@@ -1794,7 +1782,7 @@ As with Doppler mass, once we guess the reality behind time, we will be able to 
 Let me give a more meaningful answer to the question. Here's a crucial sentence I used earlier to sum up how three-year-old Joey managed to use an intonation of 'surprised disbelief'. "He hadn't learned it---he just looked it up and copied it---and the appropriate spotlight was determined by the very reason for the search. " Let me take the sentence part by part.
 
 <ol>
-<li><p>"He hadn't learned it. " So let's get rid of the ghost 'learn' and ask how children grow languages so fast. And while we're at it, let's try to get rid of that overriding human bias and compare this with "How can a seed grow a flower so fast?"</p>
+<li><p>"He hadn't learned it. "So let's get rid of the ghost 'learn' and ask how children grow languages so fast. And while we're at it, let's try to get rid of that overriding human bias and compare this with "How can a seed grow a flower so fast?"</p>
 
 <p>As complicated as the process is (for both flowers and languages), it all boils down to 'wind and niche'. With seeds, the 'wind' (water, sun, and soil) blows through the seed's characteristic 'niches' (its DNA), and the flowers just fall together. With languages, the 'wind' (experiences) blows through the brain's characteristic 'niches' (its neural trees and circuits), and the language just falls together. The children don't learn those unknowns created by linguists (like 'words' and 'rules') any more than seeds learn those unknowns created by botanists (like 'germinate', 'sprout', and 'bloom'). Children, like seeds, can respond only to reality. They see something happen, and a neural tree grows.</p></li>
 
