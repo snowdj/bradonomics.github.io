@@ -11,7 +11,7 @@
   <meta name="twitter:url" property="og:url" content="{{ site.url }}{{ page.permalink }}">
   <meta name="twitter:title" property="og:title" content="{{ page.title }}">
   <meta name="twitter:description" property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
-  <meta name="twitter:image" property="og:image" content="{% if page.featured-image %}{{ page.featured-image | prepend: '/images/' | prepend: site.url }}{% else %}{{ site.default-image | prepend: site.url }}{% endif %}">
+  <meta name="twitter:image" property="og:image" content="{% if page.featured-image %}{{ site.url }}/images/{{ page.featured-image }}{% else %}{{ site.url }}/images/brad-west-theme-300x225.jpg{% endif %}">
   <link rel="author" href="{{ site.google-plus }}">
   <meta http-equiv="x-dns-prefetch-control" content="on">
   <link rel="dns-prefetch" href="//fonts.googleapis.com">
