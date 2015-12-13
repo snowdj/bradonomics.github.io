@@ -87,7 +87,9 @@ nav a:hover {
   box-sizing: border-box;
 }
 
-.site-container,
+header,
+main,
+footer,
 .sidebar-toggle {
   -webkit-transition: -webkit-transform .3s ease-in-out;
   transition: -webkit-transform .3s ease-in-out;
@@ -99,7 +101,9 @@ nav a:hover {
   visibility: visible;
 }
 #sidebar-checkbox:checked ~ .sidebar,
-#sidebar-checkbox:checked ~ .site-container,
+#sidebar-checkbox:checked ~ header,
+#sidebar-checkbox:checked ~ main,
+#sidebar-checkbox:checked ~ footer,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
   -webkit-transform: translateX(280px);
           transform: translateX(280px);

@@ -7,6 +7,7 @@ description: Living on $500 per month in Chiang Mai Thailand? Yes, it's true.
 category: baseline report
 category-url: baseline-report
 featured-image:
+og-image:
 permalink:
 ---
 Last month I posted almost no information other than the numbers. A recap to understand what's going on behind these numbers is probably needed.

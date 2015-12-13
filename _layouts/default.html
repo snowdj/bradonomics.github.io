@@ -3,13 +3,11 @@
 {% include head.html %}
 <body{% if page.url == '/' %} class="home"{% elsif page.title == 'Blog' %} class="blog noimage"{% elsif page.type == 'archive' %} class="archive noimage"{% elsif page.featured-image == nil %} class="noimage"{% endif %} itemscope itemtype="http://schema.org/WebPage">
   {% include sidebar.html %}
-  <div class="site-container">
-    {% include header.html %}
-    <main class="content">
-      {{ content }}
-    </main>
-    {% include footer.html %}
-  </div>
+  {% include header.html %}
+  <main class="content">
+    {{ content }}
+  </main>
+  {% include footer.html %}
   <label for="sidebar-checkbox" class="sidebar-toggle"></label>
   <!-- <script>
     (function(i, s, o, g, r, a, m) {

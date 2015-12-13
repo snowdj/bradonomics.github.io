@@ -7,6 +7,7 @@ description: The very first Baseline Report dispatched directly from Chiang Mai 
 category: baseline report
 category-url: baseline-report
 featured-image:
+og-image:
 permalink:
 ---
 <img class="alignleft" src="{{ site.url }}/images/baseline-report/Chiang-Mai-Spending-Category-List-Oct-2013.jpg" alt="Chiang Mai Spending Category List Oct 2013">After a couple years in Bangkok I decided to move back to Chiang Mai so October will have a little "start-up weirdness" that the following months won't. Things like higher rent payment---two months instead of one---and no utility expenses.

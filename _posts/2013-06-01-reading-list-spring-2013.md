@@ -7,6 +7,7 @@ description: Books I read and web articles I found interesting during the spring
 category: reading list
 category-url: reading-list
 featured-image:
+og-image:
 permalink:
 ---
 

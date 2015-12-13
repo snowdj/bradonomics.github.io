@@ -7,6 +7,7 @@ description: Jeff Joslin talks about how and why to keep a journal for Brazilian
 category: martial arts
 category-url: martial-arts
 featured-image:
+og-image:
 permalink:
 ---
 
