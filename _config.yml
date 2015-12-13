@@ -13,7 +13,7 @@ highlighter: pygments
 encoding: utf-8
 sass:
   sass_dir: _sass
-  # style: compressed
+  style: compressed
 
 gems:
   - jekyll-redirect-from
