@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en-US">
 {% include head.html %}
-<body{% if page.url == '/' %} class="home"{% elsif page.title == 'Blog' %} class="blog noimage"{% elsif page.type == 'archive' %} class="archive noimage"{% elsif page.featured-image == nil %} class="noimage"{% endif %} {% if page.layout == 'post' %}itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPosting"{% else %}itemscope itemtype="http://schema.org/WebPage"{% endif %}>
+<body{% if page.url == '/' %} class="home"{% elsif page.title == 'Blog' %} class="blog noimage"{% elsif page.type == 'archive' %} class="archive noimage"{% elsif page.featured-image == nil %} class="noimage"{% endif %} itemscope itemtype="http://schema.org/WebPage">
   {% include sidebar.html %}
   {% include header.html %}
   <main class="content">
