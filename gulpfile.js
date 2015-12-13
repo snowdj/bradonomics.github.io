@@ -1,11 +1,8 @@
 var gulp        = require('gulp'),
     shell       = require('gulp-shell'),
-    concat      = require('gulp-concat'),
-    uglify      = require('gulp-uglify'),
     rename      = require('gulp-rename'),
     newer       = require('gulp-newer'),
     imagemin    = require('gulp-imagemin'),
-    // watch       = require('gulp-watch');
     browserSync = require('browser-sync');
 
 
@@ -32,7 +29,6 @@ gulp.task('browser-sync', function () {
 
 //* Run Jekyll build and serve commands
 gulp.task('build', shell.task(['jekyll build --config _config-dev.yml --watch']));
-// gulp.task('serve', shell.task(['jekyll serve']));
 
 
 // Default task (build and serve)
