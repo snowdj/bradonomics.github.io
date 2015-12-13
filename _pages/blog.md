@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Blog
+headline:
+description:
+permalink: /blog/
 ---
 
 <article class="page entry" itemscope itemtype="http://schema.org/CreativeWork">
