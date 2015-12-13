@@ -1,19 +1,6 @@
 var gulp        = require('gulp'),
     shell       = require('gulp-shell'),
-    rename      = require('gulp-rename'),
-    newer       = require('gulp-newer'),
-    imagemin    = require('gulp-imagemin'),
     browserSync = require('browser-sync');
-
-
-//* Images
-gulp.task('images', function () {
-    return gulp.src('./_images/*.{png,jpg,gif}')
-        // .pipe(watch('./_images/**/*'))
-        // .pipe(newer('./_images/*.{png,jpg,gif}'))
-        .pipe(imagemin())
-        .pipe(gulp.dest('./images/'));
-});
 
 
 //* BrowserSync
