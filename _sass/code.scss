@@ -4,14 +4,10 @@ figure pre {
   text-align: left;
 }
 
-code,
-pre {
-  font-family: 'Oxygen Mono', monospace;
-}
-
 pre {
   overflow: auto;
   display: block;
+  margin: 0 0 25px;
   padding: 14px;
   font-size: 14px;
   line-height: 1.4;
@@ -27,16 +23,15 @@ pre code {
   background-color: transparent;
 }
 
-td.linenos {
-  padding-top: 0;
+.gist {
+  margin-bottom: 25px;
 }
 
-.gist table {
-  margin-bottom: 0;
-}
-
-.gist pre {
-  font-size: inherit;
+code,
+pre,
+.gist .highlight,
+.gist .blob-code-inner {
+  font-family: 'Oxygen Mono', monospace !important;
 }
 
 .hll { background-color: #222222 }
