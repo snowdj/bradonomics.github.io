@@ -7,7 +7,7 @@ description: How I implemented categories in Jekyll for GitHub Pages.
 category: general geekery
 category-url: general-geekery
 featured-image:
-og-image:
+og-image: octojekyll-mascot.jpg
 permalink:
 ---
 Categories in Jekyll had me stymied for months. I looked for tutorials and dug trough theme files on GitHub, but couldn't get it to work.
