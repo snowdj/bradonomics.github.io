@@ -4,8 +4,8 @@ title: Ditching Gmail for Zoho and Mailbird
 headline:
 sub-heading:
 description: After breaking my email I decided to setup with Zoho and Mailbird.
-category:
-category-url:
+category: general geekery
+category-url: general-geekery
 featured-image:
 og-image:
 permalink:
