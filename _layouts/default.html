@@ -1,14 +1,22 @@
 <!doctype html>
 <html lang="en-US">
+
 {% include head.html %}
+
 <body{% if page.url == '/' %} class="home"{% elsif page.title == 'Blog' %} class="blog noimage"{% elsif page.type %} class="{{ page.type }} noimage"{% elsif page.featured-image == nil %} class="noimage"{% endif %} itemscope itemtype="http://schema.org/WebPage">
+
   {% include sidebar.html %}
+
   {% include header.html %}
+
   <main class="content">
     {{ content }}
   </main>
+
   {% include footer.html %}
+
   <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
   <script>
     (function(i, s, o, g, r, a, m) {
       i['GoogleAnalyticsObject'] = r;
@@ -23,6 +31,20 @@
     ga('create', 'UA-21796601-1', 'bradonomics.com');
     ga('send', 'pageview');
   </script>
-</script>
+
+  <script type="text/javascript">
+    var _paq = _paq || [];
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+      var u="//analytics.bradonomics.com/";
+      _paq.push(['setTrackerUrl', u+'piwik.php']);
+      _paq.push(['setSiteId', 1]);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+  </script>
+  <noscript><img src="//analytics.bradonomics.com/piwik.php?idsite=1" style="border:0;"></noscript>
+
 </body>
 </html>
