@@ -4,8 +4,8 @@ title: Jekyll Categories on GitHub Pages
 headline:
 sub-heading:
 description: How I implemented categories in Jekyll for GitHub Pages.
-category: general geekery
-category-url: general-geekery
+category: geekery
+category-url: geekery
 featured-image:
 og-image: octojekyll-mascot.jpg
 permalink:
