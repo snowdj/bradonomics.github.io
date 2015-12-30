@@ -32,7 +32,7 @@
     ga('send', 'pageview');
   </script> -->
 
-  <script type="text/javascript">
+  <!-- <script type="text/javascript">
     var _paq = _paq || [];
     _paq.push(['trackPageView']);
     _paq.push(['enableLinkTracking']);
@@ -44,6 +44,16 @@
       g.type='text/javascript'; g.async=true; g.defer=true; g.src='//cdnjs.cloudflare.com/ajax/libs/piwik/2.15.0/piwik.js'; s.parentNode.insertBefore(g,s);
     })();
   </script>
+  <noscript><img src="//analytics.bradonomics.com/piwik.php?idsite=1" style="border:0;"></noscript> -->
+
+  <script>
+    var _paq = _paq || [];
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    _paq.push(['setTrackerUrl', '//analytics.bradonomics.com/piwik.php']);
+    _paq.push(['setSiteId', 1]);
+  </script>
+  <script async src="//cdnjs.cloudflare.com/ajax/libs/piwik/2.15.0/piwik.js"></script>
   <noscript><img src="//analytics.bradonomics.com/piwik.php?idsite=1" style="border:0;"></noscript>
 
 </body>
