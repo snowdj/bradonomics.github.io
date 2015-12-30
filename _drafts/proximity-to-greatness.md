@@ -6,6 +6,7 @@ sub-heading:
 description:
 category:     #Should be lower case or links won't work.
 featured-image:
+og-image:
 permalink:
 ---
 Paul Graham has a number of essays that I find intriguing. On thing he talks about is how your location matters. Being in close proximity to other people doing what you want to do is a big deal.

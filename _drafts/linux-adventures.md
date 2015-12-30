@@ -4,15 +4,17 @@ title: Adventures in Open Source
 headline:
 sub-heading:
 description:
-category:     #Should be lower case or links won't work.
+category: geekery
+category-url: geekery
 featured-image:
+og-image:
 permalink:
 ---
 Introduced to Unix in 1999
 
 Growing up in rural Alabama has its advantages. Access to computers is not one of them.
 
-In 2000 when I attended a month long course at the <a href="https://en.wikipedia.org/wiki/Marine_Corps_Communication_Electronics_School">Marine Corps Communication Electronics School</a>. This was only one year after having floundered my way through their basic "small computer systems" course and I was sent there since some of the systems I was expected to support were built on HP-UX.
+In 2000 when I attended a month long course at the [Marine Corps Communication Electronics School](//en.wikipedia.org/wiki/Marine_Corps_Communication_Electronics_School). This was only one year after having floundered my way through their basic "small computer systems" course and I was sent there since some of the systems I was expected to support were built on HP-UX.
 
 There was something different about UNIX. I had learned a lot in my year since graduating the basic course, but there were many things I still couldn't do with the systems I was assigned to maintain.
 

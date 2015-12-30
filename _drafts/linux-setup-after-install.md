@@ -4,8 +4,10 @@ title:
 headline:
 sub-heading:
 description:
-category:     #Should be lower case or links won't work.
+category: geekery
+category-url: geekery
 featured-image:
+og-image:
 permalink:
 ---
 What follows is mostly for me. Every couple of years when I buy a new computer and have to reload my operating system, I want an easy way to remember what to install and how I had it configured. There's little explanation as to why I use the software below, it's just what I like.
