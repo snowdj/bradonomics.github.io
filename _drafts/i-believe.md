@@ -15,6 +15,5 @@ permalink:
  - Most people that say they love their jobs or are glad they had kids do so because of [sunk cost bias](https://litemind.com/sunk-cost-bias/) and refuse to let themselves admit that they'd rather have done things differently.
  - One should get one's ass kicked for referring to oneself as one.
  - Using they as singular is far less annoying than using he/she.
- -
 
 The above was inspired by the impressive list Derek Sivers gave on the Tim Ferriss podcast when asked "What do you believe that others think is insane?" I hope to improve this over time, so check back.

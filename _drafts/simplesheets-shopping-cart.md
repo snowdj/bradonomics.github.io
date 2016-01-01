@@ -4,10 +4,13 @@ title:
 headline:
 sub-heading:
 description:
-category:     #Should be lower case or links won't work.
+category: #needs to be lowercase
+category-url:
 featured-image:
+og-image:
 permalink:
 ---
+
 Was looking for a shopping cart that used Google Docs
 
 Found a few older projects with little documentation and overly difficult implementation.

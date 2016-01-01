@@ -4,16 +4,17 @@ title:
 headline:
 sub-heading:
 description:
-category:     #Should be lower case or links won't work.
+category: #needs to be lowercase
+category-url:
 featured-image:
 og-image:
 permalink:
 ---
-Paul Graham has a number of essays that I find intriguing. On thing he talks about is how your location matters. Being in close proximity to other people doing what you want to do is a big deal.
+Paul Graham has a number of essays that I find intriguing. One thing he talks about is how your location matters. Being in close proximity to other people doing what you want to do is a big deal.
 
 But what about the internet, is that not a place where you can connect to people doing what you want to be doing?
 
-I'm so introverted I wouldn't go out to meet people if we lived in the same city anyway. What  good would it do me to pay San Francisco rent if I only talked to people online anyway. I can do that from Chiang Mai for a fraction of the cost.
+I'm so introverted I wouldn't go out to meet people if we lived in the same city anyway. What good would it do me to pay San Francisco rent if I only talked to people online. I can do that from Chiang Mai for a fraction of the cost.
 
 
 

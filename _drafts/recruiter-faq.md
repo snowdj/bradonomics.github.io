@@ -1,7 +1,12 @@
 ---
-title: Frequently Asked Questions
-author: Brad West
 layout: page
+title:
+headline:
+sub-heading:
+description:
+featured-image:
+og-image:
+permalink:
 ---
 ## Are you available for contract work?
 
@@ -17,9 +22,9 @@ Even at that you should know that I'm a terrible employee in the eye's of most 
 
 If this hasn't scared you away, tell me how your team works:
 
-  * What are you working on and why should I be interested?
-  * How do you communicate internally?
-  * How do you keep track of bugs, code changes, etc.?
+  - What are you working on and why should I be interested?
+  - How do you communicate internally?
+  - How do you keep track of bugs, code changes, etc.?
 
 ## Are you willing to relocate?
 
