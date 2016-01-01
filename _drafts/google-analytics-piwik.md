@@ -12,6 +12,8 @@ permalink:
 ---
 ## Why would I leave the most dominant analytics program on the web?
 
+Spam
+
 ## The Setup
 
 Move the install files to the server.
@@ -26,10 +28,20 @@ Switch to CDN hosted piwik.js file
    - DOMContentLoaded, i.e. the time until the page becomes usable has improved, but the window.onload is still too slow for my liking (it looks to the user like the page is still loading because of the browser's loading indicator is still spinning). My shared hosting is taking 3-6 seconds to serve the piwik.php file.
 Changed the window.addEventListener from the option given by Piwik to the async option shared by [Christian Pekeler](https://twitter.com/pekeler) on the [Piwik Forums](http://forum.piwik.org/t/piwik-is-slowing-down-my-website-load-speed-but-why/15257/9).
   Test
-   - Significant speed increase. In two tests the piwik.php file loaded in .6 and .7 seconds. In the latest test the DOM loaded in 1.56 seconds and the page in 2.46 seconds.
+   - Significant speed increase. In two tests following the change the piwik.php file loaded in .6 and .7 seconds. In the second test the DOM loaded in 1.56 seconds and the page in 2.46 seconds.
+
+
+## Results
+
+Already getting referral spam. Tweeted to Piwik team. Waiting for response.
 
 
 
+## The Biggest Drawbacks
+
+Dashboard Widgets are less robust. (screenshots)
+
+Google won't let you much keyword data, but it's even worse with third party analytics. In Google Analytics you are able to connect your Web Master Tools and get slightly more data, but as of yet, there is no connection option for Piwik.
 
 
 ## Original "block spam in Google Analytics body"
@@ -43,5 +55,3 @@ Most of the "referrers" never actually visit your site. They run Google Analytic
 ... some instructions.
 
 It's a near daily battle to keep filters updated, so I've setup a git repo with the ever growing list. It's really specific to me and also has IP addresses I'd like to block which will do you no good, but it will get you started. You can keep your own file if you like by forking this one or simply downloading it and updating it with you own data.
-
-# Post followup comment here once post is live: http://forum.piwik.org/t/piwik-is-slowing-down-my-website-load-speed-but-why/15257
