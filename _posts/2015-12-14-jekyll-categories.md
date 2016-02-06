@@ -10,7 +10,7 @@ featured-image:
 og-image: octojekyll-mascot.jpg
 permalink:
 ---
-Categories in Jekyll had me stymied for months. I looked for tutorials and dug trough theme files on GitHub, but couldn't get it to work.
+Categories in Jekyll had me stymied for months. I looked for tutorials and dug through theme files on GitHub, but couldn't get it to work.
 
 Well, finally I've got it. I hope category and tag support will be added to Jekyll core one day, but in the meanwhile here is the workaround I used:
 
@@ -26,9 +26,9 @@ If you want multiple categories you'll need to loop trough them:
 
 In either case you can call them in your post layout like so:
 
-{% highlight html %}
+```html
 {% raw %}{% include post-categories.html %}{% endraw %}
-{% endhighlight %}
+```
 
 ## Category Layout
 
@@ -40,13 +40,13 @@ This is the loop from my blog, but you can create any type of loop you want. Loo
 
 You'll notice I've added "type" in the front matter, this is used to add a body class to my category archives pages for CSS styles. I've added it this way:
 
-{% highlight html %}
+```html
 {% raw %}{% if page.type %} class="{{ page.type }}"{% endraw %}
-{% endhighlight %}
+```
 
 ## Category Page
 
-Next you'll need to add a page for every category. This is the tedious part I hope will one day be added to Jekyll core. But for now I'm adding the category name (in lowercase) and category permalink in the front matter, and the body of the file is my archive intro text.
+Next you'll need to add a page for every category. This is the tedious part I hope will one day be added to Jekyll core, but for now I'm adding the category name (in lowercase) and category permalink in the front matter. The body of the file is my archive intro text.
 
 One note on your permalinks, if you're moving from WordPress and you want your links to have /category/category-name/, add exactly that. I prefer not to use the /category/ sub-directory.
 
@@ -54,9 +54,9 @@ One note on your permalinks, if you're moving from WordPress and you want your l
 
 Don't forget to include the _pages directory in your _config.yml file or Jekyll won't pickup the pages during the build:
 
-{% highlight yaml %}
+```yaml
 {% raw %}include: ["_pages"]{% endraw %}
-{% endhighlight %}
+```
 
 ## Styles
 
