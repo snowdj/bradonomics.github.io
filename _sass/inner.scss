@@ -47,7 +47,8 @@
 .entry-content dl,
 .entry-content .highlight,
 .entry-content .gist,
-.error404 form {
+.error404 form,
+.footnotes {
   margin-left: auto;
   margin-right: auto;
   padding: 0 20px;
@@ -135,6 +136,15 @@ hr:before {
   width: 170px;
   height: 1px;
   background: #ddd;
+}
+
+.footnotes:before {
+  content: "Footnotes:";
+  font-size: 26px;
+}
+
+.footnotes ol {
+  list-style: decimal outside;
 }
 
 .entry-footer {
