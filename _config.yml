@@ -9,7 +9,10 @@ url: http://bradonomics.com
 # Jekyll configuration
 permalink: /:title/
 markdown: kramdown
-highlighter: pygments
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+highlighter: rouge
 encoding: utf-8
 sass:
   sass_dir: _sass
