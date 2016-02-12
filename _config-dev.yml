@@ -12,7 +12,6 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-# highlighter: pygments
 highlighter: rouge
 encoding: utf-8
 sass:
