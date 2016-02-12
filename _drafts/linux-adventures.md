@@ -37,3 +37,6 @@ Read tk about open source software. Decided to give Linux more play time.
 Increased use of linux more and more till everything I needed to do worked as it did on Windows.
 
 By mid-2015 I was 100% Linux.
+
+
+Linux: Fewer Bugs Than Rivals: http://archive.wired.com/software/coolapps/news/2004/12/66022
