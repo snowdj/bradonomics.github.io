@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en-US">
+
+{% include head-noindex.html %}
+
+<body{% if page.type %} class="{{ page.type }} noimage"{% elsif page.featured-image == nil %} class="noimage"{% endif %} itemscope itemtype="http://schema.org/WebPage">
+
+  {% include sidebar.html %}
+
+  {% include header.html %}
+
+  <main class="content">
+    {{ content }}
+  </main>
+
+  {% include footer.html %}
+
+  <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+  <script>
+    var _paq = _paq || [];
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    _paq.push(['setTrackerUrl', '//analytics.bradonomics.com/piwik.php']);
+    _paq.push(['setSiteId', 1]);
+  </script>
+  <script async src="//cdnjs.cloudflare.com/ajax/libs/piwik/2.15.0/piwik.js"></script>
+  <noscript><img src="//analytics.bradonomics.com/piwik.php?idsite=1" style="border:0;"></noscript>
+
+</body>
+</html>
