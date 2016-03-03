@@ -3,20 +3,20 @@ layout: book
 title: The Education of Millionaires — Book Summary
 headline:
 sub-heading:
-description: My summary of Micheal Ellsberg's book The Education of Millionaires.
+description: My summary of Michael Ellsberg's book The Education of Millionaires.
 category: reading list
 category-url: reading-list
 book:
   title: The Education of Millionaires
-  author: Micheal Ellsberg
+  author: Michael Ellsberg
   cover: The-Education-of-Millionaires.jpg
 amazon: http://amzn.com/B0052RDJFE?tag=bnomics-20
 permalink:
 ---
 
-I read an article by Micheal Ellsberg called [8 Steps to Getting What You Want... Without Formal Credentials](http://www.fourhourworkweek.com/blog/2011/09/29/8-steps-to-getting-what-you-want-without-formal-credentials/) when it was first published in September of 2011. At the time it didn't have much affect on me. A few weeks ago a friend recommended the article and I read it again. This time I was ready to hear Ellsberg's message. The book reviews on bradonomics are largely from the advice he gives in that article so I thought it fitting to read and summarize his book.
+I read an article by Michael Ellsberg called [8 Steps to Getting What You Want... Without Formal Credentials](http://www.fourhourworkweek.com/blog/2011/09/29/8-steps-to-getting-what-you-want-without-formal-credentials/) when it was first published in September of 2011. At the time it didn't have much affect on me. A few weeks ago a friend recommended the article and I read it again. This time I was ready to hear Ellsberg's message. The book reviews on bradonomics are largely from the advice he gives in that article so I thought it fitting to read and summarize his book.
 
-If you're already on the "college-isn't-the-best-use-of-time" bandwagon, you can skip the book. It does have a lot of good stories about people finding their way without a university degree but the article above outlines the core of Micheal's approach to educating yourself without the sales pitch that university isn't all it's cracked-up to be.
+If you're already on the "college-isn't-the-best-use-of-time" bandwagon, you can skip the book. It does have a lot of good stories about people finding their way without a university degree but the article above outlines the core of Michael's approach to educating yourself without the sales pitch that university isn't all it's cracked-up to be.
 
 The book, [_The Education of Millionaires_](http://amzn.com/B0052RDJFE?tag=bnomics-20), is broken into seven success skills.
 
