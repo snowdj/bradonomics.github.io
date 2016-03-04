@@ -36,4 +36,4 @@ Nothing I will do for you will require me to be in any particular place and I wo
 
 ## Can we have a quick phone call to chat?
 
-I'll answer the phone for my mom, my girlfriend and a handful of long-time friends. For everyone else, there's email: [brad@bradonomics.com][mailto:brad@bradonomics.com].
+I'll answer the phone for my mom, my girlfriend, and a handful of long-time friends. For everyone else, there's email: [brad@bradonomics.com][mailto:brad@bradonomics.com].

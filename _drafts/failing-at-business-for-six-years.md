@@ -10,6 +10,8 @@ featured-image:
 og-image:
 permalink:
 ---
+(Alternitive title: Facing Inconvenient Truths )
+
 There's a lot of [survivorship bias](//en.wikipedia.org/wiki/Survivorship_bias) in the Digital Nomad, Location Independent Entrepreneurship space. Most of the advice is of the "don't wait, just buy your ticket and go, you'll figure it out when you get there" variety. But maybe that's _not_ what will happen. What follows is my journey from ~2002 till 2015.
 
 I started my career as a computer system administrator. It was fun for about two years. Then I saw some early UFC tapes and all I could think about was becoming a professional fighter. I started training Brazilian Jiu-Jitsu, Muay Thai and Boxing. Every evening after work I would go home and watch Fighters Club TV or some old UFC or Pride fights before going to the gym. Then in 2005 I finally arranged an amateur fight. It is a moment I'll never forget, but it didn't go exactly to plan. I thought I'd prepared such that it would be impossible to get tired. When the first round ended, I was so tired it seemed like my senses were shutting down. My cornermen jumped in the ring and I have no idea what they were saying. All I remember is one of them handing me a water bottle which I looked at, then handed back. Thankfully I was able to finish the fight early in the second round. I have no idea how winded my opponent was, but I doubt I could have continued much longer.
