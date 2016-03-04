@@ -8,7 +8,6 @@ category: reading list
 category-url: reading-list
 featured-image:
 og-image:
-permalink:
 ---
 
 <img class="pullright" src="{{ site.url }}/images/Steal-Like-An-Artist-Austin-Kleon.jpg">

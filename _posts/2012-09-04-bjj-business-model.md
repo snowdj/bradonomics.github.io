@@ -8,7 +8,6 @@ category: martial arts
 category-url: martial-arts
 featured-image:
 og-image:
-permalink:
 ---
 You show up to an academy, try a class for free and if you like it you'll be asked to sign a contract with the school. Most schools do 6-month or 1-year contracts. Most schools ask for some type of electronic funds transfer. And remember, you'll be paying this fee for as long as you attend the school.
 

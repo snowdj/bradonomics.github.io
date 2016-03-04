@@ -8,7 +8,6 @@ category: geekery
 category-url: geekery
 featured-image:
 og-image: octojekyll-mascot.jpg
-permalink:
 ---
 Categories in Jekyll had me stymied for months. I looked for tutorials and dug through theme files on GitHub, but couldn't get it to work.
 

@@ -8,7 +8,6 @@ category: random musings
 category-url: random-musings
 featured-image:
 og-image:
-permalink:
 ---
 There's not enough good periodicals. The only magazine that I've found to be consistently good is [Sunset](http://www.sunset.com/). I had a subscription when I was in the States and would read cover-to-cover each month. I'm always on the lookout for good magazines, blogs and podcasts, and since I'm consistently disappointed in the offerings, I thought I'd talk about what separates the good from the mediocre.
 

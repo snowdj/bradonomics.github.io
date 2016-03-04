@@ -8,7 +8,6 @@ category: geekery
 category-url: geekery
 featured-image:
 og-image:
-permalink:
 ---
 
 ## Setting up GitHub For Hosting

@@ -8,7 +8,6 @@ category: martial arts
 category-url: martial-arts
 featured-image:
 og-image:
-permalink:
 ---
 
 <img class="pullright" src="{{ site.url }}/images/jeff-joslin.jpg">

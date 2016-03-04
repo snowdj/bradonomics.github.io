@@ -11,7 +11,6 @@ book:
   author: Ryan Holiday
   cover: Trust-Me-Im-Lying-Cover.jpg
 amazon: http://amzn.com/159184553X?tag=bnomics-20
-permalink:
 ---
 
 Ryan Holiday works as the Director of Marketing at American Apparel. While working at American Apparel is his day job, he also advises many bestselling authors and multi-platinum musicians, people like Tucker Max and Robert Greene, in the art of media manipulation.

@@ -8,7 +8,6 @@ category: random musings
 category-url: random-musings
 featured-image:
 og-image:
-permalink:
 ---
 Pat Flynn was the first blogger I saw publishing [monthly income reports](http://www.smartpassiveincome.com/tag/monthly-income-report/). Shortly after, a lot of entrepreneurs especially those in the affiliate space jumped on the bandwagon. When these reports first became popular I thought they were great, but quickly saw the limitations. As long as you intend to do something similar to the guy publishing the report they can be helpful, but what if your business is completely different?
 
