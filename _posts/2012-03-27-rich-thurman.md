@@ -25,12 +25,12 @@ I found Rich on Twitter. I don't remember if it was because he posted about a lo
 
 Perfect, I thought. We're both from the States, we're about the same age and, if all else fails, we can talk about MMA.
 
-I met Rich and his partner Faz at Dean & Deluca's outside the Ploenchit BTS station. They'd just come from another meeting and were dressed in slacks and a nice button-down shirts. There I was in jeans and a tee-shirt and I instantly thought "dress for the job you want, not the job you have."
+I met Rich and his partner Faz at Dean & Deluca's outside the Ploenchit BTS station. They'd just come from another meeting and were dressed in slacks and nice button-down shirts. There I was in jeans and a tee-shirt and I instantly thought "dress for the job you want, not the job you have."
 
 Rich told me about what the last five years have been like in Thailand. We talked about the struggle he had developing the concept of his company. Then the struggle he's had building his company. He told me that looking back on it, connections have meant everything in growing his business.
 
 He told me about going to networking events and meeting other entrepreneurs and how these people introduced him to more people. It all gives me encouragement that I'm on the right path with these meetings.
 
-**Update October 2013:** Rich returned to the US only a few months after our meeting. In a private chat via Facebook I asked Rich how he felt about the move. He said that while he missed the warm weather he didn't miss Thailand and told me it was so much easier running a business in the US.
+**Update October 2013:** Rich returned to the US only a few months after our meeting. In a private chat via Facebook, I asked Rich how he felt about the move. He said that while he missed the warm weather he didn't miss Thailand and told me it was so much easier running a business in the US.
 
 If you find yourself in San Francisco and in need of a trainer check out Rich's gym, [Xodus Fitness](http://www.xodusfitness.com/).

@@ -9,18 +9,17 @@ category-url: geekery
 featured-image:
 og-image:
 ---
-
 ## Setting up GitHub For Hosting
 
 After [moving Bradonomics to GitHub Pages](http://bradonomics.com/jekyll/), I realalized—later than I'd like to admit—I'd need a new solution for email. My old web host had SMTP servers, but GitHub doesn't, so I looked around at a few providers till I noticed that Zoho had everything I needed for free.
 
 [Zoho Mail](https://www.zoho.com/mail/zohomail-pricing.html) will host 10 users of 1 domain for free. If you need multiple domains, their first paid plan is cheaper than most other options I researched.
 
-It might be worth mentioning that before all this switch-over, my setup was to forward all my mail to my gmail account and used either Google's SMTP servers or my webhost's servers for outbound mail. I've been wanting to de-couple from the Google Mothership for a while so this seemed a perfect time to try a different approach.
+It might be worth mentioning that before all this switch-over, my setup was to forward all my mail to my Gmail account and used either Google's SMTP servers or my web host's servers for outbound mail. I've been wanting to de-couple from the Google Mothership for a while so this seemed a perfect time to try a different approach.
 
 ## Setting up Zoho Mail
 
-The first thing I did was create an account at at [zoho.com/mail](https://www.zoho.com/mail/), and then head over to the [mail app](https://mail.zoho.com/) to add my domain. Once bradonomics.com was added in the account Zoho required me to [verify that I owned the domain](https://www.zoho.com/mail/help/adminconsole/domain-verification.html).
+The first thing I did was create an account at [zoho.com/mail](https://www.zoho.com/mail/) and then head over to the [mail app](https://mail.zoho.com/) to add my domain. Once bradonomics.com was added in the account Zoho required me to [verify that I owned the domain](https://www.zoho.com/mail/help/adminconsole/domain-verification.html).
 
 ## MX Records for Mail Delivery
 

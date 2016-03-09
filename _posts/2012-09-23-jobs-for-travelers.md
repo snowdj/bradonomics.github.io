@@ -19,7 +19,7 @@ Teaching English is big business in Asia and a lot of people think they'll use t
 
 So if not this, what else is possible to do from the road? With the technology available to you, the only thing stopping you is your mind. You can set up forwarding on a US phone number and it will ring to your cell phone in Bangkok---or in the Himalayan mountains, or wherever you want to be. You can send invoices and documents via email or Google docs or any other online service and no one would know it was sent from an island in Cambodia.
 
-Here's an idea I've got for travelers. With six months of part time study you could learn enough HTML, CSS and PHP to develop your own WordPress themes. And since you're a traveler, you know what travelers are looking for that other developers don't.
+Here's an idea I've got for travelers. With six months of part-time study, you could learn enough HTML, CSS, and PHP to develop your own WordPress themes. And since you're a traveler, you know what travelers are looking for that other developers don't.
 
 Assuming a $1,000 per month baseline, and knowing that the average theme on [Themeforest](http://themeforest.net/) goes for around $50, you'll need to sell 40 themes per month to have an indefinite runway.
 
@@ -41,7 +41,9 @@ Once you've gotten more comfortable you can carve your own niche, and why not ma
 
 Most travelers start their trips on day-one, and after that day-two, and continue in that fashion till they reach the end of their trip. But most blog pagination doesn't allow me to follow in that order. When I look at the pagination of most blogs I start on page one, which in this case means the most recent entries. Even if I go to "last" it's not as easy as it could be to follow the journey from the beginning. And the standard pagination isn't as visually appealing as most traveler bloggers wish it was, but it's all we've got.
 
-<figure><img class="aligncenter" src="{{ site.url }}/images/pagination.jpg" alt="Pagination for Travel Blogger Theme"></figure>
+<figure>
+  <img class="aligncenter" src="{{ site.url }}/images/pagination.jpg" alt="Pagination for Travel Blogger Theme">
+</figure>
 
 The only theme that's doing anything close is [Chapters by WooThemes](http://en.blog.wordpress.com/2011/08/04/new-theme-chapters/). It was designed for authors who want to publish books online. You can follow by chapters in this theme the same way I'd like to follow days in your journey.
 

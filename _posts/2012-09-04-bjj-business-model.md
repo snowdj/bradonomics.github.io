@@ -19,8 +19,8 @@ I hadn't thought about business models for martial arts schools till [Phil Migli
 
 I listened to the whole show and thought about his new model. Then I thought about the current model and asked myself two questions.
 
-  1. What would be the best model from a patron prospective?
-  2. What would be the best model from an owner prospective?
+  1. What would be the best model from a patron perspective?
+  2. What would be the best model from an owner perspective?
 
 As an owner I'd want enough tuition payments to cover rent, utilities, insurance and my own salary, I'd want some assurance that these payments were going to be coming every month, and I'd want to reduce churn as much as possible. I'd spend enough time marketing the school to ensure, at the very least, for every student I lost, I'd gain a new one.
 
@@ -36,7 +36,7 @@ Since you're only getting 18 months of payments from the average student, what i
 
 Most people will still feel like leaving at around 18 months but knowing they can be a lifetime member by sticking around only six more, they likely will stick around. The school owner gets more money per student than they would otherwise and students can see a light at the end of the tunnel.
 
-My numbers could be off and if you've been tracking how long your students stay, you can adjust these numbers to better fit your school. Maybe your average student stays for only one year, or maybe they stay for three. In any case the plan still works---you get more money per student than you would otherwise.
+My numbers could be off and if you've been tracking how long your students stay, you can adjust these numbers to better fit your school. Maybe your average student stays for only one year, or maybe they stay for three. In any case, the plan still works---you get more money per student than you would otherwise.
 
 I'd love to hear thoughts about this model. If you've tried something like this or plan to try, please [email me](mailto:brad@bradonomics.com) and let me know. I'd be very interested in your results.
 

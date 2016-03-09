@@ -12,8 +12,7 @@ book:
   cover: The-Education-of-Millionaires.jpg
 amazon: http://amzn.com/B0052RDJFE?tag=bnomics-20
 ---
-
-I read an article by Michael Ellsberg called [8 Steps to Getting What You Want... Without Formal Credentials](http://www.fourhourworkweek.com/blog/2011/09/29/8-steps-to-getting-what-you-want-without-formal-credentials/) when it was first published in September of 2011. At the time it didn't have much affect on me. A few weeks ago a friend recommended the article and I read it again. This time I was ready to hear Ellsberg's message. The book reviews on bradonomics are largely from the advice he gives in that article so I thought it fitting to read and summarize his book.
+I read an article by Michael Ellsberg called [8 Steps to Getting What You Want... Without Formal Credentials](http://www.fourhourworkweek.com/blog/2011/09/29/8-steps-to-getting-what-you-want-without-formal-credentials/) when it was first published in September of 2011. At the time, it didn't have much affect on me. A few weeks ago a friend recommended the article and I read it again. This time, I was ready to hear Ellsberg's message. The book reviews on bradonomics are largely from the advice he gives in that article so I thought it fitting to read and summarize his book.
 
 If you're already on the "college-isn't-the-best-use-of-time" bandwagon, you can skip the book. It does have a lot of good stories about people finding their way without a university degree but the article above outlines the core of Michael's approach to educating yourself without the sales pitch that university isn't all it's cracked-up to be.
 
@@ -41,9 +40,9 @@ Creating time for experiments if you are working freelance should be easy. But i
 
 ### Step 3: With This New Space, Begin Experimenting!
 
-This step is a bit of a let-down if your hoping to uncover your passion, should you not know it already. There's no real advice on _how_ to experiment or what to look for when you try something. Probably a topic outside the scope of this book...
+This step is a bit of a let-down if you're hoping to uncover your passion, should you not know it already. There's no real advice on _how_ to experiment or what to look for when you try something. Probably a topic outside the scope of this book...
 
-He does say "[m]any people are quite content to leave things here: they have a career that pays the bills and in which they're increasingly making a difference and finding meaning, through exercising leadership. And they also have time during their day or week to pursue meaningful passions outside of work." For these people there's no reason to move to step four.
+He does say "[m]any people are quite content to leave things here: they have a career that pays the bills and in which they're increasingly making a difference and finding meaning, through exercising leadership. And they also have time during their day or week to pursue meaningful passions outside of work." For these people, there's no reason to move to step four.
 
 ### Step 4: Striking Out on Your Own
 
@@ -55,7 +54,7 @@ After talking about what the steps are to "aligning your money and your meaning,
 
 Ellsberg talks about using your "Connection Capital" to build your network. By introducing people when you don't have the skills to help, you've made them a part of your network also. And this seems obvious enough, but how do you use your network to grow your network when you don't _have_ a network?
 
-Michael recommends giving relevant and valuable advice. Even if you think you don't have any advice to offer, you probably do. There are three areas that Eben Pagen, one of the interviewees in the book, says people spend most of their time worrying about. Money, relationships and health. Very few people have all three figured out and if you can uncover the one they need help with, and give good advice, you'll be able to bring them into your network. So how can you uncover their area of worry?
+Michael recommends giving relevant and valuable advice. Even if you think you don't have any advice to offer, you probably do. There are three areas that Eben Pagen, one of the interviewees in the book, says people spend most of their time worrying about. Money, relationships and health. Very few people have all three figured out and if you can uncover the one they need help with and give good advice, you'll be able to bring them into your network. So how can you uncover their area of worry?
 
 > I'm going to teach you two questions that, if you put them into use at parties, events, and conferences, will change your life forever and will grow your network faster than you ever thought possible:
 >
@@ -82,7 +81,7 @@ For Ellsberg, marketing means direct-response copywriting and this chapter is de
 
 ## Success Skill #4: What Every Successful Person Needs to Know About Sales, and How to Teach Yourself
 
-Ellsberg spends the majority of this chapter writing about how sales isn't taught in university and how this is a detriment to students. He finally get's around to saying, "[n]o single skill you could possibly learn correlates more directly with your real-world success than learning sales," and recommends reading [_SPIN Selling_ by Neil Rackham](http://amzn.com/0070511136?tag=bnomics-20).
+Ellsberg spends the majority of this chapter writing about how sales isn't taught in university and how this is a detriment to students. He finally gets around to saying, "[n]o single skill you could possibly learn correlates more directly with your real-world success than learning sales," and recommends reading [_SPIN Selling_ by Neil Rackham](http://amzn.com/0070511136?tag=bnomics-20).
 
 ## Success Skill #5: How to Invest for Success
 
@@ -92,7 +91,7 @@ This chapter is largely about why college isn't a good use of resources and how 
 
 ## Success Skill #6: Build the Brand of You
 
-This chapter is about reputation. Ellsberg says personal branding can be summed in one sentience: "Your brand is what people think about when they hear your name."
+This chapter is about reputation. Ellsberg says personal branding can be summed in one sentence: "Your brand is what people think about when they hear your name."
 
 "If people think 'trustworthy, confident, intelligent, funny, hip, savvy, and up-and-coming' when they hear your name, then that is your brand."
 
@@ -100,7 +99,7 @@ This chapter is about reputation. Ellsberg says personal branding can be summed 
 
 "And if people think absolutely nothing when they hear your name, then you have no brand."
 
-Seth Godin wrote a blog post called [Why bother having a resume?](http://sethgodin.typepad.com/seths_blog/2008/03/why-bother-havi.html) where he said "[g]reat jobs, world class jobs, jobs people kill for... those jobs don't get filled by people emailing in resumes."
+Seth Godin wrote a blog post called [Why bother having a resume?](http://sethgodin.typepad.com/seths_blog/2008/03/why-bother-havi.html) where he said, "[g]reat jobs, world class jobs, jobs people kill for... those jobs don't get filled by people emailing in resumes."
 
 So if you're buying this idea and believe that building a personal brand is the way to go, or that it will help what you're already doing, Michael has a few stories in this chapter to give you a better understanding of how this has worked for other people.
 

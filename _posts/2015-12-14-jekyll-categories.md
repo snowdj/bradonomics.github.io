@@ -9,7 +9,7 @@ category-url: geekery
 featured-image:
 og-image: octojekyll-mascot.jpg
 ---
-Categories in Jekyll had me stymied for months. I looked for tutorials and dug through theme files on GitHub, but couldn't get it to work.
+Categories in Jekyll had me stymied for months. I looked for tutorials and dug through theme files on GitHub but couldn't get it to work.
 
 Well, finally I've got it. I hope category and tag support will be added to Jekyll core one day, but in the meanwhile here is the workaround I used:
 
@@ -23,7 +23,7 @@ If your posts will have a single category:
 If you want multiple categories you'll need to loop trough them:
 <script src="https://gist.github.com/bradonomics/3cce65356f85bb5cb3bb.js"></script>
 
-In either case you can call them in your post layout like so:
+In either case, you can call them in your post layout like so:
 
 ```html
 {% raw %}{% include post-categories.html %}{% endraw %}
@@ -45,7 +45,7 @@ You'll notice I've added "type" in the front matter, this is used to add a body 
 
 ## Category Page
 
-Next you'll need to add a page for every category. This is the tedious part I hope will one day be added to Jekyll core, but for now I'm adding the category name (in lowercase) and category permalink in the front matter. The body of the file is my archive intro text.
+Next you'll need to add a page for every category. This is the tedious part I hope will one day be added to Jekyll core, but for now, I'm adding the category name (in lowercase) and category permalink in the front matter. The body of the file is my archive intro text.
 
 One note on your permalinks, if you're moving from WordPress and you want your links to have /category/category-name/, add exactly that. I prefer not to use the /category/ sub-directory.
 
