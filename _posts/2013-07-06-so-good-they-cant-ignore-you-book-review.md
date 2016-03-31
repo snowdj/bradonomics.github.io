@@ -158,4 +158,4 @@ Cal talks about a three-level pyramid in the section on developing your mission.
 
 The writing of the book leaves much to be desired. It reads like an academic text instead of how you'd expect popular non-fiction to read. Newport repeats himself a lot, as if he were writing a textbook. I found myself, more than once, saying in frustration "you said that already!" With that said, this is a great book and a great argument against the follow your passion message that everyone else preaches.
 
-**Update March 2016:** [Blake Boles wrote his thoughts on Newport's book]( http://www.blakeboles.com/2016/03/book-review-so-good-they-cant-ignore-you/). He covers some things I didn't, so probably worth a reading his article too.
+**Update March 2016:** [Blake Boles wrote his thoughts on Newport's book]( http://www.blakeboles.com/2016/03/book-review-so-good-they-cant-ignore-you/). He covers some things I didn't, so probably worth reading his article too.
