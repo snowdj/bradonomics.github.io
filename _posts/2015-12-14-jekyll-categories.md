@@ -25,7 +25,7 @@ If you want multiple categories you'll need to loop trough them:
 
 In either case, you can call them in your post layout like so:
 
-```html
+```liquid
 {% raw %}{% include post-categories.html %}{% endraw %}
 ```
 
@@ -39,7 +39,7 @@ This is the loop from my blog, but you can create any type of loop you want. Loo
 
 You'll notice I've added "type" in the front matter, this is used to add a body class to my category archives pages for CSS styles. I've added it this way:
 
-```html
+```liquid
 {% raw %}{% if page.type %} class="{{ page.type }}"{% endraw %}
 ```
 
