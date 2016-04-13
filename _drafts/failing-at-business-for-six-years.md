@@ -10,9 +10,9 @@ featured-image:
 og-image:
 permalink:
 ---
-(Alternitive title: Facing Inconvenient Truths )
+(Alternative title: Facing Inconvenient Truths )
 
-There's a lot of [survivorship bias](//en.wikipedia.org/wiki/Survivorship_bias) in the Digital Nomad, Location Independent Entrepreneurship space. Most of the advice is of the "don't wait, just buy your ticket and go, you'll figure it out when you get there" variety. But maybe that's _not_ what will happen. What follows is my journey from ~2002 till 2015.
+There's a lot of [survivorship bias](//en.wikipedia.org/wiki/Survivorship_bias) in the Digital Nomad, Location Independent Entrepreneurship space. Most of the advice is of the "don't wait, just buy your ticket and go, you'll figure it out when you get there" variety. But maybe that's _not_ what will happen. What follows is my journey from ~2002 till 2016.
 
 I started my career as a computer system administrator. It was fun for about two years. Then I saw some early UFC tapes and all I could think about was becoming a professional fighter. I started training Brazilian Jiu-Jitsu, Muay Thai and Boxing. Every evening after work I would go home and watch Fighters Club TV or some old UFC or Pride fights before going to the gym. Then in 2005 I finally arranged an amateur fight. It is a moment I'll never forget, but it didn't go exactly to plan. I thought I'd prepared such that it would be impossible to get tired. When the first round ended, I was so tired it seemed like my senses were shutting down. My cornermen jumped in the ring and I have no idea what they were saying. All I remember is one of them handing me a water bottle which I looked at, then handed back. Thankfully I was able to finish the fight early in the second round. I have no idea how winded my opponent was, but I doubt I could have continued much longer.
 
@@ -54,8 +54,16 @@ Two things converged and I decided to try my hand a marketing. First, when I was
 
 I was intended to stay three months, but I only made it two. I was told before going that the homestay was having a hard time attracting clientele. They had hired an agency, but didn't like the customers the agency sent and were looking for a better fit. Turns out they didn't know what they were looking for, so I'm not sure the agency did anything wrong. It was difficult to come up with a strategy and have them change the target customer. After the third complete change in strategy, I decided to leave.
 
-A few months later I saw an email about a growth hacker position with a local company and applied. The company was willing to give me a shot even though I had little in the way of experience. I did email marketing and the like for about six months, the whole while not liking the work. I then realized it wasn't the homestay or my current employer, it was the work. Marketing, while important, is not fun. Luckily it was about this time that the company shifted focus and wanted to update their website, and even more lucky that all their web developers were away. I was given the job and did well enough to be given client work and have been doing web development since.
+A few months later I saw an email about a growth hacker position with a local company and applied. The company was willing to give me a shot even though I had little in the way of experience. I did email marketing and the like for about six months, the whole while not liking the work. I then realized it wasn't the homestay or my current employer, it was the work itself. Marketing, at least as I was being asked to do it, was not fun.
+
+## Web Development
+
+
+### Some notes on SEO and technical marketing
+
 
 ## Success is Singular
 
 http://timconley.co/success-is-singular/
+
+
