@@ -1,16 +1,26 @@
 /* Code
 -------------------------------------------------- */
-.highlighter-rouge {
+div.highlighter-rouge {
+  max-width: 760px;
   margin-left: auto;
   margin-right: auto;
   padding: 0 20px;
-  max-width: 760px;
-  font-size: 14px;
 }
 
-.highlighter-rouge span {
-  background-color: #2b2b2b;
+li div.highlighter-rouge {
+  padding: 0;
 }
+
+code.highlighter-rouge {
+  font-size: 16px;
+  // color: #cc9393;
+  // background-color: #2b2b2b;
+  // padding: 1px 2px;
+}
+
+// .highlighter-rouge span {
+//   background-color: #2b2b2b;
+// }
 
 figure pre {
   text-align: left;
