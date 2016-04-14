@@ -6,7 +6,7 @@ _site
 # Gulp
 node_modules
 package.json
-glupfile.js
+*.css.map
 
 # Compiled source
 *.com
@@ -15,6 +15,10 @@ glupfile.js
 *.exe
 *.o
 *.so
+*.cab
+*.msi
+*.msm
+*.msp
 
 # Compressed Packages
 *.7z
@@ -31,7 +35,7 @@ glupfile.js
 *.sql
 *.sqlite
 
-# Mac OS generated files
+# OS generated files
 .DS_Store
 .DS_Store?
 ._*
@@ -39,3 +43,18 @@ glupfile.js
 .Trashes
 ehthumbs.db
 Thumbs.db
+.fuse_hidden*
+.Trash-*
+.AppleDouble
+.AppleDB
+.AppleDesktop
+.LSOverride
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.VolumeIcon.icns
+.apdisk
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
