@@ -1,4 +1,4 @@
-All content on bradonomics.com is Copyright (C) 2015 (all rights
+All content on bradonomics.com is Copyright (C) 2010-2016 (all rights
 reserved) by Brad West unless otherwise stated.
 
 The theme files are released under the following:
