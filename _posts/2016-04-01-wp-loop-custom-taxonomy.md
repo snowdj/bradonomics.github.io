@@ -99,6 +99,7 @@ I add this code in its own file in the /inc directory just as I did with the cus
 include_once( get_stylesheet_directory() . '/inc/custom-taxonomies.php' );
 ```
 
+**NOTE:** Including custom post types or custom taxonomies in your child theme's /inc directory is something you'll need to think about before you start coding. If you do include them in the child theme and the theme is changed later, that custom data will no longer be available. It is often better to add custom data like this as a plugin. If that data is added as a plugin it will be available no matter what happens with the theme in the future.
 
 ## Loop Trough Single Taxonomy of a Custom Post Type
 
