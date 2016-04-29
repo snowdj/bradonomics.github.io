@@ -8,7 +8,8 @@ gulp.task('browser-sync', function () {
   browserSync.init({
     server: {
       baseDir: '_site/'
-    }
+    },
+    browser: "firefox"
   });
   gulp.watch('_site/**/*.*').on('change', browserSync.reload);
 });
