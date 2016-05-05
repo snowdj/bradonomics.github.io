@@ -3,7 +3,7 @@
 
 {% include head.html %}
 
-<body{% if page.url == '/' %} class="home"{% elsif page.title == 'Blog' %} class="blog noimage"{% elsif layout.type %} class="{{ layout.type }} noimage"{% elsif page.featured-image == nil %} class="noimage"{% endif %} itemscope itemtype="http://schema.org/WebPage">
+<body{% if page.url == '/' %} class="home"{% elsif page.title == 'Blog' %} class="blog noimage"{% elsif layout.type %} class="{{ layout.type }} noimage"{% elsif page.type %} class="{{ page.type }} noimage"{% elsif page.featured-image == nil %} class="noimage"{% endif %} itemscope itemtype="http://schema.org/WebPage">
 
 {% include sidebar.html %}
 
