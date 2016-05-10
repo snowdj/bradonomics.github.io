@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Jekyll Categories on GitHub Pages
 headline:
 sub-heading:

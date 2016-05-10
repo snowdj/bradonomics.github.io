@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Thoughts on Blogging and Blogs I Wish You'd Start
 headline:
 sub-heading:

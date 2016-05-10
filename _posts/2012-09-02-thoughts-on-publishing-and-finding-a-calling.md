@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Thoughts on Publishing and Finding a Calling
 headline:
 sub-heading:

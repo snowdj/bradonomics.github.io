@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A New Business Model for Brazilian Jiu-Jitsu
 headline:
 sub-heading:

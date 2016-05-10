@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Reading List — March, April and May 2013
 headline:
 sub-heading:

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The $100 Million Question
 headline:
 sub-heading:

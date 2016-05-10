@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ditching Gmail for Zoho and Mailbird
 headline:
 sub-heading:

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: How I Create Custom Genesis Child Themes
 headline:
 sub-heading:

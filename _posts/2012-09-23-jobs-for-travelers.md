@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Jobs for Travelers (or How to Travel Indefinitely)
 headline:
 sub-heading:

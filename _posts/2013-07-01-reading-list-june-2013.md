@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Reading List — June 2013
 headline:
 sub-heading:

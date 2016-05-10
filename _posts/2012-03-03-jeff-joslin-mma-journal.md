@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Jeff Joslin on Keeping a Journal for MMA Training
 headline: Jeff Joslin on Keeping a Journal for MMA Training
 sub-heading:

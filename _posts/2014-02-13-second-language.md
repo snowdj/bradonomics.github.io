@@ -1,6 +1,5 @@
 ---
 redirect_from: /stupid-learn-second-language/
-layout: post
 title: Too Stupid to Learn a Second Language?
 headline:
 sub-heading: How I failed to learn Japanese, Spanish and Thai, and finally found a method of language learning that worked for me.

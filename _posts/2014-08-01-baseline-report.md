@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Baseline Report, Chiang Mai, Thailand
 headline: The Baseline Report, Chiang Mai, Thailand
 sub-heading:

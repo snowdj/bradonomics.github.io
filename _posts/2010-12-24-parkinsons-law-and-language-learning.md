@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Parkinson's Law and Language Learning
 headline:
 sub-heading:

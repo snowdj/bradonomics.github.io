@@ -1,5 +1,4 @@
 ---
-layout: post
 title: How To Loop Through a Single Taxonomy of a Custom Post Type
 headline:
 sub-heading:
