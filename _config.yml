@@ -16,12 +16,22 @@ encoding: utf-8
 sass:
   sass_dir: _sass
   style: compressed
-
 gems:
   - jekyll-redirect-from
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
+defaults:
+- scope:
+    path: ""
+    type: posts
+  values:
+    layout: post
+- scope:
+    path: ""
+    type: pages
+  values:
+    layout: page
 
 include: ["_pages"]
 
