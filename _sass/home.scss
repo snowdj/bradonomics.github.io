@@ -6,6 +6,28 @@
 }
 
 .home section {
-  padding-bottom: 50px;
+  margin-bottom: 50px;
+  clear: both;
 }
 
+.about-long {
+  display: flex;
+  max-width: none;
+  margin: 0 auto;
+  background-color: #0a86bf;
+}
+
+.about-long .column {
+  padding: 40px 40px;
+  background-color: inherit;
+}
+
+.about-long h2,
+.about-long p {
+  color: #fff;
+}
+
+.about-long a {
+  color: #fff;
+  text-decoration: underline;
+}
