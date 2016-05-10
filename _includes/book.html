@@ -1,14 +1,21 @@
 <aside class="book-container" itemscope itemtype="http://schema.org/Book">
-<div class="book-img">
-<a href="{{ page.amazon }}"><img src="{{ site.url }}/images/{{ page.book.cover }}"></a>
-</div>
-<div class="book-info">
-<div class="title" itemprop="name">{{ page.book.title }}</div>
-<div itemprop="author" itemscope itemtype="http://schema.org/Person">
-  <em>by <span itemprop="name">{{ page.book.author }}</span></em></p>
-</div>
-<div class="buy-info">
-<p>Buy the book</p>
-<a href="{{ page.amazon }}"><img src="{{ site.url }}/images/amazon.jpg"></a>
-</div>
+
+  <div class="book-img">
+    <a href="{{ page.amazon }}"><img src="{{ site.url }}/images/{{ page.book.cover }}"></a>
+  </div>
+
+  <div class="book-info">
+
+    <div class="title" itemprop="name">{{ page.book.title }}</div>
+
+    <div itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <em>by <span itemprop="name">{{ page.book.author }}</span></em></p>
+    </div>
+
+    <div class="buy-info">
+      <p>Buy the book</p>
+      <a href="{{ page.amazon }}"><img src="{{ site.url }}/images/amazon.jpg"></a>
+    </div>
+  </div>
+
 </aside>

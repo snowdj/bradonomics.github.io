@@ -5,19 +5,19 @@
 
 <body{% if page.url == '/' %} class="home"{% elsif page.title == 'Blog' %} class="blog noimage"{% elsif layout.type %} class="{{ layout.type }} noimage"{% elsif page.type %} class="{{ page.type }} noimage"{% elsif page.featured-image == nil %} class="noimage"{% endif %} itemscope itemtype="http://schema.org/WebPage">
 
-{% include sidebar.html %}
+  {% include sidebar.html %}
 
-{% include header.html %}
+  {% include header.html %}
 
-<main class="content">
-  {{ content }}
-</main>
+  <main class="content">
+    {{ content }}
+  </main>
 
-{% include footer.html %}
+  {% include footer.html %}
 
-<label for="sidebar-checkbox" class="sidebar-toggle"></label>
+  <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
-{% if jekyll.environment == 'production' %}{% include analytics.html %}{% endif %}
+  {% if jekyll.environment == 'production' %}{% include analytics.html %}{% endif %}
 
 </body>
 </html>
