@@ -42,6 +42,7 @@
 .entry-content h5,
 .entry-content h6,
 .entry-content p,
+.entry-content ol,
 .entry-content ul,
 .entry-content dl,
 .entry-content .gist,
@@ -55,10 +56,12 @@
 
 .entry-content ol {
   max-width: 710px;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 0 20px;
   list-style: decimal outside;
+}
+
+.entry-content ul {
+  max-width: 710px;
+  list-style: disc outside;
 }
 
 .entry-content ol p {
