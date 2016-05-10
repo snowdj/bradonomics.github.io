@@ -166,6 +166,21 @@ hr:before {
   }
 }
 
+.after-post-widget {
+  max-width: 760px;
+  margin: 0 auto 25px;
+  padding: 40px;
+  background-color: #0a86bf;
+}
+
+.after-post-widget p {
+  margin-bottom: 0;
+  color: #fff;
+}
+
+.after-post-widget a {
+  color: #fff;
+}
 
 /* Entry Meta
 -------------------------------------------------- */
@@ -201,88 +216,4 @@ hr:before {
 
 .entry-categories a {
   text-transform: capitalize;
-}
-
-/* Alerts
--------------------------------------------------- */
-.alert {
-  max-width: 720px;
-  margin: 0 auto 20px;
-  padding: 15px;
-  border: 1px solid transparent;
-  border-radius: 4px;
-}
-
-.alert h4 {
-  margin-top: 0;
-  color: inherit;
-}
-
-.alert > p,
-.alert > ul {
-  margin-bottom: 0;
-}
-
-.alert > p + p {
-  margin-top: 5px;
-}
-
-.alert-success {
-  color: #3c763d;
-  background-color: #dff0d8;
-  border-color: #d6e9c6;
-}
-
-.alert-success hr {
-  border-top-color: #c9e2b3;
-}
-
-.alert-success .alert-link {
-  color: #2b542c;
-  text-decoration: underline;
-}
-
-.alert-info {
-  color: #31708f;
-  background-color: #d9edf7;
-  border-color: #bce8f1;
-}
-
-.alert-info hr {
-  border-top-color: #a6e1ec;
-}
-
-.alert-info .alert-link {
-  color: #245269;
-  text-decoration: underline;
-}
-
-.alert-warning {
-  color: #8a6d3b;
-  background-color: #fcf8e3;
-  border-color: #faebcc;
-}
-
-.alert-warning hr {
-  border-top-color: #f7e1b5;
-}
-
-.alert-warning .alert-link {
-  color: #66512c;
-  text-decoration: underline;
-}
-
-.alert-danger {
-  color: #a94442;
-  background-color: #f2dede;
-  border-color: #ebccd1;
-}
-
-.alert-danger hr {
-  border-top-color: #e4b9c0;
-}
-
-.alert-danger .alert-link {
-  color: #843534;
-  text-decoration: underline;
 }
