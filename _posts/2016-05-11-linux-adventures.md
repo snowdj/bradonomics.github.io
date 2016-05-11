@@ -1,7 +1,7 @@
 ---
 title: Adventures in Open Source (or How I Made the Switch to Linux)
-headline:
-sub-heading:
+headline: Adventures in Open Source
+sub-heading: How I Made the Switch to Linux
 description: It took me over 10 years to make the switch to Linux. This is the story of how I did it.
 category: geekery
 category-url: geekery
