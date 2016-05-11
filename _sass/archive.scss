@@ -33,9 +33,10 @@
     display: block;
     float: left;
     margin: 0;
-    padding: 9px 20px 0;
+    padding: 12px 20px 0;
     background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAABCAYAAACsXeyTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAFUlEQVQIHWNIS0sr/v//PwMMDzY+ADqMahlW4J91AAAAAElFTkSuQmCC') repeat-x;
     background-position: top;
+    font-family: $secondary-font-family;
     font-size: 36px;
   }
 }
