@@ -4,21 +4,14 @@
 
 /* Variables
 -------------------------------------------------- */
-// $primary-font-family: 'Gentium Basic', Georgia, serif;
-// $secondary-font-family: Poppins, Helvetica, Arial, sans-serif;
-//
-// $primary-color: #166678;
+// $primary-font-family: Merriweather, serif;
+$primary-font-family: 'Noto Serif', serif;
+
+// $secondary-font-family: Bitter, Georgia, serif;
+$secondary-font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+
+$primary-color: #0a86bf;
 // $secondary-color: #7DB9B3;
-//
-// $header-background-color: #2E3837;
-// $header-text-color: #E1F6F4;
-// $footer-background-color: #2E3837;
-// $footer-text-color: #E1F6F4;
-//
-// $front-page-1-background: #E1F6F4;
-// $front-page-2-background: url('/images/profile.jpg');
-// $front-page-3-background: #7DB9B3;
-// $front-page-4-background: url('/images/flock.jpg');
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

@@ -27,13 +27,13 @@
 }
 
 .entry-title a:hover {
-	color: #0A86BF;
+	color: $primary-color;
 }
 
-.entry-header .entry-meta {
-  color: #B0B0B0;
+.sub-heading {
+  color: #9EABB3;
   font-size: 25px;
-  font-family: Bitter, Georgia, serif;
+  font-family: $primary-font-family;
 }
 
 .entry-content h2,
@@ -147,13 +147,19 @@ hr:before {
   background: #ddd;
 }
 
+.footnotes {
+  font-family: $secondary-font-family;
+}
+
 .footnotes:before {
   content: "Footnotes:";
   font-size: 26px;
+  font-weight: 700;
 }
 
 .footnotes ol {
   list-style: decimal outside;
+  font-family: $primary-font-family;
 }
 
 .entry-footer {
@@ -184,6 +190,12 @@ hr:before {
 
 /* Entry Meta
 -------------------------------------------------- */
+.entry-meta {
+  font-family: $secondary-font-family;
+  font-size: 15px;
+  color: #9EABB3;
+}
+
 .blog .entry-meta,
 .archive .entry-meta {
   padding-top: 0;
@@ -199,7 +211,7 @@ hr:before {
 }
 
 .entry-time {
-  margin-right: 30px;
+  margin-right: 18px;
 }
 
 .entry-time:before {

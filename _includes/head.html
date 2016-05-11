@@ -4,18 +4,18 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.content | strip_html | strip_newlines | strip | truncate: 160 }}{% endif %}">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="{{ site.twitter }}">
   <meta name="twitter:url" property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta name="twitter:title" property="og:title" content="{{ page.title }}">
-  <meta name="twitter:description" property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
+  <meta name="twitter:description" property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.content | strip_html | strip_newlines | strip | truncate: 160 }}{% endif %}">
   <meta name="twitter:image" property="og:image" content="{% if page.book.cover %}{{ site.url }}/images/{{ page.book.cover }}{% elsif page.og-image %}{{ site.url }}/images/{{ page.og-image }}{% elsif page.featured-image %}{{ site.url }}/images/{{ page.featured-image }}{% else %}{{ site.url }}/images/brad-west-theme-300x225.jpg{% endif %}">
   <link rel="author" href="{{ site.google-plus }}">
   <meta http-equiv="x-dns-prefetch-control" content="on">
   <link rel="dns-prefetch" href="//fonts.googleapis.com">
   <link rel="alternate" type="application/rss+xml" title="Bradonomics" href="http://feeds.feedburner.com/bradonomics">
-  {% if page.category == "geekery" %}<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Bitter:400,700|Oswald|Merriweather:400,700,400italic|Oxygen+Mono">{% else %}<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Bitter:400,700|Oswald|Merriweather:400,700,400italic">{% endif %}
+  {% if page.category == "geekery" %}<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:700|Oswald|Noto+Serif:400,400italic,700|Oxygen+Mono">{% else %}<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:700|Oswald|Noto+Serif:400,400italic,700">{% endif %}
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="{{ site.url }}/css/style.css">
 </head>
