@@ -7,7 +7,7 @@ permalink: /brown-autobiography/
 
 What follows was written by Dr J. Marvin Brown in the early 2000s. It's an autobiography about Dr Brown's life as a linguist. The copyright is held by J. Marvin Brown & Kwansuang Brown, I'm merely publishing the book here as a means of promoting something that had such a tremendous impact on my life.
 
-The original version, including the appendixes, can be found on the [ALG World site](http://algworld.com/) or the [University of Utah's site](http://home.utah.edu/~u0029752/contents.html).
+The original version, including the appendixes, can be found on the [ALG World site](http://algworld.com/).
 
 ### Contents
 [Preface](#preface) \\
