@@ -1,6 +1,10 @@
 var gulp        = require('gulp'),
     shell       = require('gulp-shell'),
-    browserSync = require('browser-sync');
+    browserSync = require('browser-sync').create();
+
+
+//* Run Jekyll build and serve commands
+gulp.task('build', shell.task(['jekyll build --config _config-dev.yml --incremental --watch']));
 
 
 //* BrowserSync
@@ -9,14 +13,11 @@ gulp.task('browser-sync', function () {
     server: {
       baseDir: '_site/'
     },
-    browser: "firefox"
+    browser: "firefox",
+    reloadDelay: 900
   });
   gulp.watch('_site/**/*.*').on('change', browserSync.reload);
 });
-
-
-//* Run Jekyll build and serve commands
-gulp.task('build', shell.task(['jekyll build --config _config-dev.yml --watch']));
 
 
 // Default task (build and serve)
