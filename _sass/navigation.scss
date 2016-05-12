@@ -21,7 +21,7 @@ nav a.active,
 .menu-item:hover,
 .menu-item:focus {
   text-decoration: none;
-  background-color: #0a86bf;
+  background-color: $primary-color;
   border-color: transparent;
 }
 
@@ -70,7 +70,7 @@ nav a:hover {
   width: 46px;
   padding: 10px 13px;
   color: #fff;
-  background-color: #0a86bf;
+  background-color: $primary-color;
   cursor: pointer;
   z-index: 999;
 }

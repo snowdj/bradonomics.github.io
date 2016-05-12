@@ -32,7 +32,7 @@
   font-size: 25px;
   line-height: 1;
   text-transform: uppercase;
-  background-color: #0a86bf;
+  background-color: $primary-color;
 }
 @media (min-width: 400px) {
   .footer-logo {
@@ -70,5 +70,5 @@ a.footer-logo:hover {
 }
 
 .footer-notices a:hover {
-  color: #0A86BF;
+  color: $primary-color;
 }
