@@ -30,10 +30,24 @@ sudo add-apt-repository ppa:ubuntu-mozilla-daily/firefox-aurora
 sudo apt-get update && sudo apt-get install firefox/trusty
 ```
 
-In my experience installing Firefox Developers Edition via PPA only works about half the time. No idea why but when it fails I install it manually. First download the .tar file from the [Mozilla site](https://www.mozilla.org/en-US/firefox/developer/), then extract the file, then move the extracted files to the `/opt` directory, and finally create a symlink so terminal processes can find it. (Note: if the PPA install worked, you won't need to do this.)
+In my experience installing Firefox Developers Edition via PPA only works about half the time. No idea why it doesn't work, but when it fails I install it manually. First download the .tar file from the [Mozilla site](https://www.mozilla.org/en-US/firefox/developer/), then extract the file, then move the extracted files to the `/opt` directory, and finally create a symlink so terminal processes can find it. (Note: if the PPA install worked, you won't need to do this.)
 
 ```
-ln -s /opt/firefox/firefox /usr/bin/firefox
+sudo ln -s /opt/firefox/firefox /usr/bin/firefox
+```
+
+To have an icon in your menu, you'll need to create a file called `firefox.desktop` in `/home/brad/.local/share/applications`. The contents of that file should look like this:
+
+```
+[Desktop Entry]
+Name=Firefox
+GenericName=Firefox Developer Edition
+Exec=/opt/firefox/firefox
+Terminal=false
+Icon=/opt/firefox/browser/icons/mozicon128.png
+Type=Application
+Categories=Application;Network;X-Developer;
+Comment=Firefox Developer Edition Web Browser.
 ```
 
 ### Skype
@@ -105,7 +119,7 @@ Get terminal install command here: [https://calibre-ebook.com/download_linux](ht
 
 ### VLC
 
-Installed by default with Linux Mint; otherwise it should be available in the Software Center.
+Installed by default with Linux Mint; otherwise it should be available in the Software Manager.
 
 #### Codec for h.265
 
