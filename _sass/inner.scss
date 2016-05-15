@@ -48,19 +48,19 @@
 .entry-content .gist,
 .error404 form,
 .footnotes {
-  max-width: 760px;
+  max-width: 600px;
   margin-left: auto;
   margin-right: auto;
   padding: 0 20px;
 }
 
 .entry-content ol {
-  max-width: 710px;
+  max-width: 560px;
   list-style: decimal outside;
 }
 
 .entry-content ul {
-  max-width: 710px;
+  max-width: 560px;
   list-style: disc outside;
 }
 
@@ -163,17 +163,13 @@ hr:before {
 }
 
 .entry-footer {
+  max-width: 600px;
   margin: 0 auto;
   padding: 0 20px;
 }
-@media (min-width: 750px) {
-  .entry-footer {
-    max-width: 760px;
-  }
-}
 
 .after-post-widget {
-  max-width: 760px;
+  max-width: 640px;
   margin: 0 auto 25px;
   padding: 40px;
   background-color: $primary-color;
@@ -202,13 +198,13 @@ hr:before {
 }
 
 .entry-time, .entry-categories {
-  display: block;
+  display: inline;
 }
-@media (min-width: 550px) {
-  .entry-time, .entry-categories {
-    display: inline;
-  }
-}
+// @media (min-width: 550px) {
+//   .entry-time, .entry-categories {
+//     display: inline;
+//   }
+// }
 
 .entry-time {
   margin-right: 18px;
