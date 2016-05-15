@@ -13,7 +13,7 @@ gulp.task('browser-sync', function () {
     server: {
       baseDir: '_site/'
     },
-    browser: "firefox",
+    browser: 'firefox',
     reloadDelay: 900
   });
   gulp.watch('_site/**/*.*').on('change', browserSync.reload);
