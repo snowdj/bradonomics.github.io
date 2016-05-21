@@ -1,7 +1,16 @@
+#goog-fixurl .other-things{
+  display: none;
+}
+
+#goog-fixurl ul {
+  max-width: 600px;
+  list-style: none;
+}
+
 #goog-fixurl form {
   display: inline-flex;
 }
 
-#goog-fixurl .other-things{
-  display: none;
+#goog-fixurl input[type="text"] {
+  max-width: 58%;
 }
