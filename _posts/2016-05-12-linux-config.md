@@ -183,6 +183,7 @@ Install Packages:
  - [linter](https://atom.io/packages/linter)
  - [linter-jshint](https://atom.io/packages/linter-jshint)
  - [linter-php](https://atom.io/packages/linter-php)
+ - [php-debug](https://atom.io/packages/php-debug)
  - [highlight-selected](https://atom.io/packages/highlight-selected)
  - [pigments](https://atom.io/packages/pigments)
 
