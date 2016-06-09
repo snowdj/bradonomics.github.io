@@ -4,7 +4,7 @@ description: The Blog of Brad West
 google-plus: https://plus.google.com/103163741383795666289
 twitter: "@bradonomics"
 baseurl: ""
-url: http://bradonomics.com
+url: https://bradonomics.com
 
 # Jekyll configuration
 permalink: /:title/
@@ -18,9 +18,9 @@ sass:
   style: compressed
 gems:
   - jekyll-redirect-from
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
+  #  - jekyll-paginate
 defaults:
 - scope:
     path: ""
