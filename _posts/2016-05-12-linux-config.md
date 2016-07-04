@@ -9,7 +9,7 @@ featured-image:
 og-image: linux-adventures.jpg
 ---
 
-What follows is mostly for me. Every couple of years when I buy a new computer and have to reload my operating system I want an easy way to remember what to install and how I had it configured. There's little explanation as to _why_ I use the software or configuration settings below, it's just what I like.
+What follows is mostly for me. Every couple of years when I buy a new computer and have to reload my operating system. I want an easy way to remember what to install and how I had it configured. There's little explanation as to _why_ I use the software or configuration settings below, it's just what I like.
 
 **A quick aside:**
 
@@ -36,7 +36,7 @@ In my experience installing Firefox Developers Edition via PPA only works about 
 sudo ln -s /opt/firefox/firefox /usr/bin/firefox
 ```
 
-To have an icon in your menu, you'll need to create a file called `firefox.desktop` in `/home/brad/.local/share/applications`. The contents of that file should look like this:
+To have an icon in your menu, you'll need to create a file called `firefox.desktop` in `~/.local/share/applications`. The contents of that file should look like this:
 
 ```
 [Desktop Entry]
@@ -172,6 +172,8 @@ Under Edit -> Preferences
  - Check Scroll Past End
  - Check Show Indent Guide
 
+Under the Theme Settings change the UI Theme to One Dark and the Syntax Theme to Atom Dark.
+
 Install Packages:
 
  - [autoprefixer](https://atom.io/packages/autoprefixer)
@@ -198,6 +200,15 @@ atom-text-editor::shadow pigments-markers::shadow pigments-color-marker.dot,
 pigments-markers::shadow pigments-color-marker.dot,
 pigments-color-marker.dot {
   transform: translate(0, -50%) scale(.7);
+}
+```
+
+While you're in the stylesheet, add the following so the tab sizes are a normal width and not only the size of the file name.
+
+```
+[theme-one-dark-ui-tabsizing="auto"] .tab,
+[theme-one-dark-ui-tabsizing="auto"] .tab.active {
+  flex: 1;
 }
 ```
 
