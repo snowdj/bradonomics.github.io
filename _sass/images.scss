@@ -103,14 +103,25 @@ img.pullright {
   }
 }
 
+/* Figures
+-------------------------------------------------- */
+
 figure {
   position: relative;
-  margin: 0;
+  margin: 0 auto;
   text-align: center;
 }
 
 figure img {
   margin-bottom: 24px;
+}
+
+figure.caption {
+  margin-bottom: 24px;
+}
+
+figure.caption img {
+  margin-bottom: 0;
 }
 
 figure.one-half {
@@ -148,4 +159,15 @@ figure.one-third {
     padding-right: 15px;
     padding-left: 15px;
   }
+}
+
+figcaption {
+  color: #898989;
+  font-size: 12px;
+  font-family: $secondary-font-family;
+  margin: 6px 20px 18px;
+  border-bottom: 1px solid #e2e2e3;
+  padding-bottom: 4px;
+  padding-top: 5px;
+  text-align: left;
 }
