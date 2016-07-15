@@ -31,9 +31,9 @@ Also, this report is the expenses for two people. I found it difficult to list m
 The first six months I lived in Thailand I was renting a condo for 10,000 baht. It was owned by an English lady and she'd posted the details on the internet. It was near my university and available so I took it. Below are some photos:
 
 <figure class="one-third">
-  <img src="{{ site.url }}/images/baseline-report/Hillside-Condo-1.jpg" alt="Condo in Chiang Mai">
-  <img src="{{ site.url }}/images/baseline-report/Hillside-Condo-2.jpg" alt="Hillside Condo Chiang Mai">
-  <img src="{{ site.url }}/images/baseline-report/Hillside-Condo-3.jpg" alt="Hillside Payap Condo">
+  <a href="{{ site.url }}/images/baseline-report/Hillside-Condo-1.jpg"><img src="{{ site.url }}/images/baseline-report/Hillside-Condo-1.jpg" alt="Condo in Chiang Mai"></a>
+  <a href="{{ site.url }}/images/baseline-report/Hillside-Condo-2.jpg"><img src="{{ site.url }}/images/baseline-report/Hillside-Condo-2.jpg" alt="Hillside Condo Chiang Mai"></a>
+  <a href="{{ site.url }}/images/baseline-report/Hillside-Condo-3.jpg"><img src="{{ site.url }}/images/baseline-report/Hillside-Condo-3.jpg" alt="Hillside Payap Condo"></a>
 </figure>
 
 ### Cheaper Options
@@ -41,11 +41,11 @@ The first six months I lived in Thailand I was renting a condo for 10,000 baht. 
 There are more expensive options and cheaper options. Below is a dormitory style room in an apartment building near Payap University. It's not the nicest place, but it does have air conditioning and a hot shower. A room like this will run about 2,300-2,800 per month.
 
 <figure class="one-half">
-  <img src="{{ site.url }}/images/baseline-report/Racha-1.jpg" alt="Racha Apartment">
-  <img src="{{ site.url }}/images/baseline-report/Racha-2.jpg" alt="Racha Condo">
+  <a href="{{ site.url }}/images/baseline-report/Racha-1.jpg"><img src="{{ site.url }}/images/baseline-report/Racha-1.jpg" alt="Racha Apartment"></a>
+  <a href="{{ site.url }}/images/baseline-report/Racha-2.jpg"><img src="{{ site.url }}/images/baseline-report/Racha-2.jpg" alt="Racha Condo"></a>
 </figure>
 <figure>
-  <img src="{{ site.url }}/images/baseline-report/Racha-3.jpg" alt="Dorm near Payap University">
+  <a href="{{ site.url }}/images/baseline-report/Racha-3.jpg"><img src="{{ site.url }}/images/baseline-report/Racha-3.jpg" alt="Dorm near Payap University"></a>
 </figure>
 
 I wrote a blog post when I was in university called [Dorm Alternatives: Condos & Houses](http://payapuniversity.blogspot.com/2010/12/dorm-alternatives-condos-houses.html). It holds up well even four years later. And, for single women, there are [Women Only Dorms](//payapuniversity.blogspot.com/2011/02/women-only-dorms-blessing-place.html) near the universities.
@@ -82,7 +82,7 @@ I hope the graph above is making sense by this point. But one thing to note abou
 
 What if you are working and don't have time for all this school business? You might be able to get a business VISA. I've spoken to a few people who've gotten a business VISA by contacting a Thailand law firm and explaining that they are looking to start a business in Thailand and need VISA sponsorship. The law firm will charge a fee to draw the papers, but then you'll have the paperwork you need to get a one-year business VISA. (I have a feeling this option won't be around much longer as the system is getting harder and harder to hack. But it does work as I'm writing this.)
 
-## The Numbers (or How Much Will if Cost You?)
+## The Numbers (or How Much Will it Cost You?)
 
 I think it's important when talking about how much it costs to live in a place like Chiang Mai that you don't use blanket statements like "you can live a good life there on $1,000/month." It's better if you talk about what's possible and what's probable. It's possible that you can live on $500-$600 per month---VISA runs included---I've done it for years. It's more likely that you'll spend more. [Kevin and Richard spent about $2,000/month](http://www.nichesitenomads.com/burn-rate-report-month-5-may-2014/).
 
