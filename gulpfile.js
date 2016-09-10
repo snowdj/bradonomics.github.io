@@ -4,8 +4,8 @@ var gulp        = require('gulp'),
 
 
 //* Run Jekyll build and serve commands
-gulp.task('build', shell.task(['jekyll build --config "_config.yml,_config-dev.yml" --incremental --watch']));
-// gulp.task('build', shell.task(['jekyll build --config "_config.yml,_config-dev.yml" --watch']));
+// gulp.task('build', shell.task(['jekyll build --config "_config.yml,_config-dev.yml" --incremental --watch']));
+gulp.task('build', shell.task(['jekyll build --config "_config.yml,_config-dev.yml" --watch']));
 
 
 //* BrowserSync
@@ -14,7 +14,7 @@ gulp.task('browser-sync', function () {
     server: {
       baseDir: '_site/'
     },
-    browser: 'firefox',
+    // browser: 'firefox',
     reloadDelay: 300
   });
   gulp.watch('_site/**/*.*').on('change', browserSync.reload);
