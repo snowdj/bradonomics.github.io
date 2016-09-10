@@ -256,6 +256,17 @@ export APACHE_RUN_USER=username
 export APACHE_RUN_GROUP=www-data
 ```
 
+Navigate to `/etc/apache2/sites-available/000-default.conf`. Add the below to enable Apache mod_rewrite.
+
+```
+<Directory /var/www/html>
+  Options Indexes FollowSymLinks MultiViews
+  AllowOverride All
+  Order allow,deny
+  allow from all
+</Directory>
+```
+
 (Probably best not to run any of the above on production systems.)
 
 ### Node & NPM
